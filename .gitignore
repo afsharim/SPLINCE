@@ -1,2 +1,6 @@
 .env/*
 data/CelebA/images/*
+data/bios/*
+data/multilingual/test/*
+data/multilingual/train/*
+data/multilingual/val/*
