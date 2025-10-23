@@ -14,31 +14,7 @@ from torch.utils.data import Dataset, DataLoader
 from data import prepare_tokenized_data
 from model import ProjectionLayer, load_projection, ModelWithProj,load_model_and_tokenizer
 
-def get_visible_token(tokenizer, token_id):
-    """
-    Get a visible representation of a token.
-    
-    Args:
-        tokenizer: The tokenizer
-        token_id: The token ID to decode
-    
-    Returns:
-        A visible representation of the token
-    """
-    # First try standard decode
-    token = tokenizer.decode([token_id])
-    
-    # If empty string, try to get token from vocabulary
-    if token == '':
-        if hasattr(tokenizer, 'convert_ids_to_tokens'):
-            # Get the raw token representation
-            vocab_token = tokenizer.convert_ids_to_tokens(token_id)
-            token = f"<{vocab_token}>"
-        else:
-            # Fallback if convert_ids_to_tokens not available
-            token = f"<id:{token_id}>"
             
-    return token
 
 def get_pred(model, tokenizer, inputs, max_length=None):
     """
@@ -85,15 +61,15 @@ def get_pred(model, tokenizer, inputs, max_length=None):
     
     # get the token of the max prob - explicitly handle empty string case
     max_tokens = []
-    for index in max_indices:
+    unvisible_tokens = [198]  # Define your list of tokens to filter out
+    
+    # Process each example in the batch individually
+    for i, index in enumerate(max_indices):
         token_id = index.item()
-        token = get_visible_token(tokenizer, token_id)
+        # Pass only the probabilities for this specific example (1D tensor)
+        token = tokenizer.decode([token_id])
         max_tokens.append(token)
-    
-    # Also return the raw token IDs and their probabilities for debugging
-    token_ids = max_indices.cpu().tolist()
-    token_probs = max_probs.cpu().tolist()
-    
+ 
     # Clean up
     del probs, max_probs, max_indices
     # Memory cleanup
@@ -282,9 +258,6 @@ def calc_coreference(model, tokenizer, dataset_path, batch_size,
     # Read dataset
     df = pd.read_csv(dataset_path)
     
-    print(model.lm_head)
-    sys.exit()
-    
     # get the prompts
     prompts = df['prompt'].tolist()
     
@@ -307,13 +280,20 @@ def calc_coreference(model, tokenizer, dataset_path, batch_size,
     
     # remove nan values
     professions_for_tok_str = [prof for prof in professions_for_tok if isinstance(prof, str)]
+    #orrect_tok = self.tok.decode(self.tok.encode(" ".join(profession.split(" ")[1:]))[0])
     
     # get their tokens
-    profession_tokenized =[tokenizer.decode(tokenizer.encode(prof)[1]) for prof in professions_for_tok_str]
-
+    profession_tokenized = [
+    tokenizer.decode(tokenizer.encode(prof)[1 if len(tokenizer.encode(prof)) > 1 else 0]) 
+    for prof in professions_for_tok_str
+    ]
     # map the tokens to the professions
     profession_map = {prof: token for token, prof in zip(profession_tokenized, professions_for_tok)}
+    print('before mapping')
+    print(df['profession_for_tokenizer'].head())
     df['correct_tok'] = df['profession_for_tokenizer'].map(profession_map)
+    print('after mapping')
+    print(df['correct_tok'].head())
     
     return df
     
@@ -331,7 +311,7 @@ def main(args):
     model, tokenizer = load_model_and_tokenizer(
             model_name=args.model_name,
             model_type=args.model_type,
-            task_type="causal-lm" if args.model_type == "llama" else None,
+            task_type="causal-lm" if args.model_type in ['llama', 'mistral', 'phi'] else None,
             device_map=args.device,
             torch_dtype=args.torch_dtype
     )
@@ -378,13 +358,13 @@ def main(args):
                 projection_method=projection_params["projection_method"],
                 layer_id=layer_id,
                 embedding_strategy=projection_params["embedding_strategy"],
-                projections_dir=f"projections/{projection_params['dataset']}",
+                projections_dir=f"results/llms/{projection_params['dataset']}",
                 layer_folder=layers_folder,
                 independent_layers=args.independent_layers
             )
             
              # Determine which layer to register the hook on
-            if layer_id != 'lm_head' and args.model_type == "llama":
+            if layer_id != 'lm_head' and args.model_type in ["llama", 'mistral']:
                 # Register projection hook for the next layer
                 layer_to_register = layer_id + 1
             else:
@@ -460,17 +440,21 @@ def main(args):
     print('df.head()')
     print(df.head())
     
-    # create the output folder if it does not exist
-    output_folder = Path(args.output_folder if not None else 'data/result_data')
+    # Create the output folder if it does not exist
+    output_folder = Path(args.output_folder if args.output_folder is not None else 'data/result_data')
     if not output_folder.exists():
         print(f"Creating output folder: {output_folder}")
         output_folder.mkdir(parents=True, exist_ok=True)
-    
-    # define the output path
+
+    # Define the output path
     output_path = f'{args.output_folder}/{args.dataset}_professions_{model_name_short}{suffix}.csv'
+
+    # Create the parent directory of the output file if it doesn't exist
+    output_file_path = Path(output_path)
+    output_file_path.parent.mkdir(parents=True, exist_ok=True)
+
     print(f"Saving results to {output_path}")
     df.to_csv(output_path, index=False)
-    print(f"Results saved to {output_path}")
 
 if __name__ == "__main__":
     # Add progress bar to pandas
@@ -483,7 +467,7 @@ if __name__ == "__main__":
     parser.add_argument('--model_name', type=str, default='meta-llama/Llama-2-7b-hf',
                       help='Model name to use')
     parser.add_argument('--model_type', type=str, default='llama',
-                      help='Model type (llama or bert)')
+                      help='Model type (llama, bert, mistral, phi)')
     parser.add_argument('--batch_size', type=int, default=32)
     parser.add_argument('--max_length', type=int, default=None,
                       help='Maximum sequence length for tokenization (calculated from data if not provided)')

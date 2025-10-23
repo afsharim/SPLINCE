@@ -1,0 +1,186 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "multilingual_toxicity_dataset",
+  "dataset_size": 11846458,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/en-00000-of-00001.parquet": {
+      "num_bytes": 266723,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/ru-00000-of-00001.parquet": {
+      "num_bytes": 387844,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/uk-00000-of-00001.parquet": {
+      "num_bytes": 359585,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/de-00000-of-00001.parquet": {
+      "num_bytes": 613537,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/es-00000-of-00001.parquet": {
+      "num_bytes": 641487,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/am-00000-of-00001.parquet": {
+      "num_bytes": 607382,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/zh-00000-of-00001.parquet": {
+      "num_bytes": 247936,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/ar-00000-of-00001.parquet": {
+      "num_bytes": 502661,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/hi-00000-of-00001.parquet": {
+      "num_bytes": 800181,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/it-00000-of-00001.parquet": {
+      "num_bytes": 521809,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/fr-00000-of-00001.parquet": {
+      "num_bytes": 388390,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/he-00000-of-00001.parquet": {
+      "num_bytes": 129080,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/hin-00000-of-00001.parquet": {
+      "num_bytes": 473126,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/tt-00000-of-00001.parquet": {
+      "num_bytes": 411152,
+      "checksum": null
+    },
+    "hf://datasets/textdetox/multilingual_toxicity_dataset@01907546324b0330d2d8b7669648cc18823323e5/data/ja-00000-of-00001.parquet": {
+      "num_bytes": 451202,
+      "checksum": null
+    }
+  },
+  "download_size": 6802095,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "toxic": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "lang": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 18648553,
+  "splits": {
+    "en": {
+      "name": "en",
+      "num_bytes": 411803,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "ru": {
+      "name": "ru",
+      "num_bytes": 710626,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "uk": {
+      "name": "uk",
+      "num_bytes": 631220,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "de": {
+      "name": "de",
+      "num_bytes": 941642,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "es": {
+      "name": "es",
+      "num_bytes": 979375,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "am": {
+      "name": "am",
+      "num_bytes": 1103253,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "zh": {
+      "name": "zh",
+      "num_bytes": 359860,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "ar": {
+      "name": "ar",
+      "num_bytes": 890286,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "hi": {
+      "name": "hi",
+      "num_bytes": 1843287,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "it": {
+      "name": "it",
+      "num_bytes": 791694,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "fr": {
+      "name": "fr",
+      "num_bytes": 621728,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "he": {
+      "name": "he",
+      "num_bytes": 244075,
+      "num_examples": 2011,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "hin": {
+      "name": "hin",
+      "num_bytes": 836713,
+      "num_examples": 4363,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "tt": {
+      "name": "tt",
+      "num_bytes": 765542,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    },
+    "ja": {
+      "name": "ja",
+      "num_bytes": 715354,
+      "num_examples": 5000,
+      "dataset_name": "multilingual_toxicity_dataset"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

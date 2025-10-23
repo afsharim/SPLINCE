@@ -21,8 +21,6 @@ LAST_LAYER_RETRAIN_PARAMS = {
  }
 
 
-
-
 def map_model_name(model_name):
     if model_name == "meta-llama/Llama-2-7b-hf":
         return "Llama_2_7B"

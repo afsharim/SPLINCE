@@ -4,7 +4,7 @@ from pathlib import Path
 import h5py
 from sklearn.linear_model import SGDClassifier, LogisticRegression  # Add this import
 from sklearn.metrics import accuracy_score, roc_auc_score, log_loss
-from data import get_dataset_handler, BiosData, MultiLingualData, CelebAData
+from data import get_dataset_handler, BiosData, MultiLingualData, CelebAData, WaterbirdsData
 from proj import proj
 import torch
 from model import LastLayer, extract_bert_classifier, load_bert_model_tokenizer
@@ -205,8 +205,8 @@ def main(args):
             z_train_proj = z_train
         
         
-        # determine coef for opt-sep-proj if need be
-        if args.proj_method == 'opt-sep-proj' and args.info_type == 'coef':
+        # determine coef for SPLINCE if need be
+        if args.proj_method == 'SPLINCE' and args.info_type == 'coef':
             coef = coef_orig.copy() if coef_orig is not None else None
             # reshape if need be
             if coef is not None and coef.ndim == 1:
@@ -222,8 +222,8 @@ def main(args):
             
         if (args.proj_method == 'LEACE'):
             proj_method.fit(X_train_re, z_train_proj, None, method='LEACE')
-        elif (args.proj_method == 'opt-sep-proj'):
-            proj_method.fit(X_train_re, z_train_proj, y_train_proj, method='opt-sep-proj', info_type=args.info_type, coef=coef)
+        elif (args.proj_method == 'SPLINCE'):
+            proj_method.fit(X_train_re, z_train_proj, y_train_proj, method='SPLINCE', info_type=args.info_type, coef=coef)
         elif (args.proj_method == 'LEACE-no-whitening'):
             proj_method.fit(X_train_re, z_train_proj, None, method='LEACE-no-whitening')
         elif (args.proj_method == 'causal-LEACE'):
@@ -581,7 +581,7 @@ if __name__ == "__main__":
                       choices=['cls', 'pooler', 'mean', 'last' ,'raw'],
                       help="Type of embedding to use")
     parser.add_argument("--proj_method", type=str, default="LEACE",
-                      choices=['LEACE', 'opt-sep-proj', 'orig', 'LEACE-no-whitening', 'causal-LEACE', 'SAL', 'balanced-LEACE', 'optimized-range', 'optimized-range-reweighted'],
+                      choices=['LEACE', 'SPLINCE', 'orig', 'LEACE-no-whitening', 'causal-LEACE', 'SAL', 'balanced-LEACE', 'optimized-range', 'optimized-range-reweighted'],
                       help="Projection method to use")
     parser.add_argument("--causal_LEACE_variant", type=str, default='none',
                         choices=['oracle', 'estimate_y', 'naive', 'range', 'none', 'balance'])
@@ -607,7 +607,7 @@ if __name__ == "__main__":
                         help='Add seed to model name')
     parser.add_argument('--info_type', type=str, default='Cov',
                         choices=['Cov', 'coef'],
-                        help='Type of information to use for opt-sep-proj projection')
+                        help='Type of information to use for SPLINCE projection')
     parser.add_argument('--only_original', type=str, default='False',
                         help='Only evaluate original classifier post-projection, skip retraining')
     parser.add_argument('--skip_original', type=str, default='False',

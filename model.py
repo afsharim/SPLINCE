@@ -44,7 +44,11 @@ class LastLayer(nn.Module):
             else:
                 preds = torch.argmax(logits, dim=1)
         elif type_pred == 'prob':
-            preds = probs
+            if logits.shape[1] == 1:
+                preds = torch.sigmoid(logits).squeeze()
+            else:
+                preds = torch.softmax(logits, dim=1)
+
         return preds
 
     def fit(self, X, y, lr=0.01, optimizer='adam', wd=0.01, epochs=100, batch_size=32):
@@ -224,7 +228,7 @@ def load_model_and_tokenizer(
     return model, tokenizer
 
 
-def load_adapted_model_tokenizer(original_model_name, model_type, path,device_map="auto", torch_dtype=torch.float16):
+def load_adapted_model_tokenizer(original_model_name, model_type, path, device_map="auto", torch_dtype=torch.float16):
 
     # based on the model type, determine the tokenizer
     if model_type == 'llama':
@@ -236,7 +240,7 @@ def load_adapted_model_tokenizer(original_model_name, model_type, path,device_ma
     if model_type == 'llama':
         model = LlamaForCausalLM.from_pretrained(
             path,
-            device_map=args.device,
+            device_map=device_map,
             torch_dtype=torch.float16,
             token=TOKEN
         )
@@ -929,7 +933,7 @@ def load_projection(
     projection_method="LEACE", 
     layer_id="lm_head", 
     embedding_strategy="mean",
-    projections_dir="projections",
+    projections_dir="results/llms",
     layer_folder="lm_head",
     independent_layers=True
 ):

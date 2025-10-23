@@ -50,7 +50,7 @@ def extract_layer_activations(model, dataloader, layer_id, model_type, device, m
                 }
                             
             # Forward pass and extract activations based on model type and layer_id
-            if model_type == "llama":
+            if model_type in ["llama", 'mistral', 'phi']:
                 # Get model's parameter dtype for proper conversion
                 model_dtype = next(model.parameters()).dtype
 
@@ -58,26 +58,25 @@ def extract_layer_activations(model, dataloader, layer_id, model_type, device, m
                 outputs = model(
                     input_ids=inputs["input_ids"],
                     attention_mask=inputs["attention_mask"],
-                    output_hidden_states=True
+                    output_hidden_states=True,
+                    return_dict=True,
                 )
 
                 if layer_id == "lm_head":
                     # Get the last hidden state (input to lm_head)
                     hidden_states = outputs.hidden_states[-1].to(model_dtype)
                     
-                    # Apply the final normalization layer if this is a LLaMA model
-                    if model_type == "llama" and hasattr(model, "norm"):
+                    # Apply final normalization if available
+                    if hasattr(model, "norm"):
                         hidden_states = model.norm(hidden_states)
-                    elif model_type == "llama" and hasattr(model.model, "norm"):
+                    elif hasattr(model, "model") and hasattr(model.model, "norm"):
                         hidden_states = model.model.norm(hidden_states)
-                        
                 else:
                     # LLaMA model hidden states include embedding layer at index 0
                     # So we need to get the output of layer layer_id+1
                     if isinstance(layer_id, int) and layer_id < len(outputs.hidden_states) - 1:
                         # Get hidden states of target layer
                         hidden_states = outputs.hidden_states[layer_id + 1].to(model_dtype)  # +1 to skip embedding layer
-                        
                     else:
                         # Default to last layer if out of range
                         hidden_states = outputs.hidden_states[-1].to(model_dtype) #up to the target layer
@@ -123,6 +122,7 @@ def extract_layer_activations(model, dataloader, layer_id, model_type, device, m
                 if embedding_strategy == "cls":
                     hidden_states = hidden_states[:, 0, :]
 
+           
 
                 
             # Collect activations and clear memory
@@ -180,7 +180,7 @@ def calculate_projections(args):
     model_kwargs = {
                     "model_name": args.model_name,
                     "model_type": args.model_type,
-                    "task_type": "causal-lm" if args.model_type == "llama" else None,
+                    "task_type": "causal-lm" if args.model_type in ["llama", 'mistral'] else None,
                     "device_map": args.device,
                     "torch_dtype": args.torch_dtype
                 }
@@ -198,7 +198,7 @@ def calculate_projections(args):
         model, tokenizer = load_model_and_tokenizer(
             model_name=args.model_name,  
             model_type=args.model_type,
-            task_type="causal-lm" if args.model_type == "llama" else None,
+            task_type="causal-lm" if args.model_type in ["llama", "mistral"] else None,
             device_map=args.device,
             torch_dtype=args.torch_dtype
         )
@@ -389,7 +389,7 @@ if __name__ == "__main__":
     # Model parameters
     parser.add_argument("--model_name", type=str, required=True,
                         help="HuggingFace model name (e.g., meta-llama/Llama-2-7b-hf)")
-    parser.add_argument("--model_type", type=str, default="llama", choices=["llama", "bert"],         
+    parser.add_argument("--model_type", type=str, default="llama", choices=["llama", "bert", "mistral", 'phi'],         
                         help="Model architecture type")
        
     # Projection parametersojections calculated and saved.")
@@ -425,7 +425,7 @@ if __name__ == "__main__":
     parser.add_argument("--seed", type=int, default=42,
                         help="Random seed for reproducibility")
     # Output parameters
-    parser.add_argument("--output_dir", type=str, default="projections",
+    parser.add_argument("--output_dir", type=str, default="results/llms",
                         help="Directory to save projections")
     # Add embedding/apply strategy parameter
     parser.add_argument("--embedding_strategy", type=str, default="mean", 

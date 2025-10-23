@@ -373,7 +373,7 @@ class proj:
             self.P = self.LEACE(X_demeaned, z)
             self.b = (self.x_mean - self.P @ self.x_mean)
 
-        elif method == 'opt-sep-proj':
+        elif method == 'SPLINCE':
             # get the projection matrix from optimal separation projection
             self.P = self.opt_sep_proj(X_demeaned, z, y, info_type=info_type, coef=coef)
             self.b = (self.x_mean - self.P @ self.x_mean)

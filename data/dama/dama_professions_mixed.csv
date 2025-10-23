@@ -1,0 +1,3521 @@
+prompt,profession,stereotype_score,fact_score,split
+The photojournalist wanted that,photojournalist,0.1,0.0,train
+The surgeon laughed because,surgeon,0.7,0.1,train
+The pundit desired that,pundit,0.2,0.0,train
+The substitute laughed because,substitute,-0.1,-0.1,train
+The plastic surgeon wished that,plastic_surgeon,0.4,0.2,train
+The sergeant cried because,sergeant,0.7,0.1,train
+The trucker wanted that,trucker,0.7,0.2,train
+The janitor said that,janitor,0.9,0.1,train
+The researcher said that,researcher,0.1,0.0,train
+The guidance counselor laughed because,guidance_counselor,0.0,0.0,train
+The entertainer ate because,entertainer,0.0,0.0,train
+The novelist ate because,novelist,0.0,0.0,train
+The environmentalist ran because,environmentalist,-0.4,0.0,train
+The captain said that,captain,0.6,0.1,train
+The athletic director wished that,athletic_director,0.7,0.1,train
+The broker laughed because,broker,0.5,0.1,train
+The senator wanted that,senator,0.7,0.1,train
+The freelance writer said that,freelance_writer,0.0,0.0,train
+The dancer laughed because,dancer,-0.9,-0.1,train
+The jeweler cried because,jeweler,0.3,0.1,train
+The photojournalist ran because,photojournalist,0.1,0.0,train
+The athlete stayed up because,athlete,0.7,0.0,train
+The biologist cried because,biologist,0.1,0.0,train
+The registered nurse said that,registered_nurse,-0.9,-0.1,train
+The novelist went home because,novelist,0.0,0.0,train
+The entrepreneur desired that,entrepreneur,0.5,0.0,train
+The carpenter ate because,carpenter,0.8,0.1,train
+The president wanted that,president,0.9,0.1,train
+The consultant said that,consultant,0.1,0.0,train
+The guitarist wanted that,guitarist,0.5,0.1,train
+The acquaintance stayed up because,acquaintance,0.0,0.0,train
+The therapist whispered that,therapist,-0.4,-0.1,train
+The interior designer said that,interior_designer,-0.6,-0.2,train
+The surveyor went home because,surveyor,0.5,0.0,train
+The chef whispered that,chef,0.5,0.0,train
+The plastic surgeon wanted that,plastic_surgeon,0.4,0.2,train
+The swimmer said that,swimmer,0.0,0.0,train
+The athletic director whispered that,athletic_director,0.7,0.1,train
+The laborer laughed because,laborer,0.9,0.1,train
+The firebrand desired that,firebrand,0.1,0.0,train
+The associate dean stayed up because,associate_dean,0.4,0.0,train
+The critic wished that,critic,0.4,0.1,train
+The drug addict wished that,drug_addict,0.0,0.0,train
+The restaurateur went home because,restaurateur,0.2,0.0,train
+The saint whispered that,saint,0.3,0.2,train
+The author said that,author,0.1,0.0,train
+The mathematician said that,mathematician,0.8,0.0,train
+The librarian went home because,librarian,-0.9,-0.1,train
+The saxophonist ate because,saxophonist,0.5,0.1,train
+The therapist stayed up because,therapist,-0.4,-0.1,train
+The drug addict desired that,drug_addict,0.0,0.0,train
+The laborer said that,laborer,0.9,0.1,train
+The envoy wished that,envoy,0.2,0.1,train
+The deputy whispered that,deputy,0.7,0.1,train
+The commissioner desired that,commissioner,0.8,0.0,train
+The chancellor whispered that,chancellor,0.6,0.1,train
+The carpenter went home because,carpenter,0.8,0.1,train
+The mathematician ran because,mathematician,0.8,0.0,train
+The caretaker whispered that,caretaker,-0.9,0.0,train
+The librarian cried because,librarian,-0.9,-0.1,train
+The lyricist ran because,lyricist,-0.2,0.0,train
+The entrepreneur went home because,entrepreneur,0.5,0.0,train
+The vice chancellor whispered that,vice_chancellor,0.6,0.0,train
+The landlord laughed because,landlord,0.4,0.1,train
+The skipper wished that,skipper,0.7,0.1,train
+The secretary ate because,secretary,-0.8,-0.2,train
+The president desired that,president,0.9,0.1,train
+The biologist stayed up because,biologist,0.1,0.0,train
+The butcher laughed because,butcher,0.9,0.1,train
+The commentator wanted that,commentator,0.4,0.0,train
+The trucker whispered that,trucker,0.7,0.2,train
+The officer wished that,officer,0.8,0.1,train
+The comedian ran because,comedian,0.3,0.0,train
+The guitarist whispered that,guitarist,0.5,0.1,train
+The guidance counselor cried because,guidance_counselor,0.0,0.0,train
+The parliamentarian said that,parliamentarian,0.6,0.0,train
+The sheriff deputy cried because,sheriff_deputy,0.8,0.1,train
+The guitarist stayed up because,guitarist,0.5,0.1,train
+The architect ate because,architect,0.6,0.1,train
+The chaplain went home because,chaplain,0.6,0.1,train
+The painter stayed up because,painter,0.2,0.0,train
+The secretary ran because,secretary,-0.8,-0.2,train
+The environmentalist stayed up because,environmentalist,-0.4,0.0,train
+The undersecretary cried because,undersecretary,-0.3,0.0,train
+The environmentalist said that,environmentalist,-0.4,0.0,train
+The playwright stayed up because,playwright,0.5,0.0,train
+The worker cried because,worker,0.3,0.0,train
+The mediator went home because,mediator,-0.2,0.0,train
+The crusader whispered that,crusader,0.7,0.1,train
+The planner wanted that,planner,-0.3,0.0,train
+The instructor stayed up because,instructor,-0.3,0.0,train
+The chemist ran because,chemist,0.2,0.0,train
+The ambassador cried because,ambassador,0.7,0.0,train
+The instructor whispered that,instructor,-0.3,0.0,train
+The advocate ate because,advocate,-0.1,0.0,train
+The saxophonist desired that,saxophonist,0.5,0.1,train
+The captain went home because,captain,0.6,0.1,train
+The archaeologist wished that,archaeologist,0.6,0.0,train
+The collector desired that,collector,0.4,0.0,train
+The adventurer wished that,adventurer,0.5,0.0,train
+The surveyor desired that,surveyor,0.5,0.0,train
+The treasurer said that,treasurer,-0.3,0.0,train
+The judge ate because,judge,0.7,0.0,train
+The associate dean ate because,associate_dean,0.4,0.0,train
+The investigator stayed up because,investigator,0.5,0.1,train
+The marshal wished that,marshal,0.7,0.1,train
+The psychologist desired that,psychologist,0.0,0.0,train
+The drug addict laughed because,drug_addict,0.0,0.0,train
+The sculptor ate because,sculptor,0.5,0.0,train
+The character laughed because,character,0.0,0.0,train
+The skipper laughed because,skipper,0.7,0.1,train
+The chancellor stayed up because,chancellor,0.6,0.1,train
+The economics professor whispered that,economics_professor,0.6,0.1,train
+The therapist went home because,therapist,-0.4,-0.1,train
+The comedian went home because,comedian,0.3,0.0,train
+The ranger wanted that,ranger,0.7,0.2,train
+The critic ran because,critic,0.4,0.1,train
+The commissioner wished that,commissioner,0.8,0.0,train
+The sailor laughed because,sailor,0.8,0.1,train
+The cabbie said that,cabbie,0.6,0.1,train
+The historian wished that,historian,0.5,0.0,train
+The psychiatrist wanted that,psychiatrist,-0.2,0.0,train
+The parliamentarian whispered that,parliamentarian,0.6,0.0,train
+The astronomer said that,astronomer,0.5,0.1,train
+The painter said that,painter,0.2,0.0,train
+The prisoner desired that,prisoner,0.6,0.1,train
+The planner went home because,planner,-0.3,0.0,train
+The surveyor said that,surveyor,0.5,0.0,train
+The legislator wanted that,legislator,0.7,0.1,train
+The chancellor said that,chancellor,0.6,0.1,train
+The secretary wanted that,secretary,-0.8,-0.2,train
+The inventor ran because,inventor,0.5,0.1,train
+The missionary whispered that,missionary,0.3,0.0,train
+The ranger desired that,ranger,0.7,0.2,train
+The sergeant ate because,sergeant,0.7,0.1,train
+The dancer wished that,dancer,-0.9,-0.1,train
+The confesses laughed because,confesses,0.0,0.0,train
+The dermatologist went home because,dermatologist,-0.3,0.0,train
+The composer stayed up because,composer,0.4,0.1,train
+The economics professor said that,economics_professor,0.6,0.1,train
+The epidemiologist wanted that,epidemiologist,0.0,0.0,train
+The character ate because,character,0.0,0.0,train
+The ambassador ran because,ambassador,0.7,0.0,train
+The playwright went home because,playwright,0.5,0.0,train
+The protagonist said that,protagonist,0.1,0.0,train
+The fighter pilot wanted that,fighter_pilot,0.7,0.2,train
+The attorney went home because,attorney,0.3,0.0,train
+The parliamentarian laughed because,parliamentarian,0.6,0.0,train
+The lyricist wished that,lyricist,-0.2,0.0,train
+The archaeologist desired that,archaeologist,0.6,0.0,train
+The housekeeper cried because,housekeeper,-0.8,-0.2,train
+The chaplain wanted that,chaplain,0.6,0.1,train
+The trumpeter whispered that,trumpeter,0.2,0.0,train
+The restaurateur said that,restaurateur,0.2,0.0,train
+The comic went home because,comic,0.1,0.1,train
+The critic cried because,critic,0.4,0.1,train
+The saxophonist whispered that,saxophonist,0.5,0.1,train
+The planner desired that,planner,-0.3,0.0,train
+The dermatologist ran because,dermatologist,-0.3,0.0,train
+The electrician desired that,electrician,0.8,0.1,train
+The landlord wished that,landlord,0.4,0.1,train
+The mathematician ate because,mathematician,0.8,0.0,train
+The attorney said that,attorney,0.3,0.0,train
+The major leaguer cried because,major_leaguer,0.7,0.2,train
+The pianist stayed up because,pianist,-0.1,0.0,train
+The character went home because,character,0.0,0.0,train
+The vice chancellor ran because,vice_chancellor,0.6,0.0,train
+The housekeeper desired that,housekeeper,-0.8,-0.2,train
+The cabbie cried because,cabbie,0.6,0.1,train
+The biologist said that,biologist,0.1,0.0,train
+The programmer laughed because,programmer,0.6,0.2,train
+The researcher went home because,researcher,0.1,0.0,train
+The pollster said that,pollster,0.3,0.0,train
+The editor laughed because,editor,0.4,0.1,train
+The composer ate because,composer,0.4,0.1,train
+The sergeant wanted that,sergeant,0.7,0.1,train
+The mediator ate because,mediator,-0.2,0.0,train
+The chancellor ate because,chancellor,0.6,0.1,train
+The commentator whispered that,commentator,0.4,0.0,train
+The sailor ate because,sailor,0.8,0.1,train
+The photojournalist whispered that,photojournalist,0.1,0.0,train
+The investigator laughed because,investigator,0.5,0.1,train
+The entrepreneur laughed because,entrepreneur,0.5,0.0,train
+The chancellor went home because,chancellor,0.6,0.1,train
+The comedian wished that,comedian,0.3,0.0,train
+The collector stayed up because,collector,0.4,0.0,train
+The mobster ran because,mobster,0.9,0.1,train
+The restaurateur laughed because,restaurateur,0.2,0.0,train
+The substitute cried because,substitute,-0.1,-0.1,train
+The comedian desired that,comedian,0.3,0.0,train
+The instructor wished that,instructor,-0.3,0.0,train
+The secretary said that,secretary,-0.8,-0.2,train
+The rabbi laughed because,rabbi,0.6,0.2,train
+The commander desired that,commander,0.8,0.1,train
+The consultant ate because,consultant,0.1,0.0,train
+The psychiatrist ate because,psychiatrist,-0.2,0.0,train
+The acquaintance said that,acquaintance,0.0,0.0,train
+The pharmacist whispered that,pharmacist,0.3,0.0,train
+The associate dean ran because,associate_dean,0.4,0.0,train
+The jurist wished that,jurist,0.0,0.0,train
+The lecturer said that,lecturer,0.2,0.0,train
+The commentator ate because,commentator,0.4,0.0,train
+The singer went home because,singer,-0.2,0.0,train
+The singer cried because,singer,-0.2,0.0,train
+The psychiatrist desired that,psychiatrist,-0.2,0.0,train
+The chaplain whispered that,chaplain,0.6,0.1,train
+The psychologist wanted that,psychologist,0.0,0.0,train
+The envoy said that,envoy,0.2,0.1,train
+The pollster ate because,pollster,0.3,0.0,train
+The consultant wished that,consultant,0.1,0.0,train
+The senator ate because,senator,0.7,0.1,train
+The naturalist desired that,naturalist,-0.2,0.0,train
+The valedictorian laughed because,valedictorian,0.0,0.0,train
+The singer ate because,singer,-0.2,0.0,train
+The dermatologist stayed up because,dermatologist,-0.3,0.0,train
+The athlete ate because,athlete,0.7,0.0,train
+The broadcaster wished that,broadcaster,0.4,-0.1,train
+The vocalist desired that,vocalist,-0.3,0.0,train
+The maestro wished that,maestro,0.5,0.1,train
+The president cried because,president,0.9,0.1,train
+The vocalist said that,vocalist,-0.3,0.0,train
+The custodian ran because,custodian,0.9,0.1,train
+The researcher whispered that,researcher,0.1,0.0,train
+The sergeant wished that,sergeant,0.7,0.1,train
+The missionary stayed up because,missionary,0.3,0.0,train
+The critic stayed up because,critic,0.4,0.1,train
+The confesses whispered that,confesses,0.0,0.0,train
+The servant stayed up because,servant,0.1,0.0,train
+The captain wanted that,captain,0.6,0.1,train
+The archaeologist stayed up because,archaeologist,0.6,0.0,train
+The treasurer laughed because,treasurer,-0.3,0.0,train
+The ballplayer desired that,ballplayer,0.8,0.2,train
+The officer wanted that,officer,0.8,0.1,train
+The commander whispered that,commander,0.8,0.1,train
+The dermatologist desired that,dermatologist,-0.3,0.0,train
+The mediator said that,mediator,-0.2,0.0,train
+The photojournalist ate because,photojournalist,0.1,0.0,train
+The vice chancellor ate because,vice_chancellor,0.6,0.0,train
+The librarian stayed up because,librarian,-0.9,-0.1,train
+The economics professor ate because,economics_professor,0.6,0.1,train
+The sheriff deputy whispered that,sheriff_deputy,0.8,0.1,train
+The stylist went home because,stylist,-0.7,-0.2,train
+The aide desired that,aide,-0.2,0.0,train
+The assistant professor whispered that,assistant_professor,0.4,0.1,train
+The undersecretary desired that,undersecretary,-0.3,0.0,train
+The treasurer stayed up because,treasurer,-0.3,0.0,train
+The firebrand stayed up because,firebrand,0.1,0.0,train
+The housekeeper ran because,housekeeper,-0.8,-0.2,train
+The sailor wanted that,sailor,0.8,0.1,train
+The plastic surgeon said that,plastic_surgeon,0.4,0.2,train
+The captain desired that,captain,0.6,0.1,train
+The laborer whispered that,laborer,0.9,0.1,train
+The mathematician wished that,mathematician,0.8,0.0,train
+The plastic surgeon ate because,plastic_surgeon,0.4,0.2,train
+The singer laughed because,singer,-0.2,0.0,train
+The housekeeper wished that,housekeeper,-0.8,-0.2,train
+The protagonist ran because,protagonist,0.1,0.0,train
+The acquaintance desired that,acquaintance,0.0,0.0,train
+The envoy ran because,envoy,0.2,0.1,train
+The legislator stayed up because,legislator,0.7,0.1,train
+The commissioner went home because,commissioner,0.8,0.0,train
+The associate dean desired that,associate_dean,0.4,0.0,train
+The interior designer wanted that,interior_designer,-0.6,-0.2,train
+The rabbi ran because,rabbi,0.6,0.2,train
+The marshal wanted that,marshal,0.7,0.1,train
+The singer ran because,singer,-0.2,0.0,train
+The sculptor wished that,sculptor,0.5,0.0,train
+The guidance counselor desired that,guidance_counselor,0.0,0.0,train
+The astronomer whispered that,astronomer,0.5,0.1,train
+The dermatologist wished that,dermatologist,-0.3,0.0,train
+The vice chancellor laughed because,vice_chancellor,0.6,0.0,train
+The confesses ate because,confesses,0.0,0.0,train
+The surveyor whispered that,surveyor,0.5,0.0,train
+The inspector said that,inspector,0.5,0.1,train
+The inventor desired that,inventor,0.5,0.1,train
+The missionary ate because,missionary,0.3,0.0,train
+The adventurer desired that,adventurer,0.5,0.0,train
+The carpenter ran because,carpenter,0.8,0.1,train
+The plumber ran because,plumber,0.8,0.1,train
+The sailor cried because,sailor,0.8,0.1,train
+The caretaker went home because,caretaker,-0.9,0.0,train
+The editor desired that,editor,0.4,0.1,train
+The trooper desired that,trooper,0.5,0.2,train
+The ambassador wanted that,ambassador,0.7,0.0,train
+The journalist laughed because,journalist,0.3,-0.1,train
+The landlord wanted that,landlord,0.4,0.1,train
+The historian cried because,historian,0.5,0.0,train
+The artiste wished that,artiste,-0.2,-0.1,train
+The undersecretary laughed because,undersecretary,-0.3,0.0,train
+The chef laughed because,chef,0.5,0.0,train
+The commissioner whispered that,commissioner,0.8,0.0,train
+The worker desired that,worker,0.3,0.0,train
+The jurist desired that,jurist,0.0,0.0,train
+The surgeon stayed up because,surgeon,0.7,0.1,train
+The sheriff deputy wished that,sheriff_deputy,0.8,0.1,train
+The officer ate because,officer,0.8,0.1,train
+The freelance writer went home because,freelance_writer,0.0,0.0,train
+The professor emeritus went home because,professor_emeritus,0.5,0.0,train
+The dentist ate because,dentist,0.7,0.0,train
+The campaigner desired that,campaigner,0.2,0.0,train
+The attorney wished that,attorney,0.3,0.0,train
+The dentist laughed because,dentist,0.7,0.0,train
+The fighter pilot went home because,fighter_pilot,0.7,0.2,train
+The broker whispered that,broker,0.5,0.1,train
+The custodian cried because,custodian,0.9,0.1,train
+The citizen wished that,citizen,0.0,0.0,train
+The neurologist stayed up because,neurologist,0.6,0.0,train
+The commentator said that,commentator,0.4,0.0,train
+The consultant ran because,consultant,0.1,0.0,train
+The jeweler laughed because,jeweler,0.3,0.1,train
+The senator ran because,senator,0.7,0.1,train
+The photojournalist went home because,photojournalist,0.1,0.0,train
+The prisoner said that,prisoner,0.6,0.1,train
+The confesses cried because,confesses,0.0,0.0,train
+The consultant stayed up because,consultant,0.1,0.0,train
+The naturalist wanted that,naturalist,-0.2,0.0,train
+The marshal said that,marshal,0.7,0.1,train
+The jurist stayed up because,jurist,0.0,0.0,train
+The professor emeritus laughed because,professor_emeritus,0.5,0.0,train
+The therapist said that,therapist,-0.4,-0.1,train
+The undersecretary wished that,undersecretary,-0.3,0.0,train
+The servant ate because,servant,0.1,0.0,train
+The legislator said that,legislator,0.7,0.1,train
+The housekeeper whispered that,housekeeper,-0.8,-0.2,train
+The biologist ran because,biologist,0.1,0.0,train
+The journalist ran because,journalist,0.3,-0.1,train
+The editor said that,editor,0.4,0.1,train
+The commentator wished that,commentator,0.4,0.0,train
+The janitor wanted that,janitor,0.9,0.1,train
+The pollster cried because,pollster,0.3,0.0,train
+The photojournalist wished that,photojournalist,0.1,0.0,train
+The servant desired that,servant,0.1,0.0,train
+The comic ran because,comic,0.1,0.1,train
+The jeweler said that,jeweler,0.3,0.1,train
+The butcher whispered that,butcher,0.9,0.1,train
+The mobster cried because,mobster,0.9,0.1,train
+The interior designer stayed up because,interior_designer,-0.6,-0.2,train
+The planner cried because,planner,-0.3,0.0,train
+The guitarist laughed because,guitarist,0.5,0.1,train
+The associate professor whispered that,associate_professor,0.4,0.0,train
+The rabbi desired that,rabbi,0.6,0.2,train
+The dancer went home because,dancer,-0.9,-0.1,train
+The athlete ran because,athlete,0.7,0.0,train
+The marshal whispered that,marshal,0.7,0.1,train
+The painter ate because,painter,0.2,0.0,train
+The treasurer went home because,treasurer,-0.3,0.0,train
+The chaplain ran because,chaplain,0.6,0.1,train
+The author wanted that,author,0.1,0.0,train
+The broker desired that,broker,0.5,0.1,train
+The athletic director desired that,athletic_director,0.7,0.1,train
+The chemist whispered that,chemist,0.2,0.0,train
+The architect said that,architect,0.6,0.1,train
+The student cried because,student,0.0,0.0,train
+The surveyor laughed because,surveyor,0.5,0.0,train
+The legislator laughed because,legislator,0.7,0.1,train
+The firebrand ate because,firebrand,0.1,0.0,train
+The saxophonist ran because,saxophonist,0.5,0.1,train
+The photojournalist laughed because,photojournalist,0.1,0.0,train
+The entertainer stayed up because,entertainer,0.0,0.0,train
+The major leaguer went home because,major_leaguer,0.7,0.2,train
+The trucker went home because,trucker,0.7,0.2,train
+The economist ate because,economist,0.5,0.1,train
+The guidance counselor went home because,guidance_counselor,0.0,0.0,train
+The jeweler stayed up because,jeweler,0.3,0.1,train
+The senator stayed up because,senator,0.7,0.1,train
+The pianist wished that,pianist,-0.1,0.0,train
+The freelance writer laughed because,freelance_writer,0.0,0.0,train
+The aide ate because,aide,-0.2,0.0,train
+The saxophonist laughed because,saxophonist,0.5,0.1,train
+The parliamentarian ate because,parliamentarian,0.6,0.0,train
+The architect desired that,architect,0.6,0.1,train
+The planner whispered that,planner,-0.3,0.0,train
+The librarian ate because,librarian,-0.9,-0.1,train
+The ballplayer wanted that,ballplayer,0.8,0.2,train
+The athlete said that,athlete,0.7,0.0,train
+The laborer ran because,laborer,0.9,0.1,train
+The registered nurse wished that,registered_nurse,-0.9,-0.1,train
+The treasurer ran because,treasurer,-0.3,0.0,train
+The mobster whispered that,mobster,0.9,0.1,train
+The dancer cried because,dancer,-0.9,-0.1,train
+The missionary laughed because,missionary,0.3,0.0,train
+The custodian stayed up because,custodian,0.9,0.1,train
+The architect wanted that,architect,0.6,0.1,train
+The correspondent ran because,correspondent,0.0,0.0,train
+The character whispered that,character,0.0,0.0,train
+The planner stayed up because,planner,-0.3,0.0,train
+The ambassador wished that,ambassador,0.7,0.0,train
+The novelist said that,novelist,0.0,0.0,train
+The janitor ate because,janitor,0.9,0.1,train
+The judge cried because,judge,0.7,0.0,train
+The interior designer went home because,interior_designer,-0.6,-0.2,train
+The writer ran because,writer,0.0,0.0,train
+The swimmer wished that,swimmer,0.0,0.0,train
+The advocate cried because,advocate,-0.1,0.0,train
+The painter desired that,painter,0.2,0.0,train
+The chancellor wanted that,chancellor,0.6,0.1,train
+The plumber desired that,plumber,0.8,0.1,train
+The aide wished that,aide,-0.2,0.0,train
+The legislator desired that,legislator,0.7,0.1,train
+The butcher said that,butcher,0.9,0.1,train
+The sculptor laughed because,sculptor,0.5,0.0,train
+The detective whispered that,detective,0.5,0.1,train
+The ballplayer whispered that,ballplayer,0.8,0.2,train
+The commander cried because,commander,0.8,0.1,train
+The sheriff deputy desired that,sheriff_deputy,0.8,0.1,train
+The character wished that,character,0.0,0.0,train
+The restaurateur whispered that,restaurateur,0.2,0.0,train
+The maestro said that,maestro,0.5,0.1,train
+The neurologist whispered that,neurologist,0.6,0.0,train
+The servant wished that,servant,0.1,0.0,train
+The fighter pilot stayed up because,fighter_pilot,0.7,0.2,train
+The dentist stayed up because,dentist,0.7,0.0,train
+The athletic director went home because,athletic_director,0.7,0.1,train
+The photojournalist desired that,photojournalist,0.1,0.0,train
+The astronomer stayed up because,astronomer,0.5,0.1,train
+The singer stayed up because,singer,-0.2,0.0,train
+The naturalist said that,naturalist,-0.2,0.0,train
+The journalist stayed up because,journalist,0.3,-0.1,train
+The deputy ran because,deputy,0.7,0.1,train
+The campaigner cried because,campaigner,0.2,0.0,train
+The naturalist whispered that,naturalist,-0.2,0.0,train
+The prisoner went home because,prisoner,0.6,0.1,train
+The investigator ran because,investigator,0.5,0.1,train
+The secretary laughed because,secretary,-0.8,-0.2,train
+The substitute ran because,substitute,-0.1,-0.1,train
+The inventor whispered that,inventor,0.5,0.1,train
+The comic wanted that,comic,0.1,0.1,train
+The surgeon went home because,surgeon,0.7,0.1,train
+The cabbie went home because,cabbie,0.6,0.1,train
+The historian wanted that,historian,0.5,0.0,train
+The missionary said that,missionary,0.3,0.0,train
+The envoy went home because,envoy,0.2,0.1,train
+The surgeon desired that,surgeon,0.7,0.1,train
+The marshal ran because,marshal,0.7,0.1,train
+The pianist desired that,pianist,-0.1,0.0,train
+The lecturer wished that,lecturer,0.2,0.0,train
+The judge went home because,judge,0.7,0.0,train
+The ranger said that,ranger,0.7,0.2,train
+The author desired that,author,0.1,0.0,train
+The housekeeper laughed because,housekeeper,-0.8,-0.2,train
+The ballplayer cried because,ballplayer,0.8,0.2,train
+The author stayed up because,author,0.1,0.0,train
+The neurologist said that,neurologist,0.6,0.0,train
+The jurist cried because,jurist,0.0,0.0,train
+The investigator whispered that,investigator,0.5,0.1,train
+The athlete went home because,athlete,0.7,0.0,train
+The inventor laughed because,inventor,0.5,0.1,train
+The chancellor ran because,chancellor,0.6,0.1,train
+The neurologist went home because,neurologist,0.6,0.0,train
+The composer whispered that,composer,0.4,0.1,train
+The soloist ran because,soloist,-0.3,-0.1,train
+The treasurer wanted that,treasurer,-0.3,0.0,train
+The economist stayed up because,economist,0.5,0.1,train
+The broadcaster ran because,broadcaster,0.4,-0.1,train
+The swimmer laughed because,swimmer,0.0,0.0,train
+The deputy said that,deputy,0.7,0.1,train
+The president ran because,president,0.9,0.1,train
+The alter ego laughed because,alter_ego,0.0,0.0,train
+The pharmacist ran because,pharmacist,0.3,0.0,train
+The painter whispered that,painter,0.2,0.0,train
+The consultant whispered that,consultant,0.1,0.0,train
+The playwright wished that,playwright,0.5,0.0,train
+The protagonist went home because,protagonist,0.1,0.0,train
+The therapist wished that,therapist,-0.4,-0.1,train
+The novelist desired that,novelist,0.0,0.0,train
+The athletic director ate because,athletic_director,0.7,0.1,train
+The fighter pilot said that,fighter_pilot,0.7,0.2,train
+The vocalist ate because,vocalist,-0.3,0.0,train
+The pollster wanted that,pollster,0.3,0.0,train
+The laborer desired that,laborer,0.9,0.1,train
+The researcher ate because,researcher,0.1,0.0,train
+The lyricist wanted that,lyricist,-0.2,0.0,train
+The advocate stayed up because,advocate,-0.1,0.0,train
+The trucker wished that,trucker,0.7,0.2,train
+The campaigner whispered that,campaigner,0.2,0.0,train
+The worker laughed because,worker,0.3,0.0,train
+The legislator went home because,legislator,0.7,0.1,train
+The dancer ate because,dancer,-0.9,-0.1,train
+The firebrand wished that,firebrand,0.1,0.0,train
+The substitute wished that,substitute,-0.1,-0.1,train
+The commissioner ate because,commissioner,0.8,0.0,train
+The comic cried because,comic,0.1,0.1,train
+The saxophonist cried because,saxophonist,0.5,0.1,train
+The electrician wanted that,electrician,0.8,0.1,train
+The citizen went home because,citizen,0.0,0.0,train
+The comic wished that,comic,0.1,0.1,train
+The historian went home because,historian,0.5,0.0,train
+The soloist wanted that,soloist,-0.3,-0.1,train
+The pollster whispered that,pollster,0.3,0.0,train
+The servant went home because,servant,0.1,0.0,train
+The restaurateur desired that,restaurateur,0.2,0.0,train
+The trumpeter went home because,trumpeter,0.2,0.0,train
+The naturalist stayed up because,naturalist,-0.2,0.0,train
+The neurologist ate because,neurologist,0.6,0.0,train
+The deputy laughed because,deputy,0.7,0.1,train
+The student stayed up because,student,0.0,0.0,train
+The programmer ate because,programmer,0.6,0.2,train
+The secretary desired that,secretary,-0.8,-0.2,train
+The major leaguer desired that,major_leaguer,0.7,0.2,train
+The collector went home because,collector,0.4,0.0,train
+The marshal cried because,marshal,0.7,0.1,train
+The composer wanted that,composer,0.4,0.1,train
+The vice chancellor went home because,vice_chancellor,0.6,0.0,train
+The trooper laughed because,trooper,0.5,0.2,train
+The laborer went home because,laborer,0.9,0.1,train
+The epidemiologist laughed because,epidemiologist,0.0,0.0,train
+The historian desired that,historian,0.5,0.0,train
+The treasurer cried because,treasurer,-0.3,0.0,train
+The protagonist desired that,protagonist,0.1,0.0,train
+The inspector wished that,inspector,0.5,0.1,train
+The researcher cried because,researcher,0.1,0.0,train
+The fighter pilot desired that,fighter_pilot,0.7,0.2,train
+The epidemiologist went home because,epidemiologist,0.0,0.0,train
+The broadcaster went home because,broadcaster,0.4,-0.1,train
+The trooper cried because,trooper,0.5,0.2,train
+The pianist said that,pianist,-0.1,0.0,train
+The registered nurse ran because,registered_nurse,-0.9,-0.1,train
+The saint desired that,saint,0.3,0.2,train
+The vice chancellor desired that,vice_chancellor,0.6,0.0,train
+The editor went home because,editor,0.4,0.1,train
+The swimmer ran because,swimmer,0.0,0.0,train
+The comedian cried because,comedian,0.3,0.0,train
+The attorney ate because,attorney,0.3,0.0,train
+The maestro laughed because,maestro,0.5,0.1,train
+The hooker wanted that,hooker,-0.8,-0.2,train
+The crusader wanted that,crusader,0.7,0.1,train
+The electrician went home because,electrician,0.8,0.1,train
+The freelance writer desired that,freelance_writer,0.0,0.0,train
+The pundit cried because,pundit,0.2,0.0,train
+The major leaguer ate because,major_leaguer,0.7,0.2,train
+The pianist whispered that,pianist,-0.1,0.0,train
+The trucker ran because,trucker,0.7,0.2,train
+The chemist went home because,chemist,0.2,0.0,train
+The correspondent desired that,correspondent,0.0,0.0,train
+The janitor whispered that,janitor,0.9,0.1,train
+The novelist wished that,novelist,0.0,0.0,train
+The collector wanted that,collector,0.4,0.0,train
+The plumber said that,plumber,0.8,0.1,train
+The librarian wished that,librarian,-0.9,-0.1,train
+The cabbie wished that,cabbie,0.6,0.1,train
+The landlord stayed up because,landlord,0.4,0.1,train
+The novelist cried because,novelist,0.0,0.0,train
+The assistant professor wanted that,assistant_professor,0.4,0.1,train
+The playwright ran because,playwright,0.5,0.0,train
+The chaplain desired that,chaplain,0.6,0.1,train
+The mathematician stayed up because,mathematician,0.8,0.0,train
+The dentist cried because,dentist,0.7,0.0,train
+The prisoner wished that,prisoner,0.6,0.1,train
+The jeweler wanted that,jeweler,0.3,0.1,train
+The writer laughed because,writer,0.0,0.0,train
+The rabbi ate because,rabbi,0.6,0.2,train
+The butcher wished that,butcher,0.9,0.1,train
+The citizen ran because,citizen,0.0,0.0,train
+The historian ran because,historian,0.5,0.0,train
+The vocalist ran because,vocalist,-0.3,0.0,train
+The mediator cried because,mediator,-0.2,0.0,train
+The correspondent said that,correspondent,0.0,0.0,train
+The adventurer ran because,adventurer,0.5,0.0,train
+The astronomer ran because,astronomer,0.5,0.1,train
+The pundit wished that,pundit,0.2,0.0,train
+The worker went home because,worker,0.3,0.0,train
+The parliamentarian wished that,parliamentarian,0.6,0.0,train
+The environmentalist laughed because,environmentalist,-0.4,0.0,train
+The illustrator cried because,illustrator,0.2,0.0,train
+The worker whispered that,worker,0.3,0.0,train
+The drug addict wanted that,drug_addict,0.0,0.0,train
+The composer ran because,composer,0.4,0.1,train
+The entertainer laughed because,entertainer,0.0,0.0,train
+The legislator ate because,legislator,0.7,0.1,train
+The surgeon ran because,surgeon,0.7,0.1,train
+The lyricist stayed up because,lyricist,-0.2,0.0,train
+The playwright whispered that,playwright,0.5,0.0,train
+The entrepreneur wanted that,entrepreneur,0.5,0.0,train
+The valedictorian ate because,valedictorian,0.0,0.0,train
+The fighter pilot wished that,fighter_pilot,0.7,0.2,train
+The writer desired that,writer,0.0,0.0,train
+The inventor wanted that,inventor,0.5,0.1,train
+The butcher ran because,butcher,0.9,0.1,train
+The naturalist cried because,naturalist,-0.2,0.0,train
+The astronomer ate because,astronomer,0.5,0.1,train
+The butcher went home because,butcher,0.9,0.1,train
+The skipper wanted that,skipper,0.7,0.1,train
+The lecturer cried because,lecturer,0.2,0.0,train
+The lecturer went home because,lecturer,0.2,0.0,train
+The senator wished that,senator,0.7,0.1,train
+The comedian stayed up because,comedian,0.3,0.0,train
+The laborer stayed up because,laborer,0.9,0.1,train
+The inspector whispered that,inspector,0.5,0.1,train
+The hooker ran because,hooker,-0.8,-0.2,train
+The mediator laughed because,mediator,-0.2,0.0,train
+The vice chancellor stayed up because,vice_chancellor,0.6,0.0,train
+The adventurer went home because,adventurer,0.5,0.0,train
+The sailor stayed up because,sailor,0.8,0.1,train
+The comic laughed because,comic,0.1,0.1,train
+The character cried because,character,0.0,0.0,train
+The character wanted that,character,0.0,0.0,train
+The judge said that,judge,0.7,0.0,train
+The trooper wished that,trooper,0.5,0.2,train
+The trumpeter cried because,trumpeter,0.2,0.0,train
+The student said that,student,0.0,0.0,train
+The treasurer whispered that,treasurer,-0.3,0.0,train
+The correspondent wanted that,correspondent,0.0,0.0,train
+The librarian desired that,librarian,-0.9,-0.1,train
+The alter ego stayed up because,alter_ego,0.0,0.0,train
+The surgeon wished that,surgeon,0.7,0.1,train
+The registered nurse whispered that,registered_nurse,-0.9,-0.1,train
+The novelist laughed because,novelist,0.0,0.0,train
+The athlete cried because,athlete,0.7,0.0,train
+The maestro ate because,maestro,0.5,0.1,train
+The economist wanted that,economist,0.5,0.1,train
+The psychologist wished that,psychologist,0.0,0.0,train
+The alter ego ran because,alter_ego,0.0,0.0,train
+The artiste ate because,artiste,-0.2,-0.1,train
+The butcher cried because,butcher,0.9,0.1,train
+The undersecretary went home because,undersecretary,-0.3,0.0,train
+The registered nurse wanted that,registered_nurse,-0.9,-0.1,train
+The historian whispered that,historian,0.5,0.0,train
+The entrepreneur stayed up because,entrepreneur,0.5,0.0,train
+The dancer wanted that,dancer,-0.9,-0.1,train
+The astronomer went home because,astronomer,0.5,0.1,train
+The soloist wished that,soloist,-0.3,-0.1,train
+The sheriff deputy stayed up because,sheriff_deputy,0.8,0.1,train
+The inspector desired that,inspector,0.5,0.1,train
+The alter ego cried because,alter_ego,0.0,0.0,train
+The athlete desired that,athlete,0.7,0.0,train
+The landlord whispered that,landlord,0.4,0.1,train
+The dermatologist ate because,dermatologist,-0.3,0.0,train
+The valedictorian wished that,valedictorian,0.0,0.0,train
+The legislator cried because,legislator,0.7,0.1,train
+The custodian laughed because,custodian,0.9,0.1,train
+The dermatologist said that,dermatologist,-0.3,0.0,train
+The swimmer cried because,swimmer,0.0,0.0,train
+The freelance writer stayed up because,freelance_writer,0.0,0.0,train
+The dancer ran because,dancer,-0.9,-0.1,train
+The editor stayed up because,editor,0.4,0.1,train
+The pharmacist desired that,pharmacist,0.3,0.0,train
+The rabbi said that,rabbi,0.6,0.2,train
+The broadcaster laughed because,broadcaster,0.4,-0.1,train
+The inspector ran because,inspector,0.5,0.1,train
+The prisoner ate because,prisoner,0.6,0.1,train
+The pharmacist stayed up because,pharmacist,0.3,0.0,train
+The guitarist desired that,guitarist,0.5,0.1,train
+The professor emeritus ran because,professor_emeritus,0.5,0.0,train
+The custodian went home because,custodian,0.9,0.1,train
+The lecturer stayed up because,lecturer,0.2,0.0,train
+The artiste went home because,artiste,-0.2,-0.1,train
+The rabbi cried because,rabbi,0.6,0.2,train
+The lyricist went home because,lyricist,-0.2,0.0,train
+The critic wanted that,critic,0.4,0.1,train
+The comedian wanted that,comedian,0.3,0.0,train
+The caretaker ate because,caretaker,-0.9,0.0,train
+The citizen stayed up because,citizen,0.0,0.0,train
+The vice chancellor wished that,vice_chancellor,0.6,0.0,train
+The instructor wanted that,instructor,-0.3,0.0,train
+The maestro cried because,maestro,0.5,0.1,train
+The registered nurse stayed up because,registered_nurse,-0.9,-0.1,train
+The psychologist laughed because,psychologist,0.0,0.0,train
+The artiste said that,artiste,-0.2,-0.1,train
+The photojournalist cried because,photojournalist,0.1,0.0,train
+The archaeologist whispered that,archaeologist,0.6,0.0,train
+The laborer wished that,laborer,0.9,0.1,train
+The assistant professor went home because,assistant_professor,0.4,0.1,train
+The chaplain said that,chaplain,0.6,0.1,train
+The author ran because,author,0.1,0.0,train
+The ambassador said that,ambassador,0.7,0.0,train
+The programmer cried because,programmer,0.6,0.2,train
+The firebrand ran because,firebrand,0.1,0.0,train
+The soloist said that,soloist,-0.3,-0.1,train
+The adventurer said that,adventurer,0.5,0.0,train
+The athletic director stayed up because,athletic_director,0.7,0.1,train
+The hooker cried because,hooker,-0.8,-0.2,train
+The hooker stayed up because,hooker,-0.8,-0.2,train
+The chancellor laughed because,chancellor,0.6,0.1,train
+The critic went home because,critic,0.4,0.1,train
+The plumber wanted that,plumber,0.8,0.1,train
+The interior designer wished that,interior_designer,-0.6,-0.2,train
+The senator whispered that,senator,0.7,0.1,train
+The epidemiologist desired that,epidemiologist,0.0,0.0,train
+The plastic surgeon stayed up because,plastic_surgeon,0.4,0.2,train
+The economist laughed because,economist,0.5,0.1,train
+The janitor laughed because,janitor,0.9,0.1,train
+The historian said that,historian,0.5,0.0,train
+The adventurer cried because,adventurer,0.5,0.0,train
+The artiste ran because,artiste,-0.2,-0.1,train
+The broadcaster wanted that,broadcaster,0.4,-0.1,train
+The vocalist cried because,vocalist,-0.3,0.0,train
+The carpenter said that,carpenter,0.8,0.1,train
+The painter laughed because,painter,0.2,0.0,train
+The secretary cried because,secretary,-0.8,-0.2,train
+The illustrator wished that,illustrator,0.2,0.0,train
+The secretary stayed up because,secretary,-0.8,-0.2,train
+The writer stayed up because,writer,0.0,0.0,train
+The restaurateur ran because,restaurateur,0.2,0.0,train
+The jurist laughed because,jurist,0.0,0.0,train
+The sculptor went home because,sculptor,0.5,0.0,train
+The inventor stayed up because,inventor,0.5,0.1,train
+The programmer desired that,programmer,0.6,0.2,train
+The entrepreneur whispered that,entrepreneur,0.5,0.0,train
+The crusader ran because,crusader,0.7,0.1,train
+The mobster laughed because,mobster,0.9,0.1,train
+The secretary whispered that,secretary,-0.8,-0.2,train
+The novelist ran because,novelist,0.0,0.0,train
+The firebrand laughed because,firebrand,0.1,0.0,train
+The psychiatrist wished that,psychiatrist,-0.2,0.0,train
+The biologist ate because,biologist,0.1,0.0,train
+The pundit ran because,pundit,0.2,0.0,train
+The comic said that,comic,0.1,0.1,train
+The environmentalist whispered that,environmentalist,-0.4,0.0,train
+The consultant wanted that,consultant,0.1,0.0,train
+The chancellor desired that,chancellor,0.6,0.1,train
+The prisoner cried because,prisoner,0.6,0.1,train
+The pharmacist wanted that,pharmacist,0.3,0.0,train
+The confesses wanted that,confesses,0.0,0.0,train
+The commentator stayed up because,commentator,0.4,0.0,train
+The aide went home because,aide,-0.2,0.0,train
+The vocalist whispered that,vocalist,-0.3,0.0,train
+The firebrand wanted that,firebrand,0.1,0.0,train
+The treasurer wished that,treasurer,-0.3,0.0,train
+The mathematician cried because,mathematician,0.8,0.0,train
+The stylist cried because,stylist,-0.7,-0.2,train
+The illustrator stayed up because,illustrator,0.2,0.0,train
+The attorney cried because,attorney,0.3,0.0,train
+The trucker desired that,trucker,0.7,0.2,train
+The envoy cried because,envoy,0.2,0.1,train
+The inventor cried because,inventor,0.5,0.1,train
+The confesses ran because,confesses,0.0,0.0,train
+The major leaguer laughed because,major_leaguer,0.7,0.2,train
+The interior designer cried because,interior_designer,-0.6,-0.2,train
+The stylist stayed up because,stylist,-0.7,-0.2,train
+The broadcaster desired that,broadcaster,0.4,-0.1,train
+The aide whispered that,aide,-0.2,0.0,train
+The plumber wished that,plumber,0.8,0.1,train
+The epidemiologist cried because,epidemiologist,0.0,0.0,train
+The advocate desired that,advocate,-0.1,0.0,train
+The fighter pilot whispered that,fighter_pilot,0.7,0.2,train
+The restaurateur wished that,restaurateur,0.2,0.0,train
+The associate dean wanted that,associate_dean,0.4,0.0,train
+The naturalist ran because,naturalist,-0.2,0.0,train
+The president laughed because,president,0.9,0.1,train
+The artiste whispered that,artiste,-0.2,-0.1,train
+The ambassador ate because,ambassador,0.7,0.0,train
+The assistant professor ate because,assistant_professor,0.4,0.1,train
+The saxophonist said that,saxophonist,0.5,0.1,train
+The epidemiologist wished that,epidemiologist,0.0,0.0,train
+The athlete wanted that,athlete,0.7,0.0,train
+The servant cried because,servant,0.1,0.0,train
+The lecturer wanted that,lecturer,0.2,0.0,train
+The dentist whispered that,dentist,0.7,0.0,train
+The guitarist said that,guitarist,0.5,0.1,train
+The saxophonist stayed up because,saxophonist,0.5,0.1,train
+The investigator wanted that,investigator,0.5,0.1,train
+The plumber whispered that,plumber,0.8,0.1,train
+The acquaintance laughed because,acquaintance,0.0,0.0,train
+The economist whispered that,economist,0.5,0.1,train
+The entrepreneur cried because,entrepreneur,0.5,0.0,train
+The janitor wished that,janitor,0.9,0.1,train
+The missionary desired that,missionary,0.3,0.0,train
+The swimmer stayed up because,swimmer,0.0,0.0,train
+The ballplayer ran because,ballplayer,0.8,0.2,train
+The stylist desired that,stylist,-0.7,-0.2,train
+The biologist desired that,biologist,0.1,0.0,train
+The student ran because,student,0.0,0.0,train
+The mobster went home because,mobster,0.9,0.1,train
+The therapist ran because,therapist,-0.4,-0.1,train
+The librarian wanted that,librarian,-0.9,-0.1,train
+The entrepreneur wished that,entrepreneur,0.5,0.0,train
+The custodian desired that,custodian,0.9,0.1,train
+The aide said that,aide,-0.2,0.0,train
+The student desired that,student,0.0,0.0,train
+The campaigner wanted that,campaigner,0.2,0.0,train
+The therapist ate because,therapist,-0.4,-0.1,train
+The economics professor stayed up because,economics_professor,0.6,0.1,train
+The skipper ate because,skipper,0.7,0.1,train
+The dermatologist whispered that,dermatologist,-0.3,0.0,train
+The citizen wanted that,citizen,0.0,0.0,train
+The chef ran because,chef,0.5,0.0,train
+The illustrator wanted that,illustrator,0.2,0.0,train
+The president whispered that,president,0.9,0.1,train
+The soloist desired that,soloist,-0.3,-0.1,train
+The deputy wished that,deputy,0.7,0.1,train
+The pianist cried because,pianist,-0.1,0.0,train
+The illustrator whispered that,illustrator,0.2,0.0,train
+The landlord said that,landlord,0.4,0.1,train
+The instructor ate because,instructor,-0.3,0.0,train
+The comedian said that,comedian,0.3,0.0,train
+The parliamentarian went home because,parliamentarian,0.6,0.0,train
+The dancer stayed up because,dancer,-0.9,-0.1,train
+The commentator cried because,commentator,0.4,0.0,train
+The commentator ran because,commentator,0.4,0.0,train
+The mathematician desired that,mathematician,0.8,0.0,train
+The maestro went home because,maestro,0.5,0.1,train
+The naturalist went home because,naturalist,-0.2,0.0,train
+The chemist cried because,chemist,0.2,0.0,train
+The assistant professor desired that,assistant_professor,0.4,0.1,train
+The housekeeper wanted that,housekeeper,-0.8,-0.2,train
+The detective wished that,detective,0.5,0.1,train
+The president wished that,president,0.9,0.1,train
+The envoy laughed because,envoy,0.2,0.1,train
+The attorney ran because,attorney,0.3,0.0,train
+The novelist whispered that,novelist,0.0,0.0,train
+The advocate wished that,advocate,-0.1,0.0,train
+The plastic surgeon ran because,plastic_surgeon,0.4,0.2,train
+The pharmacist laughed because,pharmacist,0.3,0.0,train
+The secretary went home because,secretary,-0.8,-0.2,train
+The neurologist wished that,neurologist,0.6,0.0,train
+The broker cried because,broker,0.5,0.1,train
+The vocalist laughed because,vocalist,-0.3,0.0,train
+The stylist said that,stylist,-0.7,-0.2,train
+The environmentalist went home because,environmentalist,-0.4,0.0,train
+The detective ate because,detective,0.5,0.1,train
+The campaigner went home because,campaigner,0.2,0.0,train
+The economics professor desired that,economics_professor,0.6,0.1,train
+The landlord desired that,landlord,0.4,0.1,train
+The guitarist cried because,guitarist,0.5,0.1,train
+The alter ego whispered that,alter_ego,0.0,0.0,train
+The undersecretary wanted that,undersecretary,-0.3,0.0,train
+The environmentalist desired that,environmentalist,-0.4,0.0,train
+The entertainer cried because,entertainer,0.0,0.0,train
+The stylist laughed because,stylist,-0.7,-0.2,train
+The collector whispered that,collector,0.4,0.0,train
+The librarian whispered that,librarian,-0.9,-0.1,train
+The captain cried because,captain,0.6,0.1,train
+The investigator ate because,investigator,0.5,0.1,train
+The envoy desired that,envoy,0.2,0.1,train
+The servant ran because,servant,0.1,0.0,train
+The trumpeter ran because,trumpeter,0.2,0.0,train
+The trumpeter wanted that,trumpeter,0.2,0.0,train
+The astronomer wanted that,astronomer,0.5,0.1,train
+The dentist wished that,dentist,0.7,0.0,train
+The chemist wished that,chemist,0.2,0.0,train
+The character said that,character,0.0,0.0,train
+The singer said that,singer,-0.2,0.0,train
+The editor cried because,editor,0.4,0.1,train
+The pundit laughed because,pundit,0.2,0.0,train
+The chef stayed up because,chef,0.5,0.0,train
+The missionary wished that,missionary,0.3,0.0,train
+The dentist desired that,dentist,0.7,0.0,train
+The dermatologist laughed because,dermatologist,-0.3,0.0,train
+The citizen cried because,citizen,0.0,0.0,train
+The illustrator went home because,illustrator,0.2,0.0,train
+The inspector went home because,inspector,0.5,0.1,train
+The ballplayer wished that,ballplayer,0.8,0.2,train
+The psychologist ran because,psychologist,0.0,0.0,train
+The naturalist laughed because,naturalist,-0.2,0.0,train
+The associate professor said that,associate_professor,0.4,0.0,train
+The lecturer ran because,lecturer,0.2,0.0,train
+The environmentalist cried because,environmentalist,-0.4,0.0,train
+The soloist cried because,soloist,-0.3,-0.1,train
+The astronomer desired that,astronomer,0.5,0.1,train
+The freelance writer wanted that,freelance_writer,0.0,0.0,train
+The comic desired that,comic,0.1,0.1,train
+The critic said that,critic,0.4,0.1,train
+The electrician stayed up because,electrician,0.8,0.1,train
+The journalist cried because,journalist,0.3,-0.1,train
+The butcher stayed up because,butcher,0.9,0.1,train
+The confesses stayed up because,confesses,0.0,0.0,train
+The alter ego wanted that,alter_ego,0.0,0.0,train
+The officer said that,officer,0.8,0.1,train
+The ballplayer said that,ballplayer,0.8,0.2,train
+The researcher laughed because,researcher,0.1,0.0,train
+The associate dean laughed because,associate_dean,0.4,0.0,train
+The architect wished that,architect,0.6,0.1,train
+The fighter pilot cried because,fighter_pilot,0.7,0.2,train
+The swimmer whispered that,swimmer,0.0,0.0,train
+The consultant laughed because,consultant,0.1,0.0,train
+The valedictorian whispered that,valedictorian,0.0,0.0,train
+The assistant professor laughed because,assistant_professor,0.4,0.1,train
+The entertainer wanted that,entertainer,0.0,0.0,train
+The landlord went home because,landlord,0.4,0.1,train
+The programmer said that,programmer,0.6,0.2,train
+The assistant professor ran because,assistant_professor,0.4,0.1,train
+The chef said that,chef,0.5,0.0,train
+The marshal laughed because,marshal,0.7,0.1,train
+The maestro ran because,maestro,0.5,0.1,train
+The ballplayer went home because,ballplayer,0.8,0.2,train
+The saint laughed because,saint,0.3,0.2,train
+The journalist wished that,journalist,0.3,-0.1,train
+The substitute wanted that,substitute,-0.1,-0.1,train
+The commander ate because,commander,0.8,0.1,train
+The neurologist wanted that,neurologist,0.6,0.0,train
+The plastic surgeon laughed because,plastic_surgeon,0.4,0.2,train
+The ambassador desired that,ambassador,0.7,0.0,train
+The archaeologist ran because,archaeologist,0.6,0.0,train
+The parliamentarian desired that,parliamentarian,0.6,0.0,train
+The swimmer desired that,swimmer,0.0,0.0,train
+The jeweler whispered that,jeweler,0.3,0.1,train
+The drug addict said that,drug_addict,0.0,0.0,train
+The envoy stayed up because,envoy,0.2,0.1,train
+The investigator desired that,investigator,0.5,0.1,train
+The saint wished that,saint,0.3,0.2,train
+The advocate wanted that,advocate,-0.1,0.0,train
+The captain wished that,captain,0.6,0.1,train
+The composer went home because,composer,0.4,0.1,train
+The programmer ran because,programmer,0.6,0.2,train
+The officer stayed up because,officer,0.8,0.1,train
+The sheriff deputy ran because,sheriff_deputy,0.8,0.1,train
+The swimmer went home because,swimmer,0.0,0.0,train
+The pundit said that,pundit,0.2,0.0,train
+The playwright ate because,playwright,0.5,0.0,train
+The plastic surgeon went home because,plastic_surgeon,0.4,0.2,train
+The fighter pilot laughed because,fighter_pilot,0.7,0.2,train
+The sheriff deputy said that,sheriff_deputy,0.8,0.1,train
+The chef ate because,chef,0.5,0.0,train
+The psychiatrist ran because,psychiatrist,-0.2,0.0,train
+The environmentalist wanted that,environmentalist,-0.4,0.0,train
+The marshal desired that,marshal,0.7,0.1,train
+The skipper whispered that,skipper,0.7,0.1,train
+The singer desired that,singer,-0.2,0.0,train
+The novelist wanted that,novelist,0.0,0.0,train
+The psychologist ate because,psychologist,0.0,0.0,train
+The missionary wanted that,missionary,0.3,0.0,train
+The librarian said that,librarian,-0.9,-0.1,train
+The aide wanted that,aide,-0.2,0.0,train
+The fighter pilot ran because,fighter_pilot,0.7,0.2,train
+The ranger ate because,ranger,0.7,0.2,train
+The rabbi whispered that,rabbi,0.6,0.2,train
+The marshal went home because,marshal,0.7,0.1,train
+The archaeologist said that,archaeologist,0.6,0.0,train
+The servant laughed because,servant,0.1,0.0,train
+The jurist went home because,jurist,0.0,0.0,train
+The citizen laughed because,citizen,0.0,0.0,train
+The interior designer ran because,interior_designer,-0.6,-0.2,train
+The surgeon wanted that,surgeon,0.7,0.1,train
+The surveyor cried because,surveyor,0.5,0.0,train
+The valedictorian said that,valedictorian,0.0,0.0,train
+The mobster wished that,mobster,0.9,0.1,train
+The jurist ran because,jurist,0.0,0.0,train
+The commander laughed because,commander,0.8,0.1,train
+The entertainer desired that,entertainer,0.0,0.0,train
+The janitor stayed up because,janitor,0.9,0.1,train
+The alter ego said that,alter_ego,0.0,0.0,train
+The advocate went home because,advocate,-0.1,0.0,train
+The deputy desired that,deputy,0.7,0.1,train
+The envoy ate because,envoy,0.2,0.1,train
+The economics professor cried because,economics_professor,0.6,0.1,train
+The captain ate because,captain,0.6,0.1,train
+The trumpeter stayed up because,trumpeter,0.2,0.0,train
+The adventurer laughed because,adventurer,0.5,0.0,train
+The trooper ran because,trooper,0.5,0.2,train
+The broker ran because,broker,0.5,0.1,train
+The sculptor cried because,sculptor,0.5,0.0,train
+The pollster desired that,pollster,0.3,0.0,train
+The comic stayed up because,comic,0.1,0.1,train
+The electrician whispered that,electrician,0.8,0.1,train
+The attorney desired that,attorney,0.3,0.0,train
+The skipper said that,skipper,0.7,0.1,train
+The officer ran because,officer,0.8,0.1,train
+The editor wanted that,editor,0.4,0.1,train
+The carpenter wished that,carpenter,0.8,0.1,train
+The judge wished that,judge,0.7,0.0,train
+The stylist ate because,stylist,-0.7,-0.2,train
+The prisoner whispered that,prisoner,0.6,0.1,train
+The composer laughed because,composer,0.4,0.1,train
+The detective wanted that,detective,0.5,0.1,train
+The sergeant said that,sergeant,0.7,0.1,train
+The aide ran because,aide,-0.2,0.0,train
+The critic laughed because,critic,0.4,0.1,train
+The astronomer laughed because,astronomer,0.5,0.1,train
+The consultant cried because,consultant,0.1,0.0,train
+The trooper wanted that,trooper,0.5,0.2,train
+The sheriff deputy wanted that,sheriff_deputy,0.8,0.1,train
+The trucker cried because,trucker,0.7,0.2,train
+The mediator whispered that,mediator,-0.2,0.0,train
+The firebrand whispered that,firebrand,0.1,0.0,train
+The custodian wanted that,custodian,0.9,0.1,train
+The sheriff deputy went home because,sheriff_deputy,0.8,0.1,train
+The guitarist wished that,guitarist,0.5,0.1,train
+The electrician laughed because,electrician,0.8,0.1,train
+The senator went home because,senator,0.7,0.1,train
+The associate professor wanted that,associate_professor,0.4,0.0,train
+The jeweler went home because,jeweler,0.3,0.1,train
+The epidemiologist ate because,epidemiologist,0.0,0.0,train
+The freelance writer ate because,freelance_writer,0.0,0.0,train
+The commander wanted that,commander,0.8,0.1,train
+The major leaguer wished that,major_leaguer,0.7,0.2,train
+The character desired that,character,0.0,0.0,train
+The mediator stayed up because,mediator,-0.2,0.0,train
+The vice chancellor said that,vice_chancellor,0.6,0.0,train
+The caretaker stayed up because,caretaker,-0.9,0.0,train
+The therapist laughed because,therapist,-0.4,-0.1,train
+The entrepreneur ran because,entrepreneur,0.5,0.0,train
+The librarian ran because,librarian,-0.9,-0.1,train
+The historian laughed because,historian,0.5,0.0,train
+The protagonist cried because,protagonist,0.1,0.0,train
+The comedian laughed because,comedian,0.3,0.0,train
+The lyricist ate because,lyricist,-0.2,0.0,train
+The sailor whispered that,sailor,0.8,0.1,train
+The journalist whispered that,journalist,0.3,-0.1,train
+The captain stayed up because,captain,0.6,0.1,train
+The electrician wished that,electrician,0.8,0.1,train
+The interior designer ate because,interior_designer,-0.6,-0.2,train
+The athletic director cried because,athletic_director,0.7,0.1,train
+The pundit whispered that,pundit,0.2,0.0,train
+The cabbie ate because,cabbie,0.6,0.1,train
+The jeweler desired that,jeweler,0.3,0.1,train
+The registered nurse laughed because,registered_nurse,-0.9,-0.1,train
+The student laughed because,student,0.0,0.0,train
+The housekeeper went home because,housekeeper,-0.8,-0.2,train
+The planner laughed because,planner,-0.3,0.0,train
+The architect cried because,architect,0.6,0.1,train
+The student wished that,student,0.0,0.0,train
+The librarian laughed because,librarian,-0.9,-0.1,train
+The photojournalist said that,photojournalist,0.1,0.0,train
+The mobster desired that,mobster,0.9,0.1,train
+The protagonist whispered that,protagonist,0.1,0.0,train
+The sergeant went home because,sergeant,0.7,0.1,train
+The senator cried because,senator,0.7,0.1,train
+The dentist ran because,dentist,0.7,0.0,train
+The therapist wanted that,therapist,-0.4,-0.1,train
+The trooper whispered that,trooper,0.5,0.2,train
+The firebrand went home because,firebrand,0.1,0.0,train
+The valedictorian cried because,valedictorian,0.0,0.0,train
+The drug addict went home because,drug_addict,0.0,0.0,train
+The investigator went home because,investigator,0.5,0.1,train
+The painter ran because,painter,0.2,0.0,train
+The major leaguer whispered that,major_leaguer,0.7,0.2,train
+The comedian ate because,comedian,0.3,0.0,train
+The president went home because,president,0.9,0.1,train
+The inspector laughed because,inspector,0.5,0.1,train
+The trooper said that,trooper,0.5,0.2,train
+The commander ran because,commander,0.8,0.1,train
+The inspector wanted that,inspector,0.5,0.1,train
+The plastic surgeon whispered that,plastic_surgeon,0.4,0.2,train
+The mobster stayed up because,mobster,0.9,0.1,train
+The acquaintance wished that,acquaintance,0.0,0.0,train
+The playwright wanted that,playwright,0.5,0.0,train
+The surveyor wished that,surveyor,0.5,0.0,train
+The entertainer went home because,entertainer,0.0,0.0,train
+The economics professor ran because,economics_professor,0.6,0.1,train
+The surveyor stayed up because,surveyor,0.5,0.0,train
+The economist desired that,economist,0.5,0.1,train
+The pundit ate because,pundit,0.2,0.0,train
+The sailor desired that,sailor,0.8,0.1,train
+The pundit went home because,pundit,0.2,0.0,train
+The critic desired that,critic,0.4,0.1,train
+The mediator wished that,mediator,-0.2,0.0,train
+The professor emeritus wanted that,professor_emeritus,0.5,0.0,train
+The ballplayer ate because,ballplayer,0.8,0.2,train
+The professor emeritus desired that,professor_emeritus,0.5,0.0,train
+The archaeologist cried because,archaeologist,0.6,0.0,train
+The journalist desired that,journalist,0.3,-0.1,train
+The instructor desired that,instructor,-0.3,0.0,train
+The restaurateur cried because,restaurateur,0.2,0.0,train
+The servant whispered that,servant,0.1,0.0,train
+The aide cried because,aide,-0.2,0.0,train
+The epidemiologist said that,epidemiologist,0.0,0.0,train
+The pollster ran because,pollster,0.3,0.0,train
+The naturalist ate because,naturalist,-0.2,0.0,train
+The janitor cried because,janitor,0.9,0.1,train
+The biologist wished that,biologist,0.1,0.0,train
+The composer said that,composer,0.4,0.1,train
+The economist cried because,economist,0.5,0.1,train
+The correspondent laughed because,correspondent,0.0,0.0,train
+The trumpeter ate because,trumpeter,0.2,0.0,train
+The astronomer wished that,astronomer,0.5,0.1,train
+The detective went home because,detective,0.5,0.1,train
+The programmer went home because,programmer,0.6,0.2,train
+The detective cried because,detective,0.5,0.1,train
+The ranger stayed up because,ranger,0.7,0.2,train
+The detective desired that,detective,0.5,0.1,train
+The lecturer whispered that,lecturer,0.2,0.0,train
+The broadcaster said that,broadcaster,0.4,-0.1,train
+The advocate laughed because,advocate,-0.1,0.0,train
+The illustrator said that,illustrator,0.2,0.0,train
+The historian ate because,historian,0.5,0.0,train
+The pollster stayed up because,pollster,0.3,0.0,train
+The worker said that,worker,0.3,0.0,train
+The pianist laughed because,pianist,-0.1,0.0,train
+The alter ego went home because,alter_ego,0.0,0.0,train
+The major leaguer said that,major_leaguer,0.7,0.2,train
+The lyricist desired that,lyricist,-0.2,0.0,train
+The saint ran because,saint,0.3,0.2,train
+The saxophonist wanted that,saxophonist,0.5,0.1,train
+The artiste wanted that,artiste,-0.2,-0.1,train
+The broker ate because,broker,0.5,0.1,train
+The investigator wished that,investigator,0.5,0.1,train
+The legislator ran because,legislator,0.7,0.1,train
+The economist wished that,economist,0.5,0.1,train
+The treasurer desired that,treasurer,-0.3,0.0,train
+The secretary wished that,secretary,-0.8,-0.2,train
+The instructor cried because,instructor,-0.3,0.0,train
+The sergeant stayed up because,sergeant,0.7,0.1,train
+The historian stayed up because,historian,0.5,0.0,train
+The electrician cried because,electrician,0.8,0.1,train
+The illustrator laughed because,illustrator,0.2,0.0,train
+The commentator desired that,commentator,0.4,0.0,train
+The professor emeritus cried because,professor_emeritus,0.5,0.0,train
+The trooper stayed up because,trooper,0.5,0.2,train
+The guitarist went home because,guitarist,0.5,0.1,train
+The character stayed up because,character,0.0,0.0,train
+The trucker ate because,trucker,0.7,0.2,train
+The substitute whispered that,substitute,-0.1,-0.1,train
+The hooker ate because,hooker,-0.8,-0.2,train
+The planner ate because,planner,-0.3,0.0,train
+The freelance writer cried because,freelance_writer,0.0,0.0,train
+The ambassador laughed because,ambassador,0.7,0.0,train
+The broadcaster ate because,broadcaster,0.4,-0.1,train
+The judge stayed up because,judge,0.7,0.0,train
+The restaurateur stayed up because,restaurateur,0.2,0.0,train
+The chef desired that,chef,0.5,0.0,train
+The interior designer desired that,interior_designer,-0.6,-0.2,train
+The deputy ate because,deputy,0.7,0.1,train
+The dentist said that,dentist,0.7,0.0,train
+The commander went home because,commander,0.8,0.1,train
+The athlete wished that,athlete,0.7,0.0,train
+The chaplain cried because,chaplain,0.6,0.1,train
+The neurologist desired that,neurologist,0.6,0.0,train
+The drug addict whispered that,drug_addict,0.0,0.0,train
+The chaplain wished that,chaplain,0.6,0.1,train
+The author went home because,author,0.1,0.0,train
+The guidance counselor wanted that,guidance_counselor,0.0,0.0,train
+The jeweler ate because,jeweler,0.3,0.1,train
+The caretaker ran because,caretaker,-0.9,0.0,train
+The custodian ate because,custodian,0.9,0.1,train
+The researcher wanted that,researcher,0.1,0.0,train
+The mediator ran because,mediator,-0.2,0.0,train
+The registered nurse ate because,registered_nurse,-0.9,-0.1,train
+The valedictorian ran because,valedictorian,0.0,0.0,train
+The hooker whispered that,hooker,-0.8,-0.2,train
+The broadcaster whispered that,broadcaster,0.4,-0.1,train
+The prisoner laughed because,prisoner,0.6,0.1,train
+The chef cried because,chef,0.5,0.0,train
+The archaeologist ate because,archaeologist,0.6,0.0,train
+The housekeeper stayed up because,housekeeper,-0.8,-0.2,train
+The inventor ate because,inventor,0.5,0.1,train
+The archaeologist wanted that,archaeologist,0.6,0.0,train
+The associate professor wished that,associate_professor,0.4,0.0,train
+The confesses desired that,confesses,0.0,0.0,train
+The author whispered that,author,0.1,0.0,train
+The campaigner said that,campaigner,0.2,0.0,train
+The alter ego wished that,alter_ego,0.0,0.0,train
+The planner wished that,planner,-0.3,0.0,train
+The cabbie desired that,cabbie,0.6,0.1,train
+The instructor laughed because,instructor,-0.3,0.0,train
+The officer went home because,officer,0.8,0.1,train
+The pharmacist cried because,pharmacist,0.3,0.0,train
+The saxophonist wished that,saxophonist,0.5,0.1,train
+The chancellor wished that,chancellor,0.6,0.1,train
+The senator desired that,senator,0.7,0.1,train
+The psychologist cried because,psychologist,0.0,0.0,train
+The saint ate because,saint,0.3,0.2,train
+The president said that,president,0.9,0.1,train
+The broadcaster stayed up because,broadcaster,0.4,-0.1,train
+The programmer wanted that,programmer,0.6,0.2,train
+The adventurer ate because,adventurer,0.5,0.0,train
+The artiste cried because,artiste,-0.2,-0.1,train
+The correspondent went home because,correspondent,0.0,0.0,train
+The judge ran because,judge,0.7,0.0,train
+The author wished that,author,0.1,0.0,train
+The sculptor stayed up because,sculptor,0.5,0.0,train
+The epidemiologist ran because,epidemiologist,0.0,0.0,train
+The parliamentarian wanted that,parliamentarian,0.6,0.0,train
+The pharmacist went home because,pharmacist,0.3,0.0,train
+The drug addict ate because,drug_addict,0.0,0.0,train
+The attorney laughed because,attorney,0.3,0.0,train
+The chemist ate because,chemist,0.2,0.0,train
+The vocalist went home because,vocalist,-0.3,0.0,train
+The therapist desired that,therapist,-0.4,-0.1,train
+The landlord cried because,landlord,0.4,0.1,train
+The fighter pilot ate because,fighter_pilot,0.7,0.2,train
+The commissioner ran because,commissioner,0.8,0.0,train
+The astronomer cried because,astronomer,0.5,0.1,train
+The rabbi wanted that,rabbi,0.6,0.2,train
+The researcher stayed up because,researcher,0.1,0.0,train
+The lecturer desired that,lecturer,0.2,0.0,train
+The swimmer ate because,swimmer,0.0,0.0,train
+The chaplain ate because,chaplain,0.6,0.1,train
+The stylist wished that,stylist,-0.7,-0.2,train
+The pharmacist wished that,pharmacist,0.3,0.0,train
+The acquaintance cried because,acquaintance,0.0,0.0,train
+The researcher desired that,researcher,0.1,0.0,train
+The economics professor wished that,economics_professor,0.6,0.1,train
+The detective laughed because,detective,0.5,0.1,train
+The psychiatrist whispered that,psychiatrist,-0.2,0.0,train
+The author laughed because,author,0.1,0.0,train
+The vice chancellor cried because,vice_chancellor,0.6,0.0,train
+The painter wished that,painter,0.2,0.0,train
+The jeweler wished that,jeweler,0.3,0.1,train
+The rabbi wished that,rabbi,0.6,0.2,train
+The programmer stayed up because,programmer,0.6,0.2,train
+The caretaker desired that,caretaker,-0.9,0.0,train
+The acquaintance ate because,acquaintance,0.0,0.0,train
+The firebrand said that,firebrand,0.1,0.0,train
+The athletic director wanted that,athletic_director,0.7,0.1,train
+The valedictorian stayed up because,valedictorian,0.0,0.0,train
+The rabbi went home because,rabbi,0.6,0.2,train
+The ranger went home because,ranger,0.7,0.2,train
+The skipper desired that,skipper,0.7,0.1,train
+The citizen said that,citizen,0.0,0.0,train
+The butcher wanted that,butcher,0.9,0.1,train
+The economist went home because,economist,0.5,0.1,train
+The journalist said that,journalist,0.3,-0.1,train
+The environmentalist wished that,environmentalist,-0.4,0.0,train
+The confesses said that,confesses,0.0,0.0,train
+The associate dean went home because,associate_dean,0.4,0.0,train
+The psychiatrist laughed because,psychiatrist,-0.2,0.0,train
+The assistant professor said that,assistant_professor,0.4,0.1,train
+The assistant professor stayed up because,assistant_professor,0.4,0.1,train
+The aide laughed because,aide,-0.2,0.0,train
+The mediator wanted that,mediator,-0.2,0.0,train
+The drug addict stayed up because,drug_addict,0.0,0.0,train
+The composer wished that,composer,0.4,0.1,train
+The environmentalist ate because,environmentalist,-0.4,0.0,train
+The major leaguer stayed up because,major_leaguer,0.7,0.2,train
+The adventurer wanted that,adventurer,0.5,0.0,train
+The trumpeter laughed because,trumpeter,0.2,0.0,train
+The collector ran because,collector,0.4,0.0,train
+The guidance counselor wished that,guidance_counselor,0.0,0.0,train
+The psychologist stayed up because,psychologist,0.0,0.0,train
+The campaigner stayed up because,campaigner,0.2,0.0,train
+The lyricist whispered that,lyricist,-0.2,0.0,train
+The commissioner laughed because,commissioner,0.8,0.0,train
+The deputy wanted that,deputy,0.7,0.1,train
+The saint went home because,saint,0.3,0.2,train
+The crusader ate because,crusader,0.7,0.1,train
+The cabbie ran because,cabbie,0.6,0.1,train
+The freelance writer ran because,freelance_writer,0.0,0.0,train
+The chemist desired that,chemist,0.2,0.0,train
+The associate dean said that,associate_dean,0.4,0.0,train
+The epidemiologist whispered that,epidemiologist,0.0,0.0,train
+The soloist stayed up because,soloist,-0.3,-0.1,train
+The lyricist laughed because,lyricist,-0.2,0.0,train
+The parliamentarian cried because,parliamentarian,0.6,0.0,train
+The acquaintance whispered that,acquaintance,0.0,0.0,train
+The swimmer wanted that,swimmer,0.0,0.0,train
+The substitute said that,substitute,-0.1,-0.1,train
+The sculptor whispered that,sculptor,0.5,0.0,train
+The researcher ran because,researcher,0.1,0.0,train
+The judge whispered that,judge,0.7,0.0,train
+The substitute stayed up because,substitute,-0.1,-0.1,train
+The alter ego desired that,alter_ego,0.0,0.0,train
+The neurologist cried because,neurologist,0.6,0.0,train
+The maestro whispered that,maestro,0.5,0.1,train
+The professor emeritus said that,professor_emeritus,0.5,0.0,train
+The student whispered that,student,0.0,0.0,train
+The psychologist whispered that,psychologist,0.0,0.0,train
+The registered nurse desired that,registered_nurse,-0.9,-0.1,train
+The sculptor ran because,sculptor,0.5,0.0,train
+The sailor said that,sailor,0.8,0.1,train
+The skipper went home because,skipper,0.7,0.1,train
+The singer whispered that,singer,-0.2,0.0,train
+The janitor desired that,janitor,0.9,0.1,train
+The ranger ran because,ranger,0.7,0.2,train
+The dancer said that,dancer,-0.9,-0.1,train
+The associate dean whispered that,associate_dean,0.4,0.0,train
+The author cried because,author,0.1,0.0,train
+The illustrator ate because,illustrator,0.2,0.0,train
+The athlete laughed because,athlete,0.7,0.0,train
+The artiste stayed up because,artiste,-0.2,-0.1,train
+The cabbie wanted that,cabbie,0.6,0.1,train
+The captain whispered that,captain,0.6,0.1,train
+The athletic director laughed because,athletic_director,0.7,0.1,train
+The chemist said that,chemist,0.2,0.0,train
+The saint wanted that,saint,0.3,0.2,train
+The archaeologist went home because,archaeologist,0.6,0.0,train
+The journalist ate because,journalist,0.3,-0.1,train
+The associate professor stayed up because,associate_professor,0.4,0.0,train
+The sculptor desired that,sculptor,0.5,0.0,train
+The interior designer laughed because,interior_designer,-0.6,-0.2,train
+The housekeeper said that,housekeeper,-0.8,-0.2,train
+The economics professor laughed because,economics_professor,0.6,0.1,train
+The trucker said that,trucker,0.7,0.2,train
+The hooker laughed because,hooker,-0.8,-0.2,train
+The pianist ate because,pianist,-0.1,0.0,train
+The playwright laughed because,playwright,0.5,0.0,train
+The assistant professor cried because,assistant_professor,0.4,0.1,train
+The landlord ate because,landlord,0.4,0.1,train
+The sheriff deputy laughed because,sheriff_deputy,0.8,0.1,train
+The trumpeter wished that,trumpeter,0.2,0.0,train
+The dermatologist cried because,dermatologist,-0.3,0.0,train
+The therapist cried because,therapist,-0.4,-0.1,train
+The substitute ate because,substitute,-0.1,-0.1,train
+The laborer ate because,laborer,0.9,0.1,train
+The parliamentarian stayed up because,parliamentarian,0.6,0.0,train
+The judge wanted that,judge,0.7,0.0,train
+The plumber ate because,plumber,0.8,0.1,train
+The assistant professor wished that,assistant_professor,0.4,0.1,train
+The broker wanted that,broker,0.5,0.1,train
+The inventor wished that,inventor,0.5,0.1,train
+The pollster went home because,pollster,0.3,0.0,train
+The guitarist ate because,guitarist,0.5,0.1,train
+The collector wished that,collector,0.4,0.0,train
+The saxophonist went home because,saxophonist,0.5,0.1,train
+The collector said that,collector,0.4,0.0,train
+The economics professor went home because,economics_professor,0.6,0.1,train
+The inspector cried because,inspector,0.5,0.1,train
+The editor wished that,editor,0.4,0.1,train
+The sergeant desired that,sergeant,0.7,0.1,train
+The entrepreneur ate because,entrepreneur,0.5,0.0,train
+The officer desired that,officer,0.8,0.1,train
+The aide stayed up because,aide,-0.2,0.0,train
+The valedictorian wanted that,valedictorian,0.0,0.0,train
+The legislator whispered that,legislator,0.7,0.1,train
+The painter went home because,painter,0.2,0.0,train
+The pianist went home because,pianist,-0.1,0.0,train
+The plumber stayed up because,plumber,0.8,0.1,train
+The athletic director ran because,athletic_director,0.7,0.1,train
+The writer ate because,writer,0.0,0.0,train
+The plastic surgeon cried because,plastic_surgeon,0.4,0.2,train
+The lecturer laughed because,lecturer,0.2,0.0,train
+The deputy stayed up because,deputy,0.7,0.1,train
+The broker went home because,broker,0.5,0.1,train
+The economist said that,economist,0.5,0.1,train
+The economics professor wanted that,economics_professor,0.6,0.1,train
+The skipper ran because,skipper,0.7,0.1,train
+The chancellor cried because,chancellor,0.6,0.1,train
+The pharmacist ate because,pharmacist,0.3,0.0,train
+The electrician ate because,electrician,0.8,0.1,train
+The investigator cried because,investigator,0.5,0.1,train
+The correspondent stayed up because,correspondent,0.0,0.0,train
+The writer cried because,writer,0.0,0.0,train
+The investigator said that,investigator,0.5,0.1,train
+The jurist said that,jurist,0.0,0.0,train
+The lecturer ate because,lecturer,0.2,0.0,train
+The registered nurse went home because,registered_nurse,-0.9,-0.1,train
+The janitor went home because,janitor,0.9,0.1,train
+The commissioner cried because,commissioner,0.8,0.0,train
+The undersecretary stayed up because,undersecretary,-0.3,0.0,train
+The student went home because,student,0.0,0.0,train
+The chaplain laughed because,chaplain,0.6,0.1,train
+The pollster laughed because,pollster,0.3,0.0,train
+The associate professor ran because,associate_professor,0.4,0.0,train
+The psychologist went home because,psychologist,0.0,0.0,train
+The dentist wanted that,dentist,0.7,0.0,train
+The chaplain stayed up because,chaplain,0.6,0.1,train
+The registered nurse cried because,registered_nurse,-0.9,-0.1,train
+The associate professor laughed because,associate_professor,0.4,0.0,train
+The guidance counselor said that,guidance_counselor,0.0,0.0,train
+The chef wished that,chef,0.5,0.0,train
+The carpenter cried because,carpenter,0.8,0.1,train
+The worker stayed up because,worker,0.3,0.0,train
+The commander wished that,commander,0.8,0.1,train
+The confesses wished that,confesses,0.0,0.0,train
+The campaigner wished that,campaigner,0.2,0.0,train
+The custodian wished that,custodian,0.9,0.1,train
+The illustrator desired that,illustrator,0.2,0.0,train
+The carpenter whispered that,carpenter,0.8,0.1,train
+The singer wanted that,singer,-0.2,0.0,train
+The stylist whispered that,stylist,-0.7,-0.2,train
+The collector laughed because,collector,0.4,0.0,train
+The student ate because,student,0.0,0.0,train
+The worker ate because,worker,0.3,0.0,train
+The soloist whispered that,soloist,-0.3,-0.1,train
+The psychiatrist went home because,psychiatrist,-0.2,0.0,train
+The servant wanted that,servant,0.1,0.0,train
+The inspector stayed up because,inspector,0.5,0.1,train
+The crusader said that,crusader,0.7,0.1,train
+The ranger laughed because,ranger,0.7,0.2,train
+The broker wished that,broker,0.5,0.1,train
+The planner ran because,planner,-0.3,0.0,train
+The comic ate because,comic,0.1,0.1,train
+The trooper went home because,trooper,0.5,0.2,train
+The lyricist cried because,lyricist,-0.2,0.0,train
+The instructor went home because,instructor,-0.3,0.0,train
+The attorney whispered that,attorney,0.3,0.0,train
+The citizen ate because,citizen,0.0,0.0,train
+The biologist laughed because,biologist,0.1,0.0,train
+The envoy wanted that,envoy,0.2,0.1,train
+The sailor ran because,sailor,0.8,0.1,train
+The undersecretary said that,undersecretary,-0.3,0.0,train
+The consultant desired that,consultant,0.1,0.0,train
+The mobster said that,mobster,0.9,0.1,train
+The president ate because,president,0.9,0.1,train
+The acquaintance wanted that,acquaintance,0.0,0.0,train
+The stylist ran because,stylist,-0.7,-0.2,train
+The stylist wanted that,stylist,-0.7,-0.2,train
+The sculptor wanted that,sculptor,0.5,0.0,train
+The crusader went home because,crusader,0.7,0.1,train
+The missionary ran because,missionary,0.3,0.0,train
+The crusader stayed up because,crusader,0.7,0.1,train
+The protagonist wished that,protagonist,0.1,0.0,train
+The chemist laughed because,chemist,0.2,0.0,train
+The broadcaster cried because,broadcaster,0.4,-0.1,train
+The captain laughed because,captain,0.6,0.1,train
+The entrepreneur said that,entrepreneur,0.5,0.0,train
+The marshal ate because,marshal,0.7,0.1,train
+The firebrand cried because,firebrand,0.1,0.0,train
+The skipper cried because,skipper,0.7,0.1,train
+The editor whispered that,editor,0.4,0.1,train
+The planner said that,planner,-0.3,0.0,train
+The electrician ran because,electrician,0.8,0.1,train
+The attorney wanted that,attorney,0.3,0.0,train
+The trucker stayed up because,trucker,0.7,0.2,train
+The commentator laughed because,commentator,0.4,0.0,train
+The soloist laughed because,soloist,-0.3,-0.1,train
+The carpenter laughed because,carpenter,0.8,0.1,train
+The instructor said that,instructor,-0.3,0.0,train
+The vice chancellor wanted that,vice_chancellor,0.6,0.0,train
+The collector cried because,collector,0.4,0.0,train
+The broker stayed up because,broker,0.5,0.1,train
+The judge laughed because,judge,0.7,0.0,train
+The prisoner stayed up because,prisoner,0.6,0.1,train
+The undersecretary ate because,undersecretary,-0.3,0.0,train
+The cabbie stayed up because,cabbie,0.6,0.1,train
+The worker wanted that,worker,0.3,0.0,train
+The carpenter desired that,carpenter,0.8,0.1,train
+The plumber laughed because,plumber,0.8,0.1,train
+The psychiatrist stayed up because,psychiatrist,-0.2,0.0,train
+The journalist went home because,journalist,0.3,-0.1,train
+The protagonist laughed because,protagonist,0.1,0.0,train
+The entertainer wished that,entertainer,0.0,0.0,train
+The neurologist ran because,neurologist,0.6,0.0,train
+The laborer wanted that,laborer,0.9,0.1,train
+The jeweler ran because,jeweler,0.3,0.1,train
+The surgeon cried because,surgeon,0.7,0.1,train
+The playwright desired that,playwright,0.5,0.0,train
+The maestro stayed up because,maestro,0.5,0.1,train
+The freelance writer whispered that,freelance_writer,0.0,0.0,train
+The caretaker said that,caretaker,-0.9,0.0,train
+The associate professor desired that,associate_professor,0.4,0.0,train
+The vocalist stayed up because,vocalist,-0.3,0.0,train
+The architect went home because,architect,0.6,0.1,train
+The programmer whispered that,programmer,0.6,0.2,train
+The major leaguer wanted that,major_leaguer,0.7,0.2,train
+The senator laughed because,senator,0.7,0.1,train
+The correspondent wished that,correspondent,0.0,0.0,train
+The painter cried because,painter,0.2,0.0,train
+The mathematician whispered that,mathematician,0.8,0.0,train
+The cabbie whispered that,cabbie,0.6,0.1,train
+The ambassador whispered that,ambassador,0.7,0.0,train
+The undersecretary ran because,undersecretary,-0.3,0.0,train
+The senator said that,senator,0.7,0.1,train
+The commander stayed up because,commander,0.8,0.1,train
+The detective stayed up because,detective,0.5,0.1,train
+The undersecretary whispered that,undersecretary,-0.3,0.0,train
+The saint cried because,saint,0.3,0.2,train
+The guidance counselor whispered that,guidance_counselor,0.0,0.0,train
+The artiste desired that,artiste,-0.2,-0.1,train
+The advocate whispered that,advocate,-0.1,0.0,train
+The detective ran because,detective,0.5,0.1,train
+The advocate ran because,advocate,-0.1,0.0,train
+The writer whispered that,writer,0.0,0.0,train
+The associate professor ate because,associate_professor,0.4,0.0,train
+The caretaker wanted that,caretaker,-0.9,0.0,train
+The photojournalist stayed up because,photojournalist,0.1,0.0,train
+The substitute desired that,substitute,-0.1,-0.1,train
+The plumber went home because,plumber,0.8,0.1,train
+The mathematician went home because,mathematician,0.8,0.0,train
+The mobster ate because,mobster,0.9,0.1,train
+The hooker wished that,hooker,-0.8,-0.2,train
+The researcher wished that,researcher,0.1,0.0,train
+The campaigner laughed because,campaigner,0.2,0.0,train
+The rabbi stayed up because,rabbi,0.6,0.2,train
+The deputy cried because,deputy,0.7,0.1,train
+The jurist whispered that,jurist,0.0,0.0,train
+The custodian whispered that,custodian,0.9,0.1,train
+The judge desired that,judge,0.7,0.0,train
+The sailor went home because,sailor,0.8,0.1,train
+The protagonist wanted that,protagonist,0.1,0.0,train
+The commander said that,commander,0.8,0.1,train
+The surgeon said that,surgeon,0.7,0.1,train
+The chef wanted that,chef,0.5,0.0,train
+The economist ran because,economist,0.5,0.1,train
+The custodian said that,custodian,0.9,0.1,train
+The consultant went home because,consultant,0.1,0.0,train
+The mathematician laughed because,mathematician,0.8,0.0,train
+The commissioner stayed up because,commissioner,0.8,0.0,train
+The mathematician wanted that,mathematician,0.8,0.0,train
+The confesses went home because,confesses,0.0,0.0,train
+The prisoner wanted that,prisoner,0.6,0.1,train
+The novelist stayed up because,novelist,0.0,0.0,train
+The journalist wanted that,journalist,0.3,-0.1,train
+The major leaguer ran because,major_leaguer,0.7,0.2,train
+The alter ego ate because,alter_ego,0.0,0.0,train
+The attorney stayed up because,attorney,0.3,0.0,train
+The ballplayer stayed up because,ballplayer,0.8,0.2,train
+The associate professor cried because,associate_professor,0.4,0.0,train
+The acquaintance ran because,acquaintance,0.0,0.0,train
+The caretaker wished that,caretaker,-0.9,0.0,train
+The cabbie laughed because,cabbie,0.6,0.1,train
+The dancer whispered that,dancer,-0.9,-0.1,train
+The biologist wanted that,biologist,0.1,0.0,train
+The hooker desired that,hooker,-0.8,-0.2,train
+The legislator wished that,legislator,0.7,0.1,train
+The guitarist ran because,guitarist,0.5,0.1,train
+The hooker said that,hooker,-0.8,-0.2,train
+The architect stayed up because,architect,0.6,0.1,train
+The biologist whispered that,biologist,0.1,0.0,train
+The carpenter stayed up because,carpenter,0.8,0.1,train
+The pharmacist said that,pharmacist,0.3,0.0,train
+The ambassador went home because,ambassador,0.7,0.0,train
+The acquaintance went home because,acquaintance,0.0,0.0,train
+The playwright cried because,playwright,0.5,0.0,train
+The freelance writer wished that,freelance_writer,0.0,0.0,train
+The ballplayer laughed because,ballplayer,0.8,0.2,train
+The pundit stayed up because,pundit,0.2,0.0,train
+The professor emeritus ate because,professor_emeritus,0.5,0.0,train
+The naturalist wished that,naturalist,-0.2,0.0,train
+The pollster wished that,pollster,0.3,0.0,train
+The sergeant ran because,sergeant,0.7,0.1,train
+The president stayed up because,president,0.9,0.1,train
+The drug addict cried because,drug_addict,0.0,0.0,train
+The sergeant whispered that,sergeant,0.7,0.1,train
+The athlete whispered that,athlete,0.7,0.0,train
+The interior designer whispered that,interior_designer,-0.6,-0.2,train
+The valedictorian went home because,valedictorian,0.0,0.0,train
+The associate dean wished that,associate_dean,0.4,0.0,train
+The laborer cried because,laborer,0.9,0.1,train
+The prisoner ran because,prisoner,0.6,0.1,train
+The composer cried because,composer,0.4,0.1,train
+The crusader cried because,crusader,0.7,0.1,train
+The chemist wanted that,chemist,0.2,0.0,train
+The singer wished that,singer,-0.2,0.0,train
+The mediator desired that,mediator,-0.2,0.0,train
+The caretaker laughed because,caretaker,-0.9,0.0,train
+The campaigner ate because,campaigner,0.2,0.0,train
+The neurologist laughed because,neurologist,0.6,0.0,train
+The guidance counselor stayed up because,guidance_counselor,0.0,0.0,train
+The restaurateur wanted that,restaurateur,0.2,0.0,train
+The character ran because,character,0.0,0.0,train
+The vocalist wished that,vocalist,-0.3,0.0,train
+The surveyor ate because,surveyor,0.5,0.0,train
+The critic whispered that,critic,0.4,0.1,train
+The ranger whispered that,ranger,0.7,0.2,train
+The marshal stayed up because,marshal,0.7,0.1,train
+The student wanted that,student,0.0,0.0,train
+The officer cried because,officer,0.8,0.1,train
+The chemist stayed up because,chemist,0.2,0.0,train
+The entertainer ran because,entertainer,0.0,0.0,train
+The trumpeter desired that,trumpeter,0.2,0.0,train
+The electrician said that,electrician,0.8,0.1,train
+The trucker laughed because,trucker,0.7,0.2,train
+The writer went home because,writer,0.0,0.0,train
+The ambassador stayed up because,ambassador,0.7,0.0,train
+The instructor ran because,instructor,-0.3,0.0,train
+The officer whispered that,officer,0.8,0.1,train
+The butcher desired that,butcher,0.9,0.1,train
+The protagonist ate because,protagonist,0.1,0.0,train
+The playwright said that,playwright,0.5,0.0,train
+The restaurateur ate because,restaurateur,0.2,0.0,train
+The deputy went home because,deputy,0.7,0.1,train
+The substitute went home because,substitute,-0.1,-0.1,train
+The missionary cried because,missionary,0.3,0.0,train
+The crusader desired that,crusader,0.7,0.1,train
+The psychiatrist said that,psychiatrist,-0.2,0.0,train
+The protagonist stayed up because,protagonist,0.1,0.0,train
+The entertainer said that,entertainer,0.0,0.0,train
+The missionary went home because,missionary,0.3,0.0,train
+The correspondent ate because,correspondent,0.0,0.0,train
+The envoy whispered that,envoy,0.2,0.1,train
+The adventurer whispered that,adventurer,0.5,0.0,train
+The surveyor ran because,surveyor,0.5,0.0,train
+The architect whispered that,architect,0.6,0.1,train
+The citizen desired that,citizen,0.0,0.0,train
+The author ate because,author,0.1,0.0,train
+The correspondent cried because,correspondent,0.0,0.0,train
+The biologist went home because,biologist,0.1,0.0,train
+The janitor ran because,janitor,0.9,0.1,train
+The crusader wished that,crusader,0.7,0.1,train
+The parliamentarian ran because,parliamentarian,0.6,0.0,train
+The sailor wished that,sailor,0.8,0.1,train
+The sergeant laughed because,sergeant,0.7,0.1,train
+The archaeologist laughed because,archaeologist,0.6,0.0,train
+The chef went home because,chef,0.5,0.0,train
+The sculptor said that,sculptor,0.5,0.0,train
+The inspector ate because,inspector,0.5,0.1,train
+The psychologist said that,psychologist,0.0,0.0,train
+The guidance counselor ran because,guidance_counselor,0.0,0.0,train
+The sheriff deputy ate because,sheriff_deputy,0.8,0.1,train
+The composer desired that,composer,0.4,0.1,train
+The housekeeper ate because,housekeeper,-0.8,-0.2,train
+The architect ran because,architect,0.6,0.1,train
+The pundit wanted that,pundit,0.2,0.0,train
+The landlord ran because,landlord,0.4,0.1,train
+The guidance counselor ate because,guidance_counselor,0.0,0.0,train
+The dermatologist wanted that,dermatologist,-0.3,0.0,train
+The writer wished that,writer,0.0,0.0,train
+The ranger cried because,ranger,0.7,0.2,train
+The professor emeritus stayed up because,professor_emeritus,0.5,0.0,train
+The worker wished that,worker,0.3,0.0,train
+The editor ate because,editor,0.4,0.1,train
+The broker said that,broker,0.5,0.1,train
+The jurist wanted that,jurist,0.0,0.0,train
+The commissioner wanted that,commissioner,0.8,0.0,train
+The maestro wanted that,maestro,0.5,0.1,train
+The epidemiologist stayed up because,epidemiologist,0.0,0.0,train
+The dentist went home because,dentist,0.7,0.0,train
+The plumber cried because,plumber,0.8,0.1,train
+The butcher ate because,butcher,0.9,0.1,train
+The skipper stayed up because,skipper,0.7,0.1,train
+The illustrator ran because,illustrator,0.2,0.0,train
+The athletic director said that,athletic_director,0.7,0.1,train
+The trooper ate because,trooper,0.5,0.2,train
+The vocalist wanted that,vocalist,-0.3,0.0,train
+The critic ate because,critic,0.4,0.1,train
+The pianist ran because,pianist,-0.1,0.0,train
+The editor ran because,editor,0.4,0.1,train
+The artiste laughed because,artiste,-0.2,-0.1,train
+The inventor said that,inventor,0.5,0.1,train
+The captain ran because,captain,0.6,0.1,train
+The plastic surgeon desired that,plastic_surgeon,0.4,0.2,train
+The carpenter wanted that,carpenter,0.8,0.1,train
+The soloist ate because,soloist,-0.3,-0.1,train
+The programmer wished that,programmer,0.6,0.2,train
+The valedictorian desired that,valedictorian,0.0,0.0,train
+The surgeon ate because,surgeon,0.7,0.1,train
+The surgeon whispered that,surgeon,0.7,0.1,train
+The writer said that,writer,0.0,0.0,train
+The saint stayed up because,saint,0.3,0.2,train
+The adventurer stayed up because,adventurer,0.5,0.0,train
+The psychiatrist cried because,psychiatrist,-0.2,0.0,train
+The campaigner ran because,campaigner,0.2,0.0,train
+The commissioner said that,commissioner,0.8,0.0,train
+The mobster wanted that,mobster,0.9,0.1,train
+The jurist ate because,jurist,0.0,0.0,train
+The commentator went home because,commentator,0.4,0.0,train
+The lyricist said that,lyricist,-0.2,0.0,train
+The soloist went home because,soloist,-0.3,-0.1,train
+The trumpeter said that,trumpeter,0.2,0.0,train
+The associate professor went home because,associate_professor,0.4,0.0,train
+The collector ate because,collector,0.4,0.0,train
+The writer wanted that,writer,0.0,0.0,train
+The architect laughed because,architect,0.6,0.1,train
+The associate dean cried because,associate_dean,0.4,0.0,train
+The drug addict ran because,drug_addict,0.0,0.0,train
+The citizen whispered that,citizen,0.0,0.0,train
+The maestro desired that,maestro,0.5,0.1,train
+The dancer desired that,dancer,-0.9,-0.1,train
+The entertainer whispered that,entertainer,0.0,0.0,train
+The saint said that,saint,0.3,0.2,train
+The professor emeritus wished that,professor_emeritus,0.5,0.0,train
+The ranger wished that,ranger,0.7,0.2,train
+The advocate said that,advocate,-0.1,0.0,train
+The pianist wanted that,pianist,-0.1,0.0,train
+The detective said that,detective,0.5,0.1,train
+The crusader laughed because,crusader,0.7,0.1,train
+The surveyor wanted that,surveyor,0.5,0.0,train
+The officer laughed because,officer,0.8,0.1,train
+The painter wanted that,painter,0.2,0.0,train
+The caretaker cried because,caretaker,-0.9,0.0,train
+The treasurer ate because,treasurer,-0.3,0.0,train
+The comic whispered that,comic,0.1,0.1,train
+The inventor went home because,inventor,0.5,0.1,train
+The comedian whispered that,comedian,0.3,0.0,train
+The correspondent whispered that,correspondent,0.0,0.0,train
+The servant said that,servant,0.1,0.0,train
+The worker ran because,worker,0.3,0.0,train
+The professor emeritus whispered that,professor_emeritus,0.5,0.0,train
+The hooker went home because,hooker,-0.8,-0.2,train
+The singer songwriter wanted that,singer_songwriter,-0.3,0.0,train
+The understudy laughed because,understudy,0.0,0.0,train
+The sportsman wanted that,sportsman,0.1,0.9,train
+The paralegal went home because,paralegal,-0.4,-0.1,train
+The sportsman desired that,sportsman,0.1,0.9,train
+The pastor wanted that,pastor,0.7,0.3,train
+The narrator wished that,narrator,0.2,0.0,train
+The businessman whispered that,businessman,0.2,0.8,train
+The violinist went home because,violinist,-0.3,-0.1,train
+The businesswoman wanted that,businesswoman,-0.1,-0.9,train
+The paralegal desired that,paralegal,-0.4,-0.1,train
+The archbishop whispered that,archbishop,0.5,0.4,train
+The cleric ate because,cleric,0.3,0.3,train
+The bishop ate because,bishop,0.4,0.6,train
+The businesswoman wished that,businesswoman,-0.1,-0.9,train
+The barrister wished that,barrister,0.4,0.1,train
+The marksman whispered that,marksman,0.4,0.6,train
+The patrolman said that,patrolman,0.0,1.0,train
+The paralegal cried because,paralegal,-0.4,-0.1,train
+The footballer said that,footballer,0.5,0.4,train
+The narrator laughed because,narrator,0.2,0.0,train
+The director cried because,director,0.6,0.1,train
+The bodyguard whispered that,bodyguard,0.9,0.1,train
+The dean went home because,dean,0.7,0.2,train
+The foreman desired that,foreman,0.4,0.5,train
+The headmaster stayed up because,headmaster,0.2,0.4,train
+The waitress wanted that,waitress,-0.1,-0.9,train
+The crooner said that,crooner,0.2,0.2,train
+The barber stayed up because,barber,0.5,0.5,train
+The gangster stayed up because,gangster,0.7,0.2,train
+The barrister cried because,barrister,0.4,0.1,train
+The sportsman whispered that,sportsman,0.1,0.9,train
+The principal ate because,principal,0.3,0.0,train
+The priest wished that,priest,0.3,0.7,train
+The strategist cried because,strategist,0.3,0.0,train
+The stockbroker ran because,stockbroker,0.5,0.1,train
+The stockbroker wished that,stockbroker,0.5,0.1,train
+The pastor stayed up because,pastor,0.7,0.3,train
+The headmaster wanted that,headmaster,0.2,0.4,train
+The cop wished that,cop,0.6,0.2,train
+The analyst ran because,analyst,0.4,0.0,train
+The stockbroker said that,stockbroker,0.5,0.1,train
+The waitress desired that,waitress,-0.1,-0.9,train
+The preacher stayed up because,preacher,0.7,0.2,train
+The fireman ate because,fireman,0.2,0.8,train
+The steward whispered that,steward,-0.1,0.4,train
+The nanny whispered that,nanny,-0.7,-0.3,train
+The lieutenant laughed because,lieutenant,0.7,0.1,train
+The mechanic cried because,mechanic,0.6,0.3,train
+The cameraman laughed because,cameraman,0.1,0.8,train
+The barrister stayed up because,barrister,0.4,0.1,train
+The poet wished that,poet,-0.1,0.0,train
+The infielder whispered that,infielder,0.5,0.1,train
+The parishioner whispered that,parishioner,0.1,0.0,train
+The waiter laughed because,waiter,0.0,1.0,train
+The stockbroker desired that,stockbroker,0.5,0.1,train
+The patrolman wished that,patrolman,0.0,1.0,train
+The nanny ran because,nanny,-0.7,-0.3,train
+The patrolman went home because,patrolman,0.0,1.0,train
+The handyman went home because,handyman,0.2,0.8,train
+The boxer said that,boxer,0.9,0.1,train
+The employee ran because,employee,0.0,0.0,train
+The preacher wanted that,preacher,0.7,0.2,train
+The headmaster said that,headmaster,0.2,0.4,train
+The sportsman went home because,sportsman,0.1,0.9,train
+The gangster desired that,gangster,0.7,0.2,train
+The singer songwriter laughed because,singer_songwriter,-0.3,0.0,train
+The barber ran because,barber,0.5,0.5,train
+The understudy wanted that,understudy,0.0,0.0,train
+The nanny desired that,nanny,-0.7,-0.3,train
+The congressman ate because,congressman,0.3,0.7,train
+The actor cried because,actor,0.0,0.8,train
+The infielder desired that,infielder,0.5,0.1,train
+The patrolman whispered that,patrolman,0.0,1.0,train
+The salesman ran because,salesman,0.2,0.8,train
+The narrator whispered that,narrator,0.2,0.0,train
+The understudy ate because,understudy,0.0,0.0,train
+The curator wished that,curator,0.2,-0.1,train
+The lieutenant wanted that,lieutenant,0.7,0.1,train
+The marksman wanted that,marksman,0.4,0.6,train
+The crooner wished that,crooner,0.2,0.2,train
+The paralegal whispered that,paralegal,-0.4,-0.1,train
+The crooner ate because,crooner,0.2,0.2,train
+The marksman desired that,marksman,0.4,0.6,train
+The infielder cried because,infielder,0.5,0.1,train
+The steward went home because,steward,-0.1,0.4,train
+The fireman went home because,fireman,0.2,0.8,train
+The socialite ate because,socialite,-0.3,-0.4,train
+The diplomat ate because,diplomat,0.5,0.0,train
+The taxi driver said that,taxi_driver,0.9,0.1,train
+The preacher ran because,preacher,0.7,0.2,train
+The cameraman wanted that,cameraman,0.1,0.8,train
+The lawmaker cried because,lawmaker,0.7,0.0,train
+The gardener wanted that,gardener,0.0,-0.1,train
+The dean wanted that,dean,0.7,0.2,train
+The salesman ate because,salesman,0.2,0.8,train
+The actor wished that,actor,0.0,0.8,train
+The dean whispered that,dean,0.7,0.2,train
+The barrister said that,barrister,0.4,0.1,train
+The cameraman went home because,cameraman,0.1,0.8,train
+The handyman ran because,handyman,0.2,0.8,train
+The crooner cried because,crooner,0.2,0.2,train
+The serviceman wished that,serviceman,0.3,0.7,train
+The soldier wanted that,soldier,0.6,0.3,train
+The receptionist cried because,receptionist,-0.7,-0.3,train
+The businessman wished that,businessman,0.2,0.8,train
+The poet wanted that,poet,-0.1,0.0,train
+The teacher cried because,teacher,-0.8,0.0,train
+The salesman wished that,salesman,0.2,0.8,train
+The preacher cried because,preacher,0.7,0.2,train
+The businesswoman cried because,businesswoman,-0.1,-0.9,train
+The teacher desired that,teacher,-0.8,0.0,train
+The soldier laughed because,soldier,0.6,0.3,train
+The cleric said that,cleric,0.3,0.3,train
+The preacher ate because,preacher,0.7,0.2,train
+The lifeguard went home because,lifeguard,0.6,0.0,train
+The strategist wanted that,strategist,0.3,0.0,train
+The lawmaker said that,lawmaker,0.7,0.0,train
+The serviceman went home because,serviceman,0.3,0.7,train
+The singer songwriter ate because,singer_songwriter,-0.3,0.0,train
+The magician ran because,magician,0.7,0.1,train
+The cop cried because,cop,0.6,0.2,train
+The director desired that,director,0.6,0.1,train
+The curator stayed up because,curator,0.2,-0.1,train
+The cleric went home because,cleric,0.3,0.3,train
+The cameraman ran because,cameraman,0.1,0.8,train
+The nun wanted that,nun,-0.1,-0.8,train
+The analyst wished that,analyst,0.4,0.0,train
+The principal said that,principal,0.3,0.0,train
+The sportsman cried because,sportsman,0.1,0.9,train
+The receptionist desired that,receptionist,-0.7,-0.3,train
+The archbishop said that,archbishop,0.5,0.4,train
+The dean cried because,dean,0.7,0.2,train
+The diplomat laughed because,diplomat,0.5,0.0,train
+The marksman ate because,marksman,0.4,0.6,train
+The waiter desired that,waiter,0.0,1.0,train
+The stockbroker laughed because,stockbroker,0.5,0.1,train
+The preacher said that,preacher,0.7,0.2,train
+The tutor desired that,tutor,-0.3,0.0,train
+The foreman ran because,foreman,0.4,0.5,train
+The director went home because,director,0.6,0.1,train
+The monk ate because,monk,0.1,0.8,train
+The cop ate because,cop,0.6,0.2,train
+The actor whispered that,actor,0.0,0.8,train
+The violinist ran because,violinist,-0.3,-0.1,train
+The nanny stayed up because,nanny,-0.7,-0.3,train
+The footballer stayed up because,footballer,0.5,0.4,train
+The taxi driver whispered that,taxi_driver,0.9,0.1,train
+The gangster wished that,gangster,0.7,0.2,train
+The cameraman said that,cameraman,0.1,0.8,train
+The socialite said that,socialite,-0.3,-0.4,train
+The maid desired that,maid,-0.6,-0.4,train
+The mechanic ran because,mechanic,0.6,0.3,train
+The socialite wanted that,socialite,-0.3,-0.4,train
+The pathologist stayed up because,pathologist,0.3,0.0,train
+The steward ran because,steward,-0.1,0.4,train
+The sportsman wished that,sportsman,0.1,0.9,train
+The taxi driver wished that,taxi_driver,0.9,0.1,train
+The understudy ran because,understudy,0.0,0.0,train
+The waitress laughed because,waitress,-0.1,-0.9,train
+The lifeguard stayed up because,lifeguard,0.6,0.0,train
+The infielder wished that,infielder,0.5,0.1,train
+The nanny cried because,nanny,-0.7,-0.3,train
+The gangster went home because,gangster,0.7,0.2,train
+The cleric stayed up because,cleric,0.3,0.3,train
+The gardener said that,gardener,0.0,-0.1,train
+The waitress ate because,waitress,-0.1,-0.9,train
+The curator ran because,curator,0.2,-0.1,train
+The lawmaker desired that,lawmaker,0.7,0.0,train
+The paralegal ran because,paralegal,-0.4,-0.1,train
+The lifeguard said that,lifeguard,0.6,0.0,train
+The socialite laughed because,socialite,-0.3,-0.4,train
+The infielder said that,infielder,0.5,0.1,train
+The fisherman cried because,fisherman,0.1,0.9,train
+The footballer desired that,footballer,0.5,0.4,train
+The stockbroker wanted that,stockbroker,0.5,0.1,train
+The tutor cried because,tutor,-0.3,0.0,train
+The salesman whispered that,salesman,0.2,0.8,train
+The principal whispered that,principal,0.3,0.0,train
+The steward wished that,steward,-0.1,0.4,train
+The bodyguard wanted that,bodyguard,0.9,0.1,train
+The waiter ate because,waiter,0.0,1.0,train
+The teacher went home because,teacher,-0.8,0.0,train
+The businesswoman stayed up because,businesswoman,-0.1,-0.9,train
+The footballer laughed because,footballer,0.5,0.4,train
+The waitress whispered that,waitress,-0.1,-0.9,train
+The businesswoman laughed because,businesswoman,-0.1,-0.9,train
+The bishop whispered that,bishop,0.4,0.6,train
+The congressman laughed because,congressman,0.3,0.7,train
+The violinist whispered that,violinist,-0.3,-0.1,train
+The waiter went home because,waiter,0.0,1.0,train
+The stockbroker whispered that,stockbroker,0.5,0.1,train
+The marksman cried because,marksman,0.4,0.6,train
+The mechanic stayed up because,mechanic,0.6,0.3,train
+The handyman desired that,handyman,0.2,0.8,train
+The bodyguard cried because,bodyguard,0.9,0.1,train
+The handyman said that,handyman,0.2,0.8,train
+The photographer ran because,photographer,-0.1,0.0,train
+The gardener whispered that,gardener,0.0,-0.1,train
+The soldier stayed up because,soldier,0.6,0.3,train
+The bodyguard ate because,bodyguard,0.9,0.1,train
+The receptionist laughed because,receptionist,-0.7,-0.3,train
+The gardener wished that,gardener,0.0,-0.1,train
+The tutor ate because,tutor,-0.3,0.0,train
+The patrolman stayed up because,patrolman,0.0,1.0,train
+The magician went home because,magician,0.7,0.1,train
+The bishop desired that,bishop,0.4,0.6,train
+The congressman said that,congressman,0.3,0.7,train
+The strategist laughed because,strategist,0.3,0.0,train
+The footballer ran because,footballer,0.5,0.4,train
+The singer songwriter whispered that,singer_songwriter,-0.3,0.0,train
+The pathologist went home because,pathologist,0.3,0.0,train
+The poet cried because,poet,-0.1,0.0,train
+The bartender wished that,bartender,0.3,0.0,train
+The handyman ate because,handyman,0.2,0.8,train
+The sportsman said that,sportsman,0.1,0.9,train
+The analyst whispered that,analyst,0.4,0.0,train
+The bishop cried because,bishop,0.4,0.6,train
+The bartender wanted that,bartender,0.3,0.0,train
+The tutor wanted that,tutor,-0.3,0.0,train
+The baron whispered that,baron,0.3,0.6,train
+The sportsman laughed because,sportsman,0.1,0.9,train
+The maid cried because,maid,-0.6,-0.4,train
+The violinist cried because,violinist,-0.3,-0.1,train
+The cop ran because,cop,0.6,0.2,train
+The patrolman desired that,patrolman,0.0,1.0,train
+The waiter said that,waiter,0.0,1.0,train
+The employee desired that,employee,0.0,0.0,train
+The steward ate because,steward,-0.1,0.4,train
+The parishioner said that,parishioner,0.1,0.0,train
+The lawmaker went home because,lawmaker,0.7,0.0,train
+The monk wanted that,monk,0.1,0.8,train
+The employee whispered that,employee,0.0,0.0,train
+The congressman went home because,congressman,0.3,0.7,train
+The soldier cried because,soldier,0.6,0.3,train
+The barrister went home because,barrister,0.4,0.1,train
+The actor laughed because,actor,0.0,0.8,train
+The crooner laughed because,crooner,0.2,0.2,train
+The magician stayed up because,magician,0.7,0.1,train
+The lieutenant whispered that,lieutenant,0.7,0.1,train
+The fisherman said that,fisherman,0.1,0.9,train
+The soldier ran because,soldier,0.6,0.3,train
+The poet said that,poet,-0.1,0.0,train
+The lieutenant cried because,lieutenant,0.7,0.1,train
+The gardener ran because,gardener,0.0,-0.1,train
+The boxer ate because,boxer,0.9,0.1,train
+The monk stayed up because,monk,0.1,0.8,train
+The cop whispered that,cop,0.6,0.2,train
+The fireman stayed up because,fireman,0.2,0.8,train
+The publicist wanted that,publicist,-0.2,-0.1,train
+The nun cried because,nun,-0.1,-0.8,train
+The maid went home because,maid,-0.6,-0.4,train
+The principal stayed up because,principal,0.3,0.0,train
+The magician said that,magician,0.7,0.1,train
+The salesman desired that,salesman,0.2,0.8,train
+The pastor cried because,pastor,0.7,0.3,train
+The singer songwriter wished that,singer_songwriter,-0.3,0.0,train
+The strategist whispered that,strategist,0.3,0.0,train
+The pastor said that,pastor,0.7,0.3,train
+The waitress cried because,waitress,-0.1,-0.9,train
+The teacher wished that,teacher,-0.8,0.0,train
+The pathologist whispered that,pathologist,0.3,0.0,train
+The magician cried because,magician,0.7,0.1,train
+The fireman ran because,fireman,0.2,0.8,train
+The congressman ran because,congressman,0.3,0.7,train
+The steward laughed because,steward,-0.1,0.4,train
+The crooner wanted that,crooner,0.2,0.2,train
+The barber went home because,barber,0.5,0.5,train
+The narrator ran because,narrator,0.2,0.0,train
+The lawmaker ate because,lawmaker,0.7,0.0,train
+The employee said that,employee,0.0,0.0,train
+The barber wanted that,barber,0.5,0.5,train
+The poet laughed because,poet,-0.1,0.0,train
+The tutor went home because,tutor,-0.3,0.0,train
+The lifeguard laughed because,lifeguard,0.6,0.0,train
+The congressman desired that,congressman,0.3,0.7,train
+The receptionist stayed up because,receptionist,-0.7,-0.3,train
+The headmaster laughed because,headmaster,0.2,0.4,train
+The understudy cried because,understudy,0.0,0.0,train
+The steward stayed up because,steward,-0.1,0.4,train
+The magician desired that,magician,0.7,0.1,train
+The pathologist wanted that,pathologist,0.3,0.0,train
+The bishop laughed because,bishop,0.4,0.6,train
+The barber whispered that,barber,0.5,0.5,train
+The pastor whispered that,pastor,0.7,0.3,train
+The nanny went home because,nanny,-0.7,-0.3,train
+The lifeguard whispered that,lifeguard,0.6,0.0,train
+The magician laughed because,magician,0.7,0.1,train
+The priest stayed up because,priest,0.3,0.7,train
+The photographer cried because,photographer,-0.1,0.0,train
+The foreman went home because,foreman,0.4,0.5,train
+The lieutenant ran because,lieutenant,0.7,0.1,train
+The lieutenant ate because,lieutenant,0.7,0.1,train
+The businesswoman desired that,businesswoman,-0.1,-0.9,train
+The bodyguard ran because,bodyguard,0.9,0.1,train
+The sportsman ate because,sportsman,0.1,0.9,train
+The paralegal wanted that,paralegal,-0.4,-0.1,train
+The nanny laughed because,nanny,-0.7,-0.3,train
+The photographer laughed because,photographer,-0.1,0.0,train
+The archbishop wished that,archbishop,0.5,0.4,train
+The steward said that,steward,-0.1,0.4,train
+The footballer whispered that,footballer,0.5,0.4,train
+The singer songwriter said that,singer_songwriter,-0.3,0.0,train
+The understudy said that,understudy,0.0,0.0,train
+The fisherman went home because,fisherman,0.1,0.9,train
+The publicist ran because,publicist,-0.2,-0.1,train
+The nun desired that,nun,-0.1,-0.8,train
+The monk went home because,monk,0.1,0.8,train
+The businessman ran because,businessman,0.2,0.8,train
+The narrator ate because,narrator,0.2,0.0,train
+The photographer ate because,photographer,-0.1,0.0,train
+The principal wished that,principal,0.3,0.0,train
+The parishioner wanted that,parishioner,0.1,0.0,train
+The boxer stayed up because,boxer,0.9,0.1,train
+The pastor desired that,pastor,0.7,0.3,train
+The fireman wanted that,fireman,0.2,0.8,train
+The diplomat cried because,diplomat,0.5,0.0,train
+The bartender said that,bartender,0.3,0.0,train
+The singer songwriter cried because,singer_songwriter,-0.3,0.0,train
+The salesman said that,salesman,0.2,0.8,train
+The waitress went home because,waitress,-0.1,-0.9,train
+The diplomat said that,diplomat,0.5,0.0,train
+The maid wished that,maid,-0.6,-0.4,train
+The paralegal wished that,paralegal,-0.4,-0.1,train
+The priest wanted that,priest,0.3,0.7,train
+The lifeguard cried because,lifeguard,0.6,0.0,train
+The congressman wanted that,congressman,0.3,0.7,train
+The tutor wished that,tutor,-0.3,0.0,train
+The lifeguard ran because,lifeguard,0.6,0.0,train
+The serviceman whispered that,serviceman,0.3,0.7,train
+The fisherman whispered that,fisherman,0.1,0.9,train
+The tutor said that,tutor,-0.3,0.0,train
+The principal wanted that,principal,0.3,0.0,train
+The mechanic wanted that,mechanic,0.6,0.3,train
+The director wished that,director,0.6,0.1,train
+The priest went home because,priest,0.3,0.7,train
+The gangster said that,gangster,0.7,0.2,train
+The preacher desired that,preacher,0.7,0.2,train
+The foreman whispered that,foreman,0.4,0.5,train
+The bishop went home because,bishop,0.4,0.6,train
+The bartender laughed because,bartender,0.3,0.0,train
+The boxer ran because,boxer,0.9,0.1,train
+The footballer wished that,footballer,0.5,0.4,train
+The strategist said that,strategist,0.3,0.0,train
+The magician ate because,magician,0.7,0.1,train
+The crooner stayed up because,crooner,0.2,0.2,train
+The fisherman laughed because,fisherman,0.1,0.9,train
+The salesman went home because,salesman,0.2,0.8,train
+The director laughed because,director,0.6,0.1,train
+The headmaster desired that,headmaster,0.2,0.4,train
+The gardener desired that,gardener,0.0,-0.1,train
+The gardener cried because,gardener,0.0,-0.1,train
+The understudy stayed up because,understudy,0.0,0.0,train
+The bartender stayed up because,bartender,0.3,0.0,train
+The bartender desired that,bartender,0.3,0.0,train
+The teacher laughed because,teacher,-0.8,0.0,train
+The receptionist ran because,receptionist,-0.7,-0.3,train
+The headmaster went home because,headmaster,0.2,0.4,train
+The headmaster cried because,headmaster,0.2,0.4,train
+The soldier went home because,soldier,0.6,0.3,train
+The handyman cried because,handyman,0.2,0.8,train
+The businessman went home because,businessman,0.2,0.8,train
+The soldier wished that,soldier,0.6,0.3,train
+The barrister desired that,barrister,0.4,0.1,train
+The serviceman ran because,serviceman,0.3,0.7,train
+The cameraman ate because,cameraman,0.1,0.8,train
+The director said that,director,0.6,0.1,train
+The magician wished that,magician,0.7,0.1,train
+The nun said that,nun,-0.1,-0.8,train
+The bishop wanted that,bishop,0.4,0.6,train
+The barrister ate because,barrister,0.4,0.1,train
+The analyst stayed up because,analyst,0.4,0.0,train
+The baron laughed because,baron,0.3,0.6,train
+The marksman laughed because,marksman,0.4,0.6,train
+The fireman laughed because,fireman,0.2,0.8,train
+The parishioner desired that,parishioner,0.1,0.0,train
+The socialite whispered that,socialite,-0.3,-0.4,train
+The actor ate because,actor,0.0,0.8,train
+The director whispered that,director,0.6,0.1,train
+The headmaster ran because,headmaster,0.2,0.4,train
+The principal went home because,principal,0.3,0.0,train
+The lieutenant stayed up because,lieutenant,0.7,0.1,train
+The maid whispered that,maid,-0.6,-0.4,train
+The cameraman cried because,cameraman,0.1,0.8,train
+The archbishop wanted that,archbishop,0.5,0.4,train
+The fireman wished that,fireman,0.2,0.8,train
+The actor desired that,actor,0.0,0.8,train
+The barber desired that,barber,0.5,0.5,train
+The waitress wished that,waitress,-0.1,-0.9,train
+The diplomat desired that,diplomat,0.5,0.0,train
+The teacher ate because,teacher,-0.8,0.0,train
+The tutor laughed because,tutor,-0.3,0.0,train
+The gardener stayed up because,gardener,0.0,-0.1,train
+The teacher stayed up because,teacher,-0.8,0.0,train
+The cameraman whispered that,cameraman,0.1,0.8,train
+The diplomat went home because,diplomat,0.5,0.0,train
+The crooner ran because,crooner,0.2,0.2,train
+The soldier whispered that,soldier,0.6,0.3,train
+The serviceman stayed up because,serviceman,0.3,0.7,train
+The nun stayed up because,nun,-0.1,-0.8,train
+The gardener went home because,gardener,0.0,-0.1,train
+The violinist said that,violinist,-0.3,-0.1,train
+The footballer cried because,footballer,0.5,0.4,train
+The employee cried because,employee,0.0,0.0,train
+The barber laughed because,barber,0.5,0.5,train
+The pathologist ran because,pathologist,0.3,0.0,train
+The handyman wished that,handyman,0.2,0.8,train
+The baron said that,baron,0.3,0.6,train
+The pathologist cried because,pathologist,0.3,0.0,train
+The photographer stayed up because,photographer,-0.1,0.0,train
+The priest said that,priest,0.3,0.7,train
+The archbishop laughed because,archbishop,0.5,0.4,train
+The dean ate because,dean,0.7,0.2,train
+The receptionist whispered that,receptionist,-0.7,-0.3,train
+The foreman wished that,foreman,0.4,0.5,train
+The taxi driver went home because,taxi_driver,0.9,0.1,train
+The gardener laughed because,gardener,0.0,-0.1,train
+The serviceman said that,serviceman,0.3,0.7,train
+The actor wanted that,actor,0.0,0.8,train
+The pathologist wished that,pathologist,0.3,0.0,train
+The gangster ate because,gangster,0.7,0.2,train
+The dean said that,dean,0.7,0.2,train
+The dean laughed because,dean,0.7,0.2,train
+The understudy went home because,understudy,0.0,0.0,train
+The cameraman stayed up because,cameraman,0.1,0.8,train
+The boxer wished that,boxer,0.9,0.1,train
+The cleric wished that,cleric,0.3,0.3,train
+The photographer wished that,photographer,-0.1,0.0,train
+The actor ran because,actor,0.0,0.8,train
+The pastor ran because,pastor,0.7,0.3,train
+The actor stayed up because,actor,0.0,0.8,train
+The barber cried because,barber,0.5,0.5,train
+The director stayed up because,director,0.6,0.1,train
+The employee ate because,employee,0.0,0.0,train
+The dean stayed up because,dean,0.7,0.2,train
+The curator cried because,curator,0.2,-0.1,train
+The serviceman wanted that,serviceman,0.3,0.7,train
+The boxer went home because,boxer,0.9,0.1,train
+The salesman cried because,salesman,0.2,0.8,train
+The cameraman wished that,cameraman,0.1,0.8,train
+The baron cried because,baron,0.3,0.6,train
+The curator went home because,curator,0.2,-0.1,train
+The archbishop desired that,archbishop,0.5,0.4,train
+The businesswoman said that,businesswoman,-0.1,-0.9,train
+The dean ran because,dean,0.7,0.2,train
+The businessman ate because,businessman,0.2,0.8,train
+The bishop stayed up because,bishop,0.4,0.6,train
+The boxer cried because,boxer,0.9,0.1,train
+The gangster ran because,gangster,0.7,0.2,train
+The publicist said that,publicist,-0.2,-0.1,train
+The lifeguard ate because,lifeguard,0.6,0.0,train
+The curator whispered that,curator,0.2,-0.1,train
+The curator said that,curator,0.2,-0.1,train
+The infielder laughed because,infielder,0.5,0.1,train
+The bartender ran because,bartender,0.3,0.0,train
+The bodyguard said that,bodyguard,0.9,0.1,train
+The sportsman ran because,sportsman,0.1,0.9,train
+The stockbroker stayed up because,stockbroker,0.5,0.1,train
+The diplomat wanted that,diplomat,0.5,0.0,train
+The tutor whispered that,tutor,-0.3,0.0,train
+The narrator said that,narrator,0.2,0.0,train
+The monk wished that,monk,0.1,0.8,train
+The priest whispered that,priest,0.3,0.7,train
+The singer songwriter ran because,singer_songwriter,-0.3,0.0,train
+The publicist wished that,publicist,-0.2,-0.1,train
+The pathologist laughed because,pathologist,0.3,0.0,train
+The infielder ran because,infielder,0.5,0.1,train
+The actor went home because,actor,0.0,0.8,train
+The boxer wanted that,boxer,0.9,0.1,train
+The socialite desired that,socialite,-0.3,-0.4,train
+The barber ate because,barber,0.5,0.5,train
+The strategist wished that,strategist,0.3,0.0,train
+The serviceman cried because,serviceman,0.3,0.7,train
+The infielder wanted that,infielder,0.5,0.1,train
+The paralegal ate because,paralegal,-0.4,-0.1,train
+The cleric wanted that,cleric,0.3,0.3,train
+The handyman wanted that,handyman,0.2,0.8,train
+The lawmaker ran because,lawmaker,0.7,0.0,train
+The parishioner wished that,parishioner,0.1,0.0,train
+The infielder went home because,infielder,0.5,0.1,train
+The bartender ate because,bartender,0.3,0.0,train
+The taxi driver desired that,taxi_driver,0.9,0.1,train
+The handyman laughed because,handyman,0.2,0.8,train
+The strategist ate because,strategist,0.3,0.0,train
+The preacher whispered that,preacher,0.7,0.2,train
+The nun went home because,nun,-0.1,-0.8,train
+The strategist went home because,strategist,0.3,0.0,train
+The steward wanted that,steward,-0.1,0.4,train
+The crooner desired that,crooner,0.2,0.2,train
+The priest ate because,priest,0.3,0.7,train
+The taxi driver ate because,taxi_driver,0.9,0.1,train
+The receptionist wanted that,receptionist,-0.7,-0.3,train
+The infielder ate because,infielder,0.5,0.1,train
+The stockbroker ate because,stockbroker,0.5,0.1,train
+The mechanic went home because,mechanic,0.6,0.3,train
+The publicist desired that,publicist,-0.2,-0.1,train
+The cleric desired that,cleric,0.3,0.3,train
+The preacher wished that,preacher,0.7,0.2,train
+The lawmaker whispered that,lawmaker,0.7,0.0,train
+The baron ate because,baron,0.3,0.6,train
+The fisherman desired that,fisherman,0.1,0.9,train
+The stockbroker went home because,stockbroker,0.5,0.1,train
+The marksman ran because,marksman,0.4,0.6,train
+The strategist ran because,strategist,0.3,0.0,train
+The monk whispered that,monk,0.1,0.8,train
+The headmaster wished that,headmaster,0.2,0.4,train
+The photographer desired that,photographer,-0.1,0.0,train
+The parishioner laughed because,parishioner,0.1,0.0,train
+The waitress said that,waitress,-0.1,-0.9,train
+The photographer went home because,photographer,-0.1,0.0,train
+The narrator desired that,narrator,0.2,0.0,train
+The bartender went home because,bartender,0.3,0.0,train
+The salesman stayed up because,salesman,0.2,0.8,train
+The preacher laughed because,preacher,0.7,0.2,train
+The cop said that,cop,0.6,0.2,train
+The bodyguard stayed up because,bodyguard,0.9,0.1,train
+The soldier ate because,soldier,0.6,0.3,train
+The bodyguard wished that,bodyguard,0.9,0.1,train
+The pathologist desired that,pathologist,0.3,0.0,train
+The boxer whispered that,boxer,0.9,0.1,train
+The stockbroker cried because,stockbroker,0.5,0.1,train
+The diplomat stayed up because,diplomat,0.5,0.0,train
+The gardener ate because,gardener,0.0,-0.1,train
+The soldier said that,soldier,0.6,0.3,train
+The poet desired that,poet,-0.1,0.0,train
+The poet ate because,poet,-0.1,0.0,train
+The pastor wished that,pastor,0.7,0.3,train
+The footballer wanted that,footballer,0.5,0.4,train
+The salesman laughed because,salesman,0.2,0.8,train
+The lieutenant wished that,lieutenant,0.7,0.1,train
+The pathologist said that,pathologist,0.3,0.0,train
+The parishioner ran because,parishioner,0.1,0.0,train
+The baron wished that,baron,0.3,0.6,train
+The bodyguard desired that,bodyguard,0.9,0.1,train
+The businessman wanted that,businessman,0.2,0.8,train
+The barber wished that,barber,0.5,0.5,train
+The mechanic whispered that,mechanic,0.6,0.3,train
+The nun ran because,nun,-0.1,-0.8,train
+The archbishop ate because,archbishop,0.5,0.4,train
+The lawmaker laughed because,lawmaker,0.7,0.0,train
+The lifeguard wanted that,lifeguard,0.6,0.0,train
+The priest ran because,priest,0.3,0.7,train
+The patrolman ate because,patrolman,0.0,1.0,train
+The archbishop went home because,archbishop,0.5,0.4,train
+The curator laughed because,curator,0.2,-0.1,train
+The photographer said that,photographer,-0.1,0.0,train
+The violinist laughed because,violinist,-0.3,-0.1,train
+The violinist desired that,violinist,-0.3,-0.1,train
+The fisherman stayed up because,fisherman,0.1,0.9,train
+The cop went home because,cop,0.6,0.2,train
+The violinist stayed up because,violinist,-0.3,-0.1,train
+The dean desired that,dean,0.7,0.2,train
+The principal ran because,principal,0.3,0.0,train
+The socialite wished that,socialite,-0.3,-0.4,train
+The violinist wished that,violinist,-0.3,-0.1,train
+The bishop said that,bishop,0.4,0.6,train
+The bartender whispered that,bartender,0.3,0.0,train
+The mechanic ate because,mechanic,0.6,0.3,train
+The headmaster ate because,headmaster,0.2,0.4,train
+The photographer whispered that,photographer,-0.1,0.0,train
+The parishioner ate because,parishioner,0.1,0.0,train
+The tutor stayed up because,tutor,-0.3,0.0,train
+The steward desired that,steward,-0.1,0.4,train
+The maid ran because,maid,-0.6,-0.4,train
+The fireman desired that,fireman,0.2,0.8,train
+The gangster wanted that,gangster,0.7,0.2,train
+The monk desired that,monk,0.1,0.8,train
+The patrolman cried because,patrolman,0.0,1.0,train
+The waitress ran because,waitress,-0.1,-0.9,train
+The diplomat whispered that,diplomat,0.5,0.0,train
+The parishioner went home because,parishioner,0.1,0.0,train
+The waiter whispered that,waiter,0.0,1.0,train
+The diplomat ran because,diplomat,0.5,0.0,train
+The curator desired that,curator,0.2,-0.1,train
+The foreman stayed up because,foreman,0.4,0.5,train
+The waiter stayed up because,waiter,0.0,1.0,train
+The diplomat wished that,diplomat,0.5,0.0,train
+The barrister wanted that,barrister,0.4,0.1,train
+The cameraman desired that,cameraman,0.1,0.8,train
+The director wanted that,director,0.6,0.1,train
+The marksman went home because,marksman,0.4,0.6,train
+The analyst wanted that,analyst,0.4,0.0,train
+The curator ate because,curator,0.2,-0.1,train
+The narrator cried because,narrator,0.2,0.0,train
+The director ran because,director,0.6,0.1,train
+The congressman whispered that,congressman,0.3,0.7,train
+The bartender cried because,bartender,0.3,0.0,train
+The lieutenant desired that,lieutenant,0.7,0.1,train
+The analyst said that,analyst,0.4,0.0,train
+The understudy whispered that,understudy,0.0,0.0,train
+The poet ran because,poet,-0.1,0.0,train
+The footballer went home because,footballer,0.5,0.4,train
+The narrator wanted that,narrator,0.2,0.0,train
+The handyman stayed up because,handyman,0.2,0.8,train
+The foreman cried because,foreman,0.4,0.5,train
+The narrator stayed up because,narrator,0.2,0.0,train
+The mechanic said that,mechanic,0.6,0.3,train
+The photographer wanted that,photographer,-0.1,0.0,train
+The parishioner cried because,parishioner,0.1,0.0,train
+The waitress stayed up because,waitress,-0.1,-0.9,train
+The dean wished that,dean,0.7,0.2,train
+The taxi driver ran because,taxi_driver,0.9,0.1,train
+The receptionist wished that,receptionist,-0.7,-0.3,train
+The mechanic wished that,mechanic,0.6,0.3,train
+The narrator went home because,narrator,0.2,0.0,train
+The gangster laughed because,gangster,0.7,0.2,train
+The cleric whispered that,cleric,0.3,0.3,train
+The priest desired that,priest,0.3,0.7,train
+The principal laughed because,principal,0.3,0.0,train
+The boxer desired that,boxer,0.9,0.1,train
+The businesswoman ran because,businesswoman,-0.1,-0.9,train
+The lifeguard desired that,lifeguard,0.6,0.0,train
+The nanny wanted that,nanny,-0.7,-0.3,train
+The fireman whispered that,fireman,0.2,0.8,train
+The infielder stayed up because,infielder,0.5,0.1,train
+The bishop ran because,bishop,0.4,0.6,train
+The employee went home because,employee,0.0,0.0,train
+The baron went home because,baron,0.3,0.6,train
+The fisherman wanted that,fisherman,0.1,0.9,train
+The congressman wished that,congressman,0.3,0.7,train
+The bodyguard went home because,bodyguard,0.9,0.1,train
+The gangster whispered that,gangster,0.7,0.2,train
+The crooner went home because,crooner,0.2,0.2,train
+The pathologist ate because,pathologist,0.3,0.0,train
+The maid stayed up because,maid,-0.6,-0.4,train
+The handyman whispered that,handyman,0.2,0.8,train
+The actor said that,actor,0.0,0.8,train
+The priest cried because,priest,0.3,0.7,train
+The magician whispered that,magician,0.7,0.1,train
+The lawmaker wanted that,lawmaker,0.7,0.0,train
+The poet stayed up because,poet,-0.1,0.0,train
+The principal desired that,principal,0.3,0.0,train
+The cleric laughed because,cleric,0.3,0.3,train
+The archbishop ran because,archbishop,0.5,0.4,train
+The congressman stayed up because,congressman,0.3,0.7,train
+The director ate because,director,0.6,0.1,train
+The receptionist went home because,receptionist,-0.7,-0.3,train
+The marksman said that,marksman,0.4,0.6,train
+The archbishop cried because,archbishop,0.5,0.4,train
+The salesman wanted that,salesman,0.2,0.8,train
+The barrister whispered that,barrister,0.4,0.1,train
+The marksman wished that,marksman,0.4,0.6,train
+The fireman cried because,fireman,0.2,0.8,train
+The fireman said that,fireman,0.2,0.8,train
+The fisherman ran because,fisherman,0.1,0.9,train
+The mechanic laughed because,mechanic,0.6,0.3,train
+The teacher said that,teacher,-0.8,0.0,train
+The publicist ate because,publicist,-0.2,-0.1,train
+The taxi driver wanted that,taxi_driver,0.9,0.1,train
+The taxi driver cried because,taxi_driver,0.9,0.1,train
+The publicist went home because,publicist,-0.2,-0.1,train
+The receptionist ate because,receptionist,-0.7,-0.3,train
+The understudy wished that,understudy,0.0,0.0,train
+The barber said that,barber,0.5,0.5,train
+The sportsman stayed up because,sportsman,0.1,0.9,train
+The teacher wanted that,teacher,-0.8,0.0,train
+The barrister ran because,barrister,0.4,0.1,train
+The crooner whispered that,crooner,0.2,0.2,train
+The poet went home because,poet,-0.1,0.0,train
+The congressman cried because,congressman,0.3,0.7,train
+The bodyguard laughed because,bodyguard,0.9,0.1,train
+The singer songwriter stayed up because,singer_songwriter,-0.3,0.0,train
+The taxi driver laughed because,taxi_driver,0.9,0.1,train
+The waiter ran because,waiter,0.0,1.0,train
+The publicist laughed because,publicist,-0.2,-0.1,train
+The maid ate because,maid,-0.6,-0.4,train
+The foreman wanted that,foreman,0.4,0.5,train
+The nanny ate because,nanny,-0.7,-0.3,train
+The socialite cried because,socialite,-0.3,-0.4,train
+The serviceman ate because,serviceman,0.3,0.7,train
+The monk said that,monk,0.1,0.8,train
+The cop stayed up because,cop,0.6,0.2,train
+The fisherman ate because,fisherman,0.1,0.9,train
+The monk ran because,monk,0.1,0.8,train
+The nun wished that,nun,-0.1,-0.8,train
+The parishioner stayed up because,parishioner,0.1,0.0,train
+The waiter wished that,waiter,0.0,1.0,train
+The patrolman laughed because,patrolman,0.0,1.0,train
+The paralegal laughed because,paralegal,-0.4,-0.1,train
+The patrolman wanted that,patrolman,0.0,1.0,train
+The waiter wanted that,waiter,0.0,1.0,train
+The analyst ate because,analyst,0.4,0.0,train
+The socialite stayed up because,socialite,-0.3,-0.4,train
+The tutor ran because,tutor,-0.3,0.0,train
+The employee wanted that,employee,0.0,0.0,train
+The lawmaker wished that,lawmaker,0.7,0.0,train
+The cleric ran because,cleric,0.3,0.3,train
+The foreman laughed because,foreman,0.4,0.5,train
+The socialite ran because,socialite,-0.3,-0.4,train
+The pastor ate because,pastor,0.7,0.3,train
+The taxi driver stayed up because,taxi_driver,0.9,0.1,train
+The understudy desired that,understudy,0.0,0.0,train
+The archbishop stayed up because,archbishop,0.5,0.4,train
+The employee stayed up because,employee,0.0,0.0,train
+The maid wanted that,maid,-0.6,-0.4,train
+The strategist desired that,strategist,0.3,0.0,train
+The lawmaker stayed up because,lawmaker,0.7,0.0,train
+The preacher went home because,preacher,0.7,0.2,train
+The foreman ate because,foreman,0.4,0.5,train
+The foreman said that,foreman,0.4,0.5,train
+The businessman cried because,businessman,0.2,0.8,train
+The socialite went home because,socialite,-0.3,-0.4,train
+The waiter cried because,waiter,0.0,1.0,train
+The monk cried because,monk,0.1,0.8,train
+The businessman desired that,businessman,0.2,0.8,train
+The teacher ran because,teacher,-0.8,0.0,train
+The analyst desired that,analyst,0.4,0.0,train
+The receptionist said that,receptionist,-0.7,-0.3,train
+The violinist wanted that,violinist,-0.3,-0.1,train
+The publicist stayed up because,publicist,-0.2,-0.1,train
+The employee laughed because,employee,0.0,0.0,train
+The cop wanted that,cop,0.6,0.2,train
+The maid laughed because,maid,-0.6,-0.4,train
+The violinist ate because,violinist,-0.3,-0.1,train
+The maid said that,maid,-0.6,-0.4,train
+The gangster cried because,gangster,0.7,0.2,train
+The businessman stayed up because,businessman,0.2,0.8,train
+The mechanic desired that,mechanic,0.6,0.3,train
+The nanny wished that,nanny,-0.7,-0.3,train
+The headmaster whispered that,headmaster,0.2,0.4,train
+The poet whispered that,poet,-0.1,0.0,train
+The analyst laughed because,analyst,0.4,0.0,train
+The baron wanted that,baron,0.3,0.6,train
+The baron desired that,baron,0.3,0.6,train
+The nun ate because,nun,-0.1,-0.8,train
+The teacher whispered that,teacher,-0.8,0.0,train
+The principal cried because,principal,0.3,0.0,train
+The businesswoman went home because,businesswoman,-0.1,-0.9,train
+The singer songwriter went home because,singer_songwriter,-0.3,0.0,train
+The strategist stayed up because,strategist,0.3,0.0,train
+The lieutenant went home because,lieutenant,0.7,0.1,train
+The marksman stayed up because,marksman,0.4,0.6,train
+The fisherman wished that,fisherman,0.1,0.9,train
+The baron stayed up because,baron,0.3,0.6,train
+The businesswoman ate because,businesswoman,-0.1,-0.9,train
+The nun laughed because,nun,-0.1,-0.8,train
+The singer songwriter desired that,singer_songwriter,-0.3,0.0,train
+The magician wanted that,magician,0.7,0.1,train
+The businessman said that,businessman,0.2,0.8,train
+The analyst cried because,analyst,0.4,0.0,train
+The nun whispered that,nun,-0.1,-0.8,train
+The paralegal stayed up because,paralegal,-0.4,-0.1,train
+The pastor laughed because,pastor,0.7,0.3,train
+The businessman laughed because,businessman,0.2,0.8,train
+The businesswoman whispered that,businesswoman,-0.1,-0.9,train
+The serviceman desired that,serviceman,0.3,0.7,train
+The publicist cried because,publicist,-0.2,-0.1,train
+The cleric cried because,cleric,0.3,0.3,train
+The bishop wished that,bishop,0.4,0.6,train
+The patrolman ran because,patrolman,0.0,1.0,train
+The baron ran because,baron,0.3,0.6,train
+The boxer laughed because,boxer,0.9,0.1,train
+The serviceman laughed because,serviceman,0.3,0.7,train
+The lifeguard wished that,lifeguard,0.6,0.0,train
+The employee wished that,employee,0.0,0.0,train
+The footballer ate because,footballer,0.5,0.4,train
+The soldier desired that,soldier,0.6,0.3,train
+The monk laughed because,monk,0.1,0.8,train
+The lieutenant said that,lieutenant,0.7,0.1,train
+The pastor went home because,pastor,0.7,0.3,train
+The nanny said that,nanny,-0.7,-0.3,train
+The paralegal said that,paralegal,-0.4,-0.1,train
+The publicist whispered that,publicist,-0.2,-0.1,train
+The barrister laughed because,barrister,0.4,0.1,train
+The curator wanted that,curator,0.2,-0.1,train
+The priest laughed because,priest,0.3,0.7,train
+The steward cried because,steward,-0.1,0.4,train
+The cop laughed because,cop,0.6,0.2,train
+The analyst went home because,analyst,0.4,0.0,train
+The cop desired that,cop,0.6,0.2,train
+The physicist went home because,physicist,0.7,0.1,test
+The clerk ate because,clerk,-0.5,0.0,test
+The bureaucrat ran because,bureaucrat,0.5,0.1,test
+The trader laughed because,trader,0.6,0.1,test
+The scientist ate because,scientist,0.5,0.0,test
+The councilor ran because,councilor,-0.1,-0.1,test
+The screenwriter cried because,screenwriter,0.4,0.1,test
+The cartoonist went home because,cartoonist,0.5,0.0,test
+The superintendent laughed because,superintendent,0.9,0.0,test
+The radiologist went home because,radiologist,-0.3,0.0,test
+The soft spoken wished that,soft_spoken,-0.9,-0.1,test
+The observer ran because,observer,-0.1,0.0,test
+The clerk whispered that,clerk,-0.5,0.0,test
+The geologist wished that,geologist,0.4,0.0,test
+The protege desired that,protege,0.2,0.0,test
+The protester stayed up because,protester,0.0,-0.1,test
+The graphic designer went home because,graphic_designer,0.2,0.0,test
+The magistrate wished that,magistrate,0.8,0.0,test
+The farmer laughed because,farmer,0.8,0.1,test
+The administrator whispered that,administrator,0.2,0.0,test
+The clerk desired that,clerk,-0.5,0.0,test
+The philanthropist laughed because,philanthropist,0.3,0.0,test
+The magistrate ate because,magistrate,0.8,0.0,test
+The cartoonist said that,cartoonist,0.5,0.0,test
+The coach ate because,coach,0.8,0.1,test
+The choreographer laughed because,choreographer,-0.2,-0.2,test
+The trader desired that,trader,0.6,0.1,test
+The philosopher wished that,philosopher,0.8,0.0,test
+The cardiologist laughed because,cardiologist,0.5,0.1,test
+The drummer went home because,drummer,0.9,0.0,test
+The minister cried because,minister,0.8,0.1,test
+The graphic designer wished that,graphic_designer,0.2,0.0,test
+The minister ate because,minister,0.8,0.1,test
+The solicitor general wished that,solicitor_general,0.5,0.0,test
+The scientist wanted that,scientist,0.5,0.0,test
+The doctor desired that,doctor,0.7,0.0,test
+The superintendent whispered that,superintendent,0.9,0.0,test
+The philosopher ran because,philosopher,0.8,0.0,test
+The philosopher desired that,philosopher,0.8,0.0,test
+The colonel wished that,colonel,0.8,0.1,test
+The accountant laughed because,accountant,0.4,0.0,test
+The soft spoken desired that,soft_spoken,-0.9,-0.1,test
+The astronaut stayed up because,astronaut,0.8,0.1,test
+The radiologist desired that,radiologist,-0.3,0.0,test
+The cardiologist went home because,cardiologist,0.5,0.1,test
+The technician wished that,technician,0.6,0.1,test
+The technician cried because,technician,0.6,0.1,test
+The magistrate whispered that,magistrate,0.8,0.0,test
+The pediatrician ate because,pediatrician,-0.2,0.0,test
+The accountant cried because,accountant,0.4,0.0,test
+The prosecutor whispered that,prosecutor,0.3,-0.1,test
+The warden whispered that,warden,0.9,0.1,test
+The farmer cried because,farmer,0.8,0.1,test
+The doctor went home because,doctor,0.7,0.0,test
+The graphic designer whispered that,graphic_designer,0.2,0.0,test
+The lawyer ran because,lawyer,0.5,0.1,test
+The adjunct professor wished that,adjunct_professor,0.5,0.0,test
+The lawyer stayed up because,lawyer,0.5,0.1,test
+The homemaker ran because,homemaker,-0.9,-0.1,test
+The conductor ate because,conductor,0.6,0.1,test
+The performer cried because,performer,-0.2,0.0,test
+The firefighter ate because,firefighter,0.7,0.1,test
+The fashion designer ran because,fashion_designer,-0.4,-0.2,test
+The graphic designer cried because,graphic_designer,0.2,0.0,test
+The pediatrician said that,pediatrician,-0.2,0.0,test
+The sportswriter cried because,sportswriter,0.9,0.1,test
+The fashion designer cried because,fashion_designer,-0.4,-0.2,test
+The soft spoken ran because,soft_spoken,-0.9,-0.1,test
+The protege wanted that,protege,0.2,0.0,test
+The boss ran because,boss,0.7,0.0,test
+The evangelist said that,evangelist,0.4,0.1,test
+The scientist wished that,scientist,0.5,0.0,test
+The wrestler stayed up because,wrestler,0.6,0.2,test
+The astronaut ate because,astronaut,0.8,0.1,test
+The banker desired that,banker,0.6,0.0,test
+The cardiologist wished that,cardiologist,0.5,0.1,test
+The evangelist desired that,evangelist,0.4,0.1,test
+The cartoonist wanted that,cartoonist,0.5,0.0,test
+The physicist laughed because,physicist,0.7,0.1,test
+The superintendent desired that,superintendent,0.9,0.0,test
+The scientist laughed because,scientist,0.5,0.0,test
+The boss wished that,boss,0.7,0.0,test
+The shopkeeper went home because,shopkeeper,0.5,0.0,test
+The hairdresser said that,hairdresser,-0.8,-0.2,test
+The pediatrician wished that,pediatrician,-0.2,0.0,test
+The manager ate because,manager,0.6,0.0,test
+The physicist ate because,physicist,0.7,0.1,test
+The performer desired that,performer,-0.2,0.0,test
+The cartoonist wished that,cartoonist,0.5,0.0,test
+The boss desired that,boss,0.7,0.0,test
+The lawyer desired that,lawyer,0.5,0.1,test
+The protester wished that,protester,0.0,-0.1,test
+The medic desired that,medic,0.4,0.1,test
+The artist whispered that,artist,-0.2,0.0,test
+The assassin went home because,assassin,0.8,0.1,test
+The observer wished that,observer,-0.1,0.0,test
+The sportswriter stayed up because,sportswriter,0.9,0.1,test
+The choreographer ate because,choreographer,-0.2,-0.2,test
+The geologist stayed up because,geologist,0.4,0.0,test
+The investment banker said that,investment_banker,0.7,0.1,test
+The artist stayed up because,artist,-0.2,0.0,test
+The conductor ran because,conductor,0.6,0.1,test
+The homemaker whispered that,homemaker,-0.9,-0.1,test
+The civil servant cried because,civil_servant,0.2,0.0,test
+The solicitor general whispered that,solicitor_general,0.5,0.0,test
+The shopkeeper wanted that,shopkeeper,0.5,0.0,test
+The financier wished that,financier,0.5,0.1,test
+The nurse laughed because,nurse,-0.9,-0.1,test
+The evangelist cried because,evangelist,0.4,0.1,test
+The radiologist wished that,radiologist,-0.3,0.0,test
+The minister desired that,minister,0.8,0.1,test
+The observer ate because,observer,-0.1,0.0,test
+The cinematographer ran because,cinematographer,0.5,0.0,test
+The trader said that,trader,0.6,0.1,test
+The warden wanted that,warden,0.9,0.1,test
+The banker cried because,banker,0.6,0.0,test
+The sportswriter laughed because,sportswriter,0.9,0.1,test
+The teenager stayed up because,teenager,-0.1,0.0,test
+The lawyer said that,lawyer,0.5,0.1,test
+The evangelist laughed because,evangelist,0.4,0.1,test
+The hairdresser laughed because,hairdresser,-0.8,-0.2,test
+The superintendent went home because,superintendent,0.9,0.0,test
+The protege cried because,protege,0.2,0.0,test
+The minister laughed because,minister,0.8,0.1,test
+The warden went home because,warden,0.9,0.1,test
+The trader wanted that,trader,0.6,0.1,test
+The investment banker went home because,investment_banker,0.7,0.1,test
+The teenager ate because,teenager,-0.1,0.0,test
+The financier desired that,financier,0.5,0.1,test
+The choreographer stayed up because,choreographer,-0.2,-0.2,test
+The technician laughed because,technician,0.6,0.1,test
+The shopkeeper stayed up because,shopkeeper,0.5,0.0,test
+The pediatrician went home because,pediatrician,-0.2,0.0,test
+The observer went home because,observer,-0.1,0.0,test
+The nurse went home because,nurse,-0.9,-0.1,test
+The columnist ate because,columnist,0.2,0.0,test
+The protege ate because,protege,0.2,0.0,test
+The graphic designer ate because,graphic_designer,0.2,0.0,test
+The minister ran because,minister,0.8,0.1,test
+The banker said that,banker,0.6,0.0,test
+The columnist desired that,columnist,0.2,0.0,test
+The hairdresser desired that,hairdresser,-0.8,-0.2,test
+The colonel laughed because,colonel,0.8,0.1,test
+The hairdresser cried because,hairdresser,-0.8,-0.2,test
+The investment banker laughed because,investment_banker,0.7,0.1,test
+The artist cried because,artist,-0.2,0.0,test
+The protester ate because,protester,0.0,-0.1,test
+The choreographer wished that,choreographer,-0.2,-0.2,test
+The civil servant wanted that,civil_servant,0.2,0.0,test
+The protester wanted that,protester,0.0,-0.1,test
+The observer desired that,observer,-0.1,0.0,test
+The filmmaker went home because,filmmaker,0.3,0.1,test
+The scientist went home because,scientist,0.5,0.0,test
+The lawyer wished that,lawyer,0.5,0.1,test
+The physicist ran because,physicist,0.7,0.1,test
+The solicitor general said that,solicitor_general,0.5,0.0,test
+The homemaker cried because,homemaker,-0.9,-0.1,test
+The musician ran because,musician,0.0,0.0,test
+The administrator desired that,administrator,0.2,0.0,test
+The firefighter ran because,firefighter,0.7,0.1,test
+The manager cried because,manager,0.6,0.0,test
+The protege ran because,protege,0.2,0.0,test
+The bureaucrat laughed because,bureaucrat,0.5,0.1,test
+The firefighter cried because,firefighter,0.7,0.1,test
+The shopkeeper wished that,shopkeeper,0.5,0.0,test
+The choreographer said that,choreographer,-0.2,-0.2,test
+The evangelist whispered that,evangelist,0.4,0.1,test
+The screenwriter whispered that,screenwriter,0.4,0.1,test
+The scholar stayed up because,scholar,0.6,0.0,test
+The philanthropist ran because,philanthropist,0.3,0.0,test
+The civil servant laughed because,civil_servant,0.2,0.0,test
+The soft spoken went home because,soft_spoken,-0.9,-0.1,test
+The banker stayed up because,banker,0.6,0.0,test
+The warden stayed up because,warden,0.9,0.1,test
+The sociologist laughed because,sociologist,-0.2,0.0,test
+The coach laughed because,coach,0.8,0.1,test
+The manager stayed up because,manager,0.6,0.0,test
+The magistrate stayed up because,magistrate,0.8,0.0,test
+The hairdresser wanted that,hairdresser,-0.8,-0.2,test
+The medic ran because,medic,0.4,0.1,test
+The doctor ran because,doctor,0.7,0.0,test
+The pediatrician cried because,pediatrician,-0.2,0.0,test
+The clerk went home because,clerk,-0.5,0.0,test
+The coach cried because,coach,0.8,0.1,test
+The wrestler whispered that,wrestler,0.6,0.2,test
+The sportswriter whispered that,sportswriter,0.9,0.1,test
+The fashion designer desired that,fashion_designer,-0.4,-0.2,test
+The colonel cried because,colonel,0.8,0.1,test
+The adjunct professor cried because,adjunct_professor,0.5,0.0,test
+The philosopher said that,philosopher,0.8,0.0,test
+The administrator ran because,administrator,0.2,0.0,test
+The astronaut desired that,astronaut,0.8,0.1,test
+The minister whispered that,minister,0.8,0.1,test
+The counselor wished that,counselor,-0.1,0.0,test
+The coach wished that,coach,0.8,0.1,test
+The administrator cried because,administrator,0.2,0.0,test
+The trader went home because,trader,0.6,0.1,test
+The filmmaker wanted that,filmmaker,0.3,0.1,test
+The trader ran because,trader,0.6,0.1,test
+The medic wanted that,medic,0.4,0.1,test
+The banker laughed because,banker,0.6,0.0,test
+The teenager cried because,teenager,-0.1,0.0,test
+The magistrate desired that,magistrate,0.8,0.0,test
+The administrator stayed up because,administrator,0.2,0.0,test
+The graphic designer desired that,graphic_designer,0.2,0.0,test
+The farmer went home because,farmer,0.8,0.1,test
+The wrestler cried because,wrestler,0.6,0.2,test
+The cartoonist laughed because,cartoonist,0.5,0.0,test
+The choreographer cried because,choreographer,-0.2,-0.2,test
+The farmer wished that,farmer,0.8,0.1,test
+The geologist ran because,geologist,0.4,0.0,test
+The protester whispered that,protester,0.0,-0.1,test
+The disc jockey wished that,disc_jockey,0.6,0.2,test
+The disc jockey wanted that,disc_jockey,0.6,0.2,test
+The observer said that,observer,-0.1,0.0,test
+The cartoonist ran because,cartoonist,0.5,0.0,test
+The fashion designer said that,fashion_designer,-0.4,-0.2,test
+The hairdresser ate because,hairdresser,-0.8,-0.2,test
+The sociologist ate because,sociologist,-0.2,0.0,test
+The scholar wanted that,scholar,0.6,0.0,test
+The astronaut whispered that,astronaut,0.8,0.1,test
+The lawyer went home because,lawyer,0.5,0.1,test
+The teenager ran because,teenager,-0.1,0.0,test
+The clerk cried because,clerk,-0.5,0.0,test
+The farmer said that,farmer,0.8,0.1,test
+The scholar ate because,scholar,0.6,0.0,test
+The disc jockey whispered that,disc_jockey,0.6,0.2,test
+The wrestler wished that,wrestler,0.6,0.2,test
+The professor laughed because,professor,0.4,0.1,test
+The coach whispered that,coach,0.8,0.1,test
+The astronaut cried because,astronaut,0.8,0.1,test
+The manager wished that,manager,0.6,0.0,test
+The astronaut ran because,astronaut,0.8,0.1,test
+The scientist cried because,scientist,0.5,0.0,test
+The evangelist ran because,evangelist,0.4,0.1,test
+The investment banker desired that,investment_banker,0.7,0.1,test
+The columnist laughed because,columnist,0.2,0.0,test
+The bureaucrat cried because,bureaucrat,0.5,0.1,test
+The teenager laughed because,teenager,-0.1,0.0,test
+The graphic designer wanted that,graphic_designer,0.2,0.0,test
+The solicitor general ran because,solicitor_general,0.5,0.0,test
+The cinematographer ate because,cinematographer,0.5,0.0,test
+The disc jockey laughed because,disc_jockey,0.6,0.2,test
+The drummer desired that,drummer,0.9,0.0,test
+The firefighter laughed because,firefighter,0.7,0.1,test
+The boss ate because,boss,0.7,0.0,test
+The doctoral student ate because,doctoral_student,0.3,0.0,test
+The filmmaker wished that,filmmaker,0.3,0.1,test
+The adjunct professor said that,adjunct_professor,0.5,0.0,test
+The adjunct professor whispered that,adjunct_professor,0.5,0.0,test
+The adjunct professor went home because,adjunct_professor,0.5,0.0,test
+The civil servant said that,civil_servant,0.2,0.0,test
+The choreographer desired that,choreographer,-0.2,-0.2,test
+The geologist ate because,geologist,0.4,0.0,test
+The coach said that,coach,0.8,0.1,test
+The medic stayed up because,medic,0.4,0.1,test
+The evangelist went home because,evangelist,0.4,0.1,test
+The technician said that,technician,0.6,0.1,test
+The filmmaker desired that,filmmaker,0.3,0.1,test
+The doctoral student ran because,doctoral_student,0.3,0.0,test
+The anthropologist went home because,anthropologist,0.4,0.0,test
+The prosecutor wanted that,prosecutor,0.3,-0.1,test
+The farmer desired that,farmer,0.8,0.1,test
+The doctoral student cried because,doctoral_student,0.3,0.0,test
+The doctoral student whispered that,doctoral_student,0.3,0.0,test
+The cinematographer stayed up because,cinematographer,0.5,0.0,test
+The radiologist ate because,radiologist,-0.3,0.0,test
+The councilor whispered that,councilor,-0.1,-0.1,test
+The nurse cried because,nurse,-0.9,-0.1,test
+The fashion designer ate because,fashion_designer,-0.4,-0.2,test
+The investment banker stayed up because,investment_banker,0.7,0.1,test
+The conductor wished that,conductor,0.6,0.1,test
+The physicist wished that,physicist,0.7,0.1,test
+The farmer stayed up because,farmer,0.8,0.1,test
+The assassin laughed because,assassin,0.8,0.1,test
+The sociologist said that,sociologist,-0.2,0.0,test
+The farmer whispered that,farmer,0.8,0.1,test
+The artist desired that,artist,-0.2,0.0,test
+The councilor ate because,councilor,-0.1,-0.1,test
+The cardiologist whispered that,cardiologist,0.5,0.1,test
+The scholar wished that,scholar,0.6,0.0,test
+The minister wished that,minister,0.8,0.1,test
+The solicitor general cried because,solicitor_general,0.5,0.0,test
+The doctoral student wished that,doctoral_student,0.3,0.0,test
+The assassin wished that,assassin,0.8,0.1,test
+The civil servant went home because,civil_servant,0.2,0.0,test
+The technician desired that,technician,0.6,0.1,test
+The cardiologist stayed up because,cardiologist,0.5,0.1,test
+The manager said that,manager,0.6,0.0,test
+The protege went home because,protege,0.2,0.0,test
+The nurse stayed up because,nurse,-0.9,-0.1,test
+The doctoral student went home because,doctoral_student,0.3,0.0,test
+The bureaucrat stayed up because,bureaucrat,0.5,0.1,test
+The astronaut wanted that,astronaut,0.8,0.1,test
+The columnist whispered that,columnist,0.2,0.0,test
+The geologist went home because,geologist,0.4,0.0,test
+The choreographer ran because,choreographer,-0.2,-0.2,test
+The doctor laughed because,doctor,0.7,0.0,test
+The colonel ate because,colonel,0.8,0.1,test
+The investment banker wanted that,investment_banker,0.7,0.1,test
+The observer whispered that,observer,-0.1,0.0,test
+The homemaker laughed because,homemaker,-0.9,-0.1,test
+The clerk laughed because,clerk,-0.5,0.0,test
+The magistrate said that,magistrate,0.8,0.0,test
+The protege laughed because,protege,0.2,0.0,test
+The astronaut said that,astronaut,0.8,0.1,test
+The adjunct professor stayed up because,adjunct_professor,0.5,0.0,test
+The civil servant stayed up because,civil_servant,0.2,0.0,test
+The teenager desired that,teenager,-0.1,0.0,test
+The technician went home because,technician,0.6,0.1,test
+The homemaker stayed up because,homemaker,-0.9,-0.1,test
+The technician whispered that,technician,0.6,0.1,test
+The evangelist ate because,evangelist,0.4,0.1,test
+The drummer laughed because,drummer,0.9,0.0,test
+The sociologist wanted that,sociologist,-0.2,0.0,test
+The sportswriter wished that,sportswriter,0.9,0.1,test
+The assassin desired that,assassin,0.8,0.1,test
+The accountant wished that,accountant,0.4,0.0,test
+The professor ran because,professor,0.4,0.1,test
+The drummer ate because,drummer,0.9,0.0,test
+The sportswriter desired that,sportswriter,0.9,0.1,test
+The financier stayed up because,financier,0.5,0.1,test
+The boss went home because,boss,0.7,0.0,test
+The counselor cried because,counselor,-0.1,0.0,test
+The farmer ran because,farmer,0.8,0.1,test
+The disc jockey went home because,disc_jockey,0.6,0.2,test
+The wrestler ate because,wrestler,0.6,0.2,test
+The cartoonist whispered that,cartoonist,0.5,0.0,test
+The prosecutor stayed up because,prosecutor,0.3,-0.1,test
+The banker ate because,banker,0.6,0.0,test
+The soft spoken wanted that,soft_spoken,-0.9,-0.1,test
+The musician desired that,musician,0.0,0.0,test
+The solicitor general laughed because,solicitor_general,0.5,0.0,test
+The columnist said that,columnist,0.2,0.0,test
+The medic went home because,medic,0.4,0.1,test
+The educator ate because,educator,-0.5,0.0,test
+The columnist ran because,columnist,0.2,0.0,test
+The accountant stayed up because,accountant,0.4,0.0,test
+The drummer whispered that,drummer,0.9,0.0,test
+The radiologist cried because,radiologist,-0.3,0.0,test
+The lawyer cried because,lawyer,0.5,0.1,test
+The hairdresser wished that,hairdresser,-0.8,-0.2,test
+The financier laughed because,financier,0.5,0.1,test
+The councilor said that,councilor,-0.1,-0.1,test
+The administrator ate because,administrator,0.2,0.0,test
+The counselor ran because,counselor,-0.1,0.0,test
+The observer cried because,observer,-0.1,0.0,test
+The firefighter desired that,firefighter,0.7,0.1,test
+The counselor went home because,counselor,-0.1,0.0,test
+The councilor desired that,councilor,-0.1,-0.1,test
+The artist wished that,artist,-0.2,0.0,test
+The protester cried because,protester,0.0,-0.1,test
+The shopkeeper ate because,shopkeeper,0.5,0.0,test
+The soft spoken cried because,soft_spoken,-0.9,-0.1,test
+The sociologist cried because,sociologist,-0.2,0.0,test
+The lawyer laughed because,lawyer,0.5,0.1,test
+The financier whispered that,financier,0.5,0.1,test
+The professor cried because,professor,0.4,0.1,test
+The drummer ran because,drummer,0.9,0.0,test
+The doctor whispered that,doctor,0.7,0.0,test
+The conductor said that,conductor,0.6,0.1,test
+The graphic designer ran because,graphic_designer,0.2,0.0,test
+The anthropologist cried because,anthropologist,0.4,0.0,test
+The superintendent ran because,superintendent,0.9,0.0,test
+The shopkeeper laughed because,shopkeeper,0.5,0.0,test
+The doctoral student stayed up because,doctoral_student,0.3,0.0,test
+The adjunct professor ran because,adjunct_professor,0.5,0.0,test
+The coach ran because,coach,0.8,0.1,test
+The scientist ran because,scientist,0.5,0.0,test
+The fashion designer wanted that,fashion_designer,-0.4,-0.2,test
+The banker wished that,banker,0.6,0.0,test
+The superintendent ate because,superintendent,0.9,0.0,test
+The cinematographer cried because,cinematographer,0.5,0.0,test
+The conductor cried because,conductor,0.6,0.1,test
+The firefighter went home because,firefighter,0.7,0.1,test
+The musician wanted that,musician,0.0,0.0,test
+The performer went home because,performer,-0.2,0.0,test
+The astronaut went home because,astronaut,0.8,0.1,test
+The magistrate cried because,magistrate,0.8,0.0,test
+The astronaut laughed because,astronaut,0.8,0.1,test
+The doctor wanted that,doctor,0.7,0.0,test
+The protester went home because,protester,0.0,-0.1,test
+The boss laughed because,boss,0.7,0.0,test
+The sportswriter wanted that,sportswriter,0.9,0.1,test
+The bureaucrat wanted that,bureaucrat,0.5,0.1,test
+The educator wished that,educator,-0.5,0.0,test
+The manager desired that,manager,0.6,0.0,test
+The solicitor general wanted that,solicitor_general,0.5,0.0,test
+The musician ate because,musician,0.0,0.0,test
+The screenwriter said that,screenwriter,0.4,0.1,test
+The drummer stayed up because,drummer,0.9,0.0,test
+The medic whispered that,medic,0.4,0.1,test
+The cinematographer wanted that,cinematographer,0.5,0.0,test
+The medic wished that,medic,0.4,0.1,test
+The screenwriter went home because,screenwriter,0.4,0.1,test
+The educator said that,educator,-0.5,0.0,test
+The cartoonist cried because,cartoonist,0.5,0.0,test
+The filmmaker ran because,filmmaker,0.3,0.1,test
+The bureaucrat went home because,bureaucrat,0.5,0.1,test
+The philanthropist said that,philanthropist,0.3,0.0,test
+The cardiologist wanted that,cardiologist,0.5,0.1,test
+The accountant said that,accountant,0.4,0.0,test
+The solicitor general desired that,solicitor_general,0.5,0.0,test
+The anthropologist wanted that,anthropologist,0.4,0.0,test
+The superintendent wanted that,superintendent,0.9,0.0,test
+The observer stayed up because,observer,-0.1,0.0,test
+The performer laughed because,performer,-0.2,0.0,test
+The superintendent said that,superintendent,0.9,0.0,test
+The homemaker wanted that,homemaker,-0.9,-0.1,test
+The manager went home because,manager,0.6,0.0,test
+The filmmaker laughed because,filmmaker,0.3,0.1,test
+The bureaucrat wished that,bureaucrat,0.5,0.1,test
+The filmmaker said that,filmmaker,0.3,0.1,test
+The cartoonist desired that,cartoonist,0.5,0.0,test
+The teenager went home because,teenager,-0.1,0.0,test
+The choreographer went home because,choreographer,-0.2,-0.2,test
+The professor ate because,professor,0.4,0.1,test
+The accountant ran because,accountant,0.4,0.0,test
+The coach desired that,coach,0.8,0.1,test
+The observer laughed because,observer,-0.1,0.0,test
+The evangelist wished that,evangelist,0.4,0.1,test
+The geologist desired that,geologist,0.4,0.0,test
+The medic cried because,medic,0.4,0.1,test
+The philosopher went home because,philosopher,0.8,0.0,test
+The farmer wanted that,farmer,0.8,0.1,test
+The civil servant ate because,civil_servant,0.2,0.0,test
+The coach went home because,coach,0.8,0.1,test
+The disc jockey ran because,disc_jockey,0.6,0.2,test
+The assassin stayed up because,assassin,0.8,0.1,test
+The warden ran because,warden,0.9,0.1,test
+The counselor said that,counselor,-0.1,0.0,test
+The firefighter wished that,firefighter,0.7,0.1,test
+The investment banker cried because,investment_banker,0.7,0.1,test
+The wrestler laughed because,wrestler,0.6,0.2,test
+The accountant went home because,accountant,0.4,0.0,test
+The wrestler desired that,wrestler,0.6,0.2,test
+The philanthropist ate because,philanthropist,0.3,0.0,test
+The counselor whispered that,counselor,-0.1,0.0,test
+The counselor laughed because,counselor,-0.1,0.0,test
+The doctor cried because,doctor,0.7,0.0,test
+The doctor stayed up because,doctor,0.7,0.0,test
+The coach wanted that,coach,0.8,0.1,test
+The protege wished that,protege,0.2,0.0,test
+The clerk stayed up because,clerk,-0.5,0.0,test
+The conductor laughed because,conductor,0.6,0.1,test
+The cardiologist ran because,cardiologist,0.5,0.1,test
+The prosecutor wished that,prosecutor,0.3,-0.1,test
+The soft spoken laughed because,soft_spoken,-0.9,-0.1,test
+The screenwriter ate because,screenwriter,0.4,0.1,test
+The clerk ran because,clerk,-0.5,0.0,test
+The councilor laughed because,councilor,-0.1,-0.1,test
+The protester said that,protester,0.0,-0.1,test
+The conductor wanted that,conductor,0.6,0.1,test
+The magistrate ran because,magistrate,0.8,0.0,test
+The educator laughed because,educator,-0.5,0.0,test
+The boss wanted that,boss,0.7,0.0,test
+The disc jockey cried because,disc_jockey,0.6,0.2,test
+The philanthropist stayed up because,philanthropist,0.3,0.0,test
+The cinematographer went home because,cinematographer,0.5,0.0,test
+The geologist said that,geologist,0.4,0.0,test
+The soft spoken stayed up because,soft_spoken,-0.9,-0.1,test
+The anthropologist said that,anthropologist,0.4,0.0,test
+The professor wished that,professor,0.4,0.1,test
+The conductor went home because,conductor,0.6,0.1,test
+The soft spoken whispered that,soft_spoken,-0.9,-0.1,test
+The manager laughed because,manager,0.6,0.0,test
+The geologist whispered that,geologist,0.4,0.0,test
+The philosopher whispered that,philosopher,0.8,0.0,test
+The choreographer wanted that,choreographer,-0.2,-0.2,test
+The professor whispered that,professor,0.4,0.1,test
+The teenager wanted that,teenager,-0.1,0.0,test
+The financier ran because,financier,0.5,0.1,test
+The councilor cried because,councilor,-0.1,-0.1,test
+The professor said that,professor,0.4,0.1,test
+The manager whispered that,manager,0.6,0.0,test
+The musician whispered that,musician,0.0,0.0,test
+The shopkeeper said that,shopkeeper,0.5,0.0,test
+The warden laughed because,warden,0.9,0.1,test
+The doctor wished that,doctor,0.7,0.0,test
+The hairdresser went home because,hairdresser,-0.8,-0.2,test
+The cinematographer wished that,cinematographer,0.5,0.0,test
+The banker whispered that,banker,0.6,0.0,test
+The physicist wanted that,physicist,0.7,0.1,test
+The teenager said that,teenager,-0.1,0.0,test
+The performer whispered that,performer,-0.2,0.0,test
+The cardiologist ate because,cardiologist,0.5,0.1,test
+The investment banker ran because,investment_banker,0.7,0.1,test
+The doctor said that,doctor,0.7,0.0,test
+The disc jockey said that,disc_jockey,0.6,0.2,test
+The doctoral student laughed because,doctoral_student,0.3,0.0,test
+The evangelist wanted that,evangelist,0.4,0.1,test
+The counselor desired that,counselor,-0.1,0.0,test
+The philosopher wanted that,philosopher,0.8,0.0,test
+The homemaker desired that,homemaker,-0.9,-0.1,test
+The graphic designer said that,graphic_designer,0.2,0.0,test
+The prosecutor cried because,prosecutor,0.3,-0.1,test
+The bureaucrat said that,bureaucrat,0.5,0.1,test
+The financier ate because,financier,0.5,0.1,test
+The physicist desired that,physicist,0.7,0.1,test
+The civil servant desired that,civil_servant,0.2,0.0,test
+The assassin whispered that,assassin,0.8,0.1,test
+The professor desired that,professor,0.4,0.1,test
+The performer said that,performer,-0.2,0.0,test
+The artist said that,artist,-0.2,0.0,test
+The philosopher laughed because,philosopher,0.8,0.0,test
+The boss whispered that,boss,0.7,0.0,test
+The cinematographer whispered that,cinematographer,0.5,0.0,test
+The colonel said that,colonel,0.8,0.1,test
+The firefighter wanted that,firefighter,0.7,0.1,test
+The conductor desired that,conductor,0.6,0.1,test
+The philanthropist whispered that,philanthropist,0.3,0.0,test
+The filmmaker stayed up because,filmmaker,0.3,0.1,test
+The columnist went home because,columnist,0.2,0.0,test
+The prosecutor laughed because,prosecutor,0.3,-0.1,test
+The radiologist ran because,radiologist,-0.3,0.0,test
+The performer stayed up because,performer,-0.2,0.0,test
+The musician went home because,musician,0.0,0.0,test
+The philanthropist wanted that,philanthropist,0.3,0.0,test
+The astronaut wished that,astronaut,0.8,0.1,test
+The geologist laughed because,geologist,0.4,0.0,test
+The screenwriter wanted that,screenwriter,0.4,0.1,test
+The educator cried because,educator,-0.5,0.0,test
+The sociologist went home because,sociologist,-0.2,0.0,test
+The minister said that,minister,0.8,0.1,test
+The scientist said that,scientist,0.5,0.0,test
+The civil servant wished that,civil_servant,0.2,0.0,test
+The investment banker ate because,investment_banker,0.7,0.1,test
+The musician cried because,musician,0.0,0.0,test
+The coach stayed up because,coach,0.8,0.1,test
+The screenwriter laughed because,screenwriter,0.4,0.1,test
+The anthropologist wished that,anthropologist,0.4,0.0,test
+The cinematographer desired that,cinematographer,0.5,0.0,test
+The banker wanted that,banker,0.6,0.0,test
+The firefighter stayed up because,firefighter,0.7,0.1,test
+The professor wanted that,professor,0.4,0.1,test
+The financier cried because,financier,0.5,0.1,test
+The counselor ate because,counselor,-0.1,0.0,test
+The philanthropist went home because,philanthropist,0.3,0.0,test
+The musician wished that,musician,0.0,0.0,test
+The adjunct professor wanted that,adjunct_professor,0.5,0.0,test
+The colonel desired that,colonel,0.8,0.1,test
+The soft spoken said that,soft_spoken,-0.9,-0.1,test
+The trader stayed up because,trader,0.6,0.1,test
+The teenager wished that,teenager,-0.1,0.0,test
+The colonel stayed up because,colonel,0.8,0.1,test
+The clerk wanted that,clerk,-0.5,0.0,test
+The radiologist laughed because,radiologist,-0.3,0.0,test
+The sociologist whispered that,sociologist,-0.2,0.0,test
+The magistrate went home because,magistrate,0.8,0.0,test
+The nurse said that,nurse,-0.9,-0.1,test
+The counselor wanted that,counselor,-0.1,0.0,test
+The anthropologist whispered that,anthropologist,0.4,0.0,test
+The screenwriter stayed up because,screenwriter,0.4,0.1,test
+The pediatrician wanted that,pediatrician,-0.2,0.0,test
+The protester ran because,protester,0.0,-0.1,test
+The nurse ate because,nurse,-0.9,-0.1,test
+The counselor stayed up because,counselor,-0.1,0.0,test
+The accountant desired that,accountant,0.4,0.0,test
+The doctoral student desired that,doctoral_student,0.3,0.0,test
+The musician laughed because,musician,0.0,0.0,test
+The boss said that,boss,0.7,0.0,test
+The homemaker ate because,homemaker,-0.9,-0.1,test
+The councilor went home because,councilor,-0.1,-0.1,test
+The doctoral student said that,doctoral_student,0.3,0.0,test
+The investment banker whispered that,investment_banker,0.7,0.1,test
+The colonel wanted that,colonel,0.8,0.1,test
+The solicitor general stayed up because,solicitor_general,0.5,0.0,test
+The filmmaker whispered that,filmmaker,0.3,0.1,test
+The columnist wished that,columnist,0.2,0.0,test
+The filmmaker ate because,filmmaker,0.3,0.1,test
+The pediatrician stayed up because,pediatrician,-0.2,0.0,test
+The accountant ate because,accountant,0.4,0.0,test
+The bureaucrat ate because,bureaucrat,0.5,0.1,test
+The fashion designer wished that,fashion_designer,-0.4,-0.2,test
+The homemaker wished that,homemaker,-0.9,-0.1,test
+The assassin ran because,assassin,0.8,0.1,test
+The medic laughed because,medic,0.4,0.1,test
+The medic ate because,medic,0.4,0.1,test
+The colonel went home because,colonel,0.8,0.1,test
+The clerk wished that,clerk,-0.5,0.0,test
+The graphic designer stayed up because,graphic_designer,0.2,0.0,test
+The medic said that,medic,0.4,0.1,test
+The shopkeeper desired that,shopkeeper,0.5,0.0,test
+The shopkeeper whispered that,shopkeeper,0.5,0.0,test
+The philanthropist desired that,philanthropist,0.3,0.0,test
+The fashion designer laughed because,fashion_designer,-0.4,-0.2,test
+The sportswriter ran because,sportswriter,0.9,0.1,test
+The disc jockey desired that,disc_jockey,0.6,0.2,test
+The lawyer ate because,lawyer,0.5,0.1,test
+The performer wished that,performer,-0.2,0.0,test
+The philosopher stayed up because,philosopher,0.8,0.0,test
+The farmer ate because,farmer,0.8,0.1,test
+The administrator laughed because,administrator,0.2,0.0,test
+The superintendent wished that,superintendent,0.9,0.0,test
+The civil servant ran because,civil_servant,0.2,0.0,test
+The cartoonist stayed up because,cartoonist,0.5,0.0,test
+The observer wanted that,observer,-0.1,0.0,test
+The technician ran because,technician,0.6,0.1,test
+The anthropologist ate because,anthropologist,0.4,0.0,test
+The bureaucrat whispered that,bureaucrat,0.5,0.1,test
+The lawyer whispered that,lawyer,0.5,0.1,test
+The trader ate because,trader,0.6,0.1,test
+The lawyer wanted that,lawyer,0.5,0.1,test
+The performer ate because,performer,-0.2,0.0,test
+The educator went home because,educator,-0.5,0.0,test
+The cardiologist desired that,cardiologist,0.5,0.1,test
+The councilor stayed up because,councilor,-0.1,-0.1,test
+The wrestler ran because,wrestler,0.6,0.2,test
+The radiologist wanted that,radiologist,-0.3,0.0,test
+The scholar ran because,scholar,0.6,0.0,test
+The manager ran because,manager,0.6,0.0,test
+The pediatrician laughed because,pediatrician,-0.2,0.0,test
+The musician stayed up because,musician,0.0,0.0,test
+The prosecutor ate because,prosecutor,0.3,-0.1,test
+The columnist wanted that,columnist,0.2,0.0,test
+The boss stayed up because,boss,0.7,0.0,test
+The magistrate laughed because,magistrate,0.8,0.0,test
+The warden desired that,warden,0.9,0.1,test
+The warden cried because,warden,0.9,0.1,test
+The prosecutor said that,prosecutor,0.3,-0.1,test
+The cartoonist ate because,cartoonist,0.5,0.0,test
+The performer wanted that,performer,-0.2,0.0,test
+The fashion designer went home because,fashion_designer,-0.4,-0.2,test
+The assassin ate because,assassin,0.8,0.1,test
+The drummer wanted that,drummer,0.9,0.0,test
+The colonel whispered that,colonel,0.8,0.1,test
+The educator desired that,educator,-0.5,0.0,test
+The cardiologist said that,cardiologist,0.5,0.1,test
+The minister went home because,minister,0.8,0.1,test
+The assassin said that,assassin,0.8,0.1,test
+The doctor ate because,doctor,0.7,0.0,test
+The philanthropist cried because,philanthropist,0.3,0.0,test
+The wrestler went home because,wrestler,0.6,0.2,test
+The sportswriter went home because,sportswriter,0.9,0.1,test
+The nurse wished that,nurse,-0.9,-0.1,test
+The columnist cried because,columnist,0.2,0.0,test
+The musician said that,musician,0.0,0.0,test
+The wrestler wanted that,wrestler,0.6,0.2,test
+The drummer wished that,drummer,0.9,0.0,test
+The conductor whispered that,conductor,0.6,0.1,test
+The solicitor general ate because,solicitor_general,0.5,0.0,test
+The evangelist stayed up because,evangelist,0.4,0.1,test
+The administrator wanted that,administrator,0.2,0.0,test
+The artist ate because,artist,-0.2,0.0,test
+The superintendent stayed up because,superintendent,0.9,0.0,test
+The artist went home because,artist,-0.2,0.0,test
+The soft spoken ate because,soft_spoken,-0.9,-0.1,test
+The scientist desired that,scientist,0.5,0.0,test
+The fashion designer whispered that,fashion_designer,-0.4,-0.2,test
+The colonel ran because,colonel,0.8,0.1,test
+The columnist stayed up because,columnist,0.2,0.0,test
+The accountant whispered that,accountant,0.4,0.0,test
+The sociologist stayed up because,sociologist,-0.2,0.0,test
+The radiologist stayed up because,radiologist,-0.3,0.0,test
+The philanthropist wished that,philanthropist,0.3,0.0,test
+The hairdresser ran because,hairdresser,-0.8,-0.2,test
+The drummer said that,drummer,0.9,0.0,test
+The financier said that,financier,0.5,0.1,test
+The sportswriter ate because,sportswriter,0.9,0.1,test
+The nurse wanted that,nurse,-0.9,-0.1,test
+The accountant wanted that,accountant,0.4,0.0,test
+The physicist said that,physicist,0.7,0.1,test
+The physicist whispered that,physicist,0.7,0.1,test
+The assassin cried because,assassin,0.8,0.1,test
+The philosopher cried because,philosopher,0.8,0.0,test
+The scholar laughed because,scholar,0.6,0.0,test
+The educator ran because,educator,-0.5,0.0,test
+The trader whispered that,trader,0.6,0.1,test
+The councilor wished that,councilor,-0.1,-0.1,test
+The educator wanted that,educator,-0.5,0.0,test
+The councilor wanted that,councilor,-0.1,-0.1,test
+The cardiologist cried because,cardiologist,0.5,0.1,test
+The conductor stayed up because,conductor,0.6,0.1,test
+The scholar desired that,scholar,0.6,0.0,test
+The anthropologist stayed up because,anthropologist,0.4,0.0,test
+The cinematographer said that,cinematographer,0.5,0.0,test
+The firefighter whispered that,firefighter,0.7,0.1,test
+The protester desired that,protester,0.0,-0.1,test
+The adjunct professor ate because,adjunct_professor,0.5,0.0,test
+The cinematographer laughed because,cinematographer,0.5,0.0,test
+The performer ran because,performer,-0.2,0.0,test
+The choreographer whispered that,choreographer,-0.2,-0.2,test
+The administrator said that,administrator,0.2,0.0,test
+The sociologist desired that,sociologist,-0.2,0.0,test
+The manager wanted that,manager,0.6,0.0,test
+The homemaker went home because,homemaker,-0.9,-0.1,test
+The technician stayed up because,technician,0.6,0.1,test
+The pediatrician desired that,pediatrician,-0.2,0.0,test
+The warden ate because,warden,0.9,0.1,test
+The homemaker said that,homemaker,-0.9,-0.1,test
+The graphic designer laughed because,graphic_designer,0.2,0.0,test
+The bureaucrat desired that,bureaucrat,0.5,0.1,test
+The wrestler said that,wrestler,0.6,0.2,test
+The screenwriter ran because,screenwriter,0.4,0.1,test
+The minister wanted that,minister,0.8,0.1,test
+The professor went home because,professor,0.4,0.1,test
+The sociologist wished that,sociologist,-0.2,0.0,test
+The magistrate wanted that,magistrate,0.8,0.0,test
+The protege whispered that,protege,0.2,0.0,test
+The trader cried because,trader,0.6,0.1,test
+The professor stayed up because,professor,0.4,0.1,test
+The educator whispered that,educator,-0.5,0.0,test
+The filmmaker cried because,filmmaker,0.3,0.1,test
+The geologist cried because,geologist,0.4,0.0,test
+The doctoral student wanted that,doctoral_student,0.3,0.0,test
+The screenwriter desired that,screenwriter,0.4,0.1,test
+The technician wanted that,technician,0.6,0.1,test
+The anthropologist ran because,anthropologist,0.4,0.0,test
+The philosopher ate because,philosopher,0.8,0.0,test
+The clerk said that,clerk,-0.5,0.0,test
+The shopkeeper ran because,shopkeeper,0.5,0.0,test
+The administrator went home because,administrator,0.2,0.0,test
+The adjunct professor laughed because,adjunct_professor,0.5,0.0,test
+The scholar went home because,scholar,0.6,0.0,test
+The anthropologist desired that,anthropologist,0.4,0.0,test
+The technician ate because,technician,0.6,0.1,test
+The scientist whispered that,scientist,0.5,0.0,test
+The banker went home because,banker,0.6,0.0,test
+The radiologist whispered that,radiologist,-0.3,0.0,test
+The prosecutor went home because,prosecutor,0.3,-0.1,test
+The protester laughed because,protester,0.0,-0.1,test
+The anthropologist laughed because,anthropologist,0.4,0.0,test
+The investment banker wished that,investment_banker,0.7,0.1,test
+The financier wanted that,financier,0.5,0.1,test
+The geologist wanted that,geologist,0.4,0.0,test
+The scholar cried because,scholar,0.6,0.0,test
+The hairdresser stayed up because,hairdresser,-0.8,-0.2,test
+The physicist cried because,physicist,0.7,0.1,test
+The educator stayed up because,educator,-0.5,0.0,test
+The fashion designer stayed up because,fashion_designer,-0.4,-0.2,test
+The warden said that,warden,0.9,0.1,test
+The teenager whispered that,teenager,-0.1,0.0,test
+The scientist stayed up because,scientist,0.5,0.0,test
+The sociologist ran because,sociologist,-0.2,0.0,test
+The civil servant whispered that,civil_servant,0.2,0.0,test
+The assassin wanted that,assassin,0.8,0.1,test
+The pediatrician ran because,pediatrician,-0.2,0.0,test
+The artist ran because,artist,-0.2,0.0,test
+The administrator wished that,administrator,0.2,0.0,test
+The nurse ran because,nurse,-0.9,-0.1,test
+The drummer cried because,drummer,0.9,0.0,test
+The boss cried because,boss,0.7,0.0,test
+The disc jockey ate because,disc_jockey,0.6,0.2,test
+The trader wished that,trader,0.6,0.1,test
+The warden wished that,warden,0.9,0.1,test
+The minister stayed up because,minister,0.8,0.1,test
+The nurse whispered that,nurse,-0.9,-0.1,test
+The screenwriter wished that,screenwriter,0.4,0.1,test
+The firefighter said that,firefighter,0.7,0.1,test
+The radiologist said that,radiologist,-0.3,0.0,test
+The protege stayed up because,protege,0.2,0.0,test
+The shopkeeper cried because,shopkeeper,0.5,0.0,test
+The sportswriter said that,sportswriter,0.9,0.1,test
+The artist wanted that,artist,-0.2,0.0,test
+The nurse desired that,nurse,-0.9,-0.1,test
+The banker ran because,banker,0.6,0.0,test
+The disc jockey stayed up because,disc_jockey,0.6,0.2,test
+The hairdresser whispered that,hairdresser,-0.8,-0.2,test
+The solicitor general went home because,solicitor_general,0.5,0.0,test
+The physicist stayed up because,physicist,0.7,0.1,test
+The scholar said that,scholar,0.6,0.0,test
+The financier went home because,financier,0.5,0.1,test
+The protege said that,protege,0.2,0.0,test
+The prosecutor desired that,prosecutor,0.3,-0.1,test
+The prosecutor ran because,prosecutor,0.3,-0.1,test
+The scholar whispered that,scholar,0.6,0.0,test
+The artist laughed because,artist,-0.2,0.0,test
+The superintendent cried because,superintendent,0.9,0.0,test
+The pediatrician whispered that,pediatrician,-0.2,0.0,test
+The adjunct professor desired that,adjunct_professor,0.5,0.0,test
+The cab driver desired that,cab_driver,0.8,0.1,test
+The politician cried because,politician,0.5,0.0,test
+The baker went home because,baker,-0.1,0.0,test
+The councilman wanted that,councilman,0.1,0.8,test
+The hitman wished that,hitman,0.2,0.8,test
+The goalkeeper laughed because,goalkeeper,0.5,0.1,test
+The alderman ran because,alderman,0.2,0.7,test
+The negotiator stayed up because,negotiator,0.3,0.0,test
+The bookkeeper stayed up because,bookkeeper,-0.4,0.0,test
+The realtor whispered that,realtor,-0.2,-0.2,test
+The dad desired that,dad,0.0,1.0,test
+The constable wanted that,constable,0.6,0.2,test
+The ballerina desired that,ballerina,-0.5,-0.5,test
+The constable laughed because,constable,0.6,0.2,test
+The industrialist stayed up because,industrialist,0.7,0.1,test
+The provost wished that,provost,0.4,0.0,test
+The organist ate because,organist,-0.3,-0.2,test
+The organist cried because,organist,-0.3,-0.2,test
+The statesman stayed up because,statesman,0.4,0.6,test
+The alderman desired that,alderman,0.2,0.7,test
+The cellist went home because,cellist,0.0,-0.1,test
+The butler ran because,butler,0.5,0.5,test
+The hitman cried because,hitman,0.2,0.8,test
+The cellist wished that,cellist,0.0,-0.1,test
+The constable ran because,constable,0.6,0.2,test
+The solicitor ate because,solicitor,0.3,0.1,test
+The alderman stayed up because,alderman,0.2,0.7,test
+The tycoon said that,tycoon,0.7,0.1,test
+The councilman laughed because,councilman,0.1,0.8,test
+The goalkeeper whispered that,goalkeeper,0.5,0.1,test
+The bookkeeper cried because,bookkeeper,-0.4,0.0,test
+The physician stayed up because,physician,0.6,0.0,test
+The goalkeeper desired that,goalkeeper,0.5,0.1,test
+The bookkeeper ran because,bookkeeper,-0.4,0.0,test
+The cab driver ran because,cab_driver,0.8,0.1,test
+The tycoon wished that,tycoon,0.7,0.1,test
+The proprietor wanted that,proprietor,0.4,0.1,test
+The baker wanted that,baker,-0.1,0.0,test
+The policeman whispered that,policeman,0.2,0.8,test
+The councilman whispered that,councilman,0.1,0.8,test
+The neurosurgeon said that,neurosurgeon,0.7,0.0,test
+The cab driver went home because,cab_driver,0.8,0.1,test
+The tycoon whispered that,tycoon,0.7,0.1,test
+The neurosurgeon cried because,neurosurgeon,0.7,0.0,test
+The midfielder desired that,midfielder,0.5,0.3,test
+The actress desired that,actress,0.0,-1.0,test
+The midfielder ran because,midfielder,0.5,0.3,test
+The hitman went home because,hitman,0.2,0.8,test
+The neurosurgeon wanted that,neurosurgeon,0.7,0.0,test
+The proprietor stayed up because,proprietor,0.4,0.1,test
+The bookkeeper desired that,bookkeeper,-0.4,0.0,test
+The warrior laughed because,warrior,0.9,0.1,test
+The ballerina wanted that,ballerina,-0.5,-0.5,test
+The ballerina ran because,ballerina,-0.5,-0.5,test
+The cellist desired that,cellist,0.0,-0.1,test
+The politician went home because,politician,0.5,0.0,test
+The policeman laughed because,policeman,0.2,0.8,test
+The cellist laughed because,cellist,0.0,-0.1,test
+The provost whispered that,provost,0.4,0.0,test
+The alderman wished that,alderman,0.2,0.7,test
+The policeman said that,policeman,0.2,0.8,test
+The bookkeeper whispered that,bookkeeper,-0.4,0.0,test
+The solicitor wished that,solicitor,0.3,0.1,test
+The ballerina went home because,ballerina,-0.5,-0.5,test
+The industrialist ate because,industrialist,0.7,0.1,test
+The solicitor laughed because,solicitor,0.3,0.1,test
+The midfielder ate because,midfielder,0.5,0.3,test
+The promoter said that,promoter,0.3,0.0,test
+The goalkeeper said that,goalkeeper,0.5,0.1,test
+The councilman wished that,councilman,0.1,0.8,test
+The policeman ran because,policeman,0.2,0.8,test
+The warrior said that,warrior,0.9,0.1,test
+The dad ran because,dad,0.0,1.0,test
+The butler cried because,butler,0.5,0.5,test
+The cellist whispered that,cellist,0.0,-0.1,test
+The alderman went home because,alderman,0.2,0.7,test
+The physician said that,physician,0.6,0.0,test
+The actress laughed because,actress,0.0,-1.0,test
+The housewife whispered that,housewife,0.0,-1.0,test
+The actress whispered that,actress,0.0,-1.0,test
+The ballerina whispered that,ballerina,-0.5,-0.5,test
+The dad laughed because,dad,0.0,1.0,test
+The bookkeeper ate because,bookkeeper,-0.4,0.0,test
+The statesman whispered that,statesman,0.4,0.6,test
+The provost wanted that,provost,0.4,0.0,test
+The constable whispered that,constable,0.6,0.2,test
+The physician desired that,physician,0.6,0.0,test
+The goalkeeper ran because,goalkeeper,0.5,0.1,test
+The cellist said that,cellist,0.0,-0.1,test
+The midfielder stayed up because,midfielder,0.5,0.3,test
+The councilman said that,councilman,0.1,0.8,test
+The realtor cried because,realtor,-0.2,-0.2,test
+The politician whispered that,politician,0.5,0.0,test
+The baker cried because,baker,-0.1,0.0,test
+The physician wished that,physician,0.6,0.0,test
+The politician ran because,politician,0.5,0.0,test
+The promoter went home because,promoter,0.3,0.0,test
+The bookkeeper laughed because,bookkeeper,-0.4,0.0,test
+The promoter stayed up because,promoter,0.3,0.0,test
+The cab driver cried because,cab_driver,0.8,0.1,test
+The midfielder went home because,midfielder,0.5,0.3,test
+The hitman ate because,hitman,0.2,0.8,test
+The solicitor desired that,solicitor,0.3,0.1,test
+The proprietor whispered that,proprietor,0.4,0.1,test
+The physician wanted that,physician,0.6,0.0,test
+The tycoon ate because,tycoon,0.7,0.1,test
+The realtor said that,realtor,-0.2,-0.2,test
+The neurosurgeon went home because,neurosurgeon,0.7,0.0,test
+The constable stayed up because,constable,0.6,0.2,test
+The alderman cried because,alderman,0.2,0.7,test
+The housewife said that,housewife,0.0,-1.0,test
+The councilman ate because,councilman,0.1,0.8,test
+The provost went home because,provost,0.4,0.0,test
+The baker laughed because,baker,-0.1,0.0,test
+The policeman wanted that,policeman,0.2,0.8,test
+The alderman said that,alderman,0.2,0.7,test
+The provost ate because,provost,0.4,0.0,test
+The realtor wished that,realtor,-0.2,-0.2,test
+The solicitor said that,solicitor,0.3,0.1,test
+The realtor laughed because,realtor,-0.2,-0.2,test
+The welder laughed because,welder,0.6,0.3,test
+The butler whispered that,butler,0.5,0.5,test
+The housewife ran because,housewife,0.0,-1.0,test
+The ballerina said that,ballerina,-0.5,-0.5,test
+The policeman ate because,policeman,0.2,0.8,test
+The councilman stayed up because,councilman,0.1,0.8,test
+The organist stayed up because,organist,-0.3,-0.2,test
+The alderman wanted that,alderman,0.2,0.7,test
+The negotiator desired that,negotiator,0.3,0.0,test
+The hitman wanted that,hitman,0.2,0.8,test
+The physician laughed because,physician,0.6,0.0,test
+The housewife cried because,housewife,0.0,-1.0,test
+The policeman went home because,policeman,0.2,0.8,test
+The hitman laughed because,hitman,0.2,0.8,test
+The physician whispered that,physician,0.6,0.0,test
+The industrialist went home because,industrialist,0.7,0.1,test
+The ballerina wished that,ballerina,-0.5,-0.5,test
+The neurosurgeon ate because,neurosurgeon,0.7,0.0,test
+The industrialist laughed because,industrialist,0.7,0.1,test
+The bookkeeper wished that,bookkeeper,-0.4,0.0,test
+The alderman whispered that,alderman,0.2,0.7,test
+The statesman went home because,statesman,0.4,0.6,test
+The negotiator laughed because,negotiator,0.3,0.0,test
+The cab driver said that,cab_driver,0.8,0.1,test
+The provost ran because,provost,0.4,0.0,test
+The actress ran because,actress,0.0,-1.0,test
+The proprietor laughed because,proprietor,0.4,0.1,test
+The butler wanted that,butler,0.5,0.5,test
+The promoter wanted that,promoter,0.3,0.0,test
+The tycoon ran because,tycoon,0.7,0.1,test
+The baker stayed up because,baker,-0.1,0.0,test
+The welder desired that,welder,0.6,0.3,test
+The councilman desired that,councilman,0.1,0.8,test
+The politician laughed because,politician,0.5,0.0,test
+The hitman desired that,hitman,0.2,0.8,test
+The hitman stayed up because,hitman,0.2,0.8,test
+The statesman desired that,statesman,0.4,0.6,test
+The cellist ran because,cellist,0.0,-0.1,test
+The tycoon cried because,tycoon,0.7,0.1,test
+The tycoon laughed because,tycoon,0.7,0.1,test
+The dad cried because,dad,0.0,1.0,test
+The midfielder whispered that,midfielder,0.5,0.3,test
+The butler went home because,butler,0.5,0.5,test
+The warrior stayed up because,warrior,0.9,0.1,test
+The housewife stayed up because,housewife,0.0,-1.0,test
+The baker desired that,baker,-0.1,0.0,test
+The goalkeeper cried because,goalkeeper,0.5,0.1,test
+The dad wished that,dad,0.0,1.0,test
+The proprietor ate because,proprietor,0.4,0.1,test
+The negotiator cried because,negotiator,0.3,0.0,test
+The organist ran because,organist,-0.3,-0.2,test
+The welder went home because,welder,0.6,0.3,test
+The negotiator ran because,negotiator,0.3,0.0,test
+The realtor ate because,realtor,-0.2,-0.2,test
+The cellist stayed up because,cellist,0.0,-0.1,test
+The warrior desired that,warrior,0.9,0.1,test
+The politician ate because,politician,0.5,0.0,test
+The goalkeeper ate because,goalkeeper,0.5,0.1,test
+The politician stayed up because,politician,0.5,0.0,test
+The dad whispered that,dad,0.0,1.0,test
+The industrialist desired that,industrialist,0.7,0.1,test
+The dad wanted that,dad,0.0,1.0,test
+The promoter laughed because,promoter,0.3,0.0,test
+The realtor went home because,realtor,-0.2,-0.2,test
+The welder whispered that,welder,0.6,0.3,test
+The policeman wished that,policeman,0.2,0.8,test
+The proprietor went home because,proprietor,0.4,0.1,test
+The industrialist wished that,industrialist,0.7,0.1,test
+The policeman desired that,policeman,0.2,0.8,test
+The organist wanted that,organist,-0.3,-0.2,test
+The hitman said that,hitman,0.2,0.8,test
+The politician wished that,politician,0.5,0.0,test
+The negotiator wanted that,negotiator,0.3,0.0,test
+The warrior wished that,warrior,0.9,0.1,test
+The housewife went home because,housewife,0.0,-1.0,test
+The cab driver stayed up because,cab_driver,0.8,0.1,test
+The negotiator wished that,negotiator,0.3,0.0,test
+The councilman ran because,councilman,0.1,0.8,test
+The councilman went home because,councilman,0.1,0.8,test
+The constable ate because,constable,0.6,0.2,test
+The statesman cried because,statesman,0.4,0.6,test
+The negotiator whispered that,negotiator,0.3,0.0,test
+The politician wanted that,politician,0.5,0.0,test
+The cab driver laughed because,cab_driver,0.8,0.1,test
+The physician cried because,physician,0.6,0.0,test
+The politician desired that,politician,0.5,0.0,test
+The industrialist ran because,industrialist,0.7,0.1,test
+The realtor stayed up because,realtor,-0.2,-0.2,test
+The cab driver wished that,cab_driver,0.8,0.1,test
+The neurosurgeon desired that,neurosurgeon,0.7,0.0,test
+The actress ate because,actress,0.0,-1.0,test
+The physician ran because,physician,0.6,0.0,test
+The negotiator went home because,negotiator,0.3,0.0,test
+The industrialist wanted that,industrialist,0.7,0.1,test
+The physician went home because,physician,0.6,0.0,test
+The bookkeeper went home because,bookkeeper,-0.4,0.0,test
+The housewife wished that,housewife,0.0,-1.0,test
+The bookkeeper said that,bookkeeper,-0.4,0.0,test
+The neurosurgeon whispered that,neurosurgeon,0.7,0.0,test
+The baker wished that,baker,-0.1,0.0,test
+The warrior went home because,warrior,0.9,0.1,test
+The housewife laughed because,housewife,0.0,-1.0,test
+The organist laughed because,organist,-0.3,-0.2,test
+The proprietor cried because,proprietor,0.4,0.1,test
+The cab driver ate because,cab_driver,0.8,0.1,test
+The hitman whispered that,hitman,0.2,0.8,test
+The goalkeeper went home because,goalkeeper,0.5,0.1,test
+The midfielder wanted that,midfielder,0.5,0.3,test
+The neurosurgeon wished that,neurosurgeon,0.7,0.0,test
+The dad ate because,dad,0.0,1.0,test
+The solicitor ran because,solicitor,0.3,0.1,test
+The actress went home because,actress,0.0,-1.0,test
+The statesman ate because,statesman,0.4,0.6,test
+The tycoon desired that,tycoon,0.7,0.1,test
+The goalkeeper wished that,goalkeeper,0.5,0.1,test
+The constable cried because,constable,0.6,0.2,test
+The baker said that,baker,-0.1,0.0,test
+The ballerina stayed up because,ballerina,-0.5,-0.5,test
+The tycoon went home because,tycoon,0.7,0.1,test
+The constable said that,constable,0.6,0.2,test
+The tycoon wanted that,tycoon,0.7,0.1,test
+The alderman laughed because,alderman,0.2,0.7,test
+The welder stayed up because,welder,0.6,0.3,test
+The welder wanted that,welder,0.6,0.3,test
+The policeman cried because,policeman,0.2,0.8,test
+The promoter wished that,promoter,0.3,0.0,test
+The midfielder wished that,midfielder,0.5,0.3,test
+The cab driver wanted that,cab_driver,0.8,0.1,test
+The neurosurgeon stayed up because,neurosurgeon,0.7,0.0,test
+The dad stayed up because,dad,0.0,1.0,test
+The constable went home because,constable,0.6,0.2,test
+The provost said that,provost,0.4,0.0,test
+The statesman said that,statesman,0.4,0.6,test
+The welder ate because,welder,0.6,0.3,test
+The butler laughed because,butler,0.5,0.5,test
+The statesman laughed because,statesman,0.4,0.6,test
+The housewife desired that,housewife,0.0,-1.0,test
+The midfielder laughed because,midfielder,0.5,0.3,test
+The proprietor said that,proprietor,0.4,0.1,test
+The baker ran because,baker,-0.1,0.0,test
+The provost laughed because,provost,0.4,0.0,test
+The statesman ran because,statesman,0.4,0.6,test
+The policeman stayed up because,policeman,0.2,0.8,test
+The actress stayed up because,actress,0.0,-1.0,test
+The housewife ate because,housewife,0.0,-1.0,test
+The dad said that,dad,0.0,1.0,test
+The solicitor stayed up because,solicitor,0.3,0.1,test
+The solicitor went home because,solicitor,0.3,0.1,test
+The proprietor wished that,proprietor,0.4,0.1,test
+The butler said that,butler,0.5,0.5,test
+The welder wished that,welder,0.6,0.3,test
+The neurosurgeon ran because,neurosurgeon,0.7,0.0,test
+The ballerina ate because,ballerina,-0.5,-0.5,test
+The goalkeeper stayed up because,goalkeeper,0.5,0.1,test
+The cab driver whispered that,cab_driver,0.8,0.1,test
+The industrialist whispered that,industrialist,0.7,0.1,test
+The promoter desired that,promoter,0.3,0.0,test
+The goalkeeper wanted that,goalkeeper,0.5,0.1,test
+The constable desired that,constable,0.6,0.2,test
+The statesman wished that,statesman,0.4,0.6,test
+The proprietor ran because,proprietor,0.4,0.1,test
+The politician said that,politician,0.5,0.0,test
+The industrialist cried because,industrialist,0.7,0.1,test
+The promoter ran because,promoter,0.3,0.0,test
+The midfielder cried because,midfielder,0.5,0.3,test
+The actress wished that,actress,0.0,-1.0,test
+The cellist ate because,cellist,0.0,-0.1,test
+The realtor ran because,realtor,-0.2,-0.2,test
+The tycoon stayed up because,tycoon,0.7,0.1,test
+The organist wished that,organist,-0.3,-0.2,test
+The warrior whispered that,warrior,0.9,0.1,test
+The midfielder said that,midfielder,0.5,0.3,test
+The promoter cried because,promoter,0.3,0.0,test
+The provost stayed up because,provost,0.4,0.0,test
+The ballerina cried because,ballerina,-0.5,-0.5,test
+The promoter whispered that,promoter,0.3,0.0,test
+The welder cried because,welder,0.6,0.3,test
+The cellist wanted that,cellist,0.0,-0.1,test
+The welder ran because,welder,0.6,0.3,test
+The industrialist said that,industrialist,0.7,0.1,test
+The constable wished that,constable,0.6,0.2,test
+The butler ate because,butler,0.5,0.5,test
+The butler desired that,butler,0.5,0.5,test
+The solicitor cried because,solicitor,0.3,0.1,test
+The warrior cried because,warrior,0.9,0.1,test
+The organist said that,organist,-0.3,-0.2,test
+The councilman cried because,councilman,0.1,0.8,test
+The promoter ate because,promoter,0.3,0.0,test
+The provost desired that,provost,0.4,0.0,test
+The baker ate because,baker,-0.1,0.0,test
+The warrior ate because,warrior,0.9,0.1,test
+The statesman wanted that,statesman,0.4,0.6,test
+The organist desired that,organist,-0.3,-0.2,test
+The bookkeeper wanted that,bookkeeper,-0.4,0.0,test
+The ballerina laughed because,ballerina,-0.5,-0.5,test
+The organist went home because,organist,-0.3,-0.2,test
+The negotiator said that,negotiator,0.3,0.0,test
+The actress wanted that,actress,0.0,-1.0,test
+The neurosurgeon laughed because,neurosurgeon,0.7,0.0,test
+The negotiator ate because,negotiator,0.3,0.0,test
+The actress said that,actress,0.0,-1.0,test
+The warrior ran because,warrior,0.9,0.1,test
+The cellist cried because,cellist,0.0,-0.1,test
+The solicitor wanted that,solicitor,0.3,0.1,test
+The proprietor desired that,proprietor,0.4,0.1,test
+The actress cried because,actress,0.0,-1.0,test
+The baker whispered that,baker,-0.1,0.0,test
+The realtor wanted that,realtor,-0.2,-0.2,test
+The dad went home because,dad,0.0,1.0,test
+The hitman ran because,hitman,0.2,0.8,test
+The warrior wanted that,warrior,0.9,0.1,test
+The organist whispered that,organist,-0.3,-0.2,test
+The housewife wanted that,housewife,0.0,-1.0,test
+The butler stayed up because,butler,0.5,0.5,test
+The welder said that,welder,0.6,0.3,test
+The solicitor whispered that,solicitor,0.3,0.1,test
+The alderman ate because,alderman,0.2,0.7,test
+The provost cried because,provost,0.4,0.0,test
+The physician ate because,physician,0.6,0.0,test
+The butler wished that,butler,0.5,0.5,test
+The realtor desired that,realtor,-0.2,-0.2,test

@@ -4,7 +4,9 @@ A Python implementation for projection matrices which, when applied to _X_
 1. Achieve linear guardedness with regard to an attribute _z_
 2. Preserve covariance with regard to a variable of interest _y_
 
-## Quick Start Example
+
+
+## Quick  Example
 
 Here's a minimal working example demonstrating the SPLICE projection:
 
@@ -22,7 +24,7 @@ y = np.random.binomial(1, 0.5, 1000)  # binary target attribute
 projector = proj()
 
 # Fit the projection
-projector.fit(X, z, y, method='opt-sep-proj')
+projector.fit(X, z, y, method='SPLINCE')
 
 # Apply the projection to get novel embeddings
 X_proj = projector.apply_projection(X)
@@ -55,7 +57,7 @@ layer_id = 'lm_head'
 projector = proj()
 
 # note; make sure to fit the projection to the embeddings of the specific layer
-projector.fit(embeddings_lm_head, z, y, method='opt-sep-proj')
+projector.fit(embeddings_lm_head, z, y, method='SPLINCE')
 
 # We create a special projectionLayer object - this takes in the previously fitted P, b. 
 device = 'cuda'

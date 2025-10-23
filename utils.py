@@ -273,6 +273,12 @@ def one_sided_ttest(coefficient, std_error, null_hypothesis=0, alternative='grea
 
 
 def get_se_coef(model, X, y):
+    
+    """_summary_
+
+    Returns:
+        _type_: _description_
+    """
 
    
     # get pred
